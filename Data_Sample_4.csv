@@ -1,0 +1,1827 @@
+transactiondate,sales_volume,stock_level,medication_name,pharmacy_location,state,price_per_unit,flu_cases,diarrhea_cases,injury_reports,season
+25-12-2019,137,166,Betadine,Jaipur,Rajasthan,71.97,11,8,7,Winter
+26-12-2019,128,128,Betadine,Delhi,Delhi,68.99,10,9,6,Winter
+27-12-2019,141,222,Betadine,Jaipur,Rajasthan,81.72,10,14,6,Winter
+28-12-2019,155,155,Betadine,Pune,Maharashtra,73.1,13,11,3,Winter
+29-12-2019,129,175,Betadine,Kolkata,West Bengal,67.99,5,9,6,Winter
+30-12-2019,130,167,Betadine,Kolkata,West Bengal,67.17,10,12,5,Winter
+31-12-2019,158,158,Betadine,Delhi,Delhi,65.57,8,12,6,Winter
+01-01-2020,147,175,Betadine,Kolkata,West Bengal,76.91,6,10,4,Winter
+02-01-2020,129,226,Betadine,Mumbai,Maharashtra,58.66,8,12,4,Winter
+03-01-2020,145,243,Betadine,Delhi,Delhi,72.77,10,12,5,Winter
+04-01-2020,130,165,Betadine,Jaipur,Rajasthan,69.78,9,12,5,Winter
+05-01-2020,131,131,Betadine,Pune,Maharashtra,82.2,12,9,5,Winter
+06-01-2020,143,197,Betadine,Chennai,Tamil Nadu,63.44,10,8,5,Winter
+07-01-2020,111,174,Betadine,Lucknow,Uttar Pradesh,64.09,10,7,5,Winter
+08-01-2020,115,192,Betadine,Chennai,Tamil Nadu,68.52,10,9,5,Winter
+09-01-2020,133,220,Betadine,Lucknow,Uttar Pradesh,70.61,11,10,5,Winter
+10-01-2020,127,167,Betadine,Pune,Maharashtra,68.25,10,10,4,Winter
+11-01-2020,147,147,Betadine,Mumbai,Maharashtra,73.4,9,10,6,Winter
+12-01-2020,130,165,Betadine,Kolkata,West Bengal,65.1,13,14,6,Winter
+13-01-2020,123,183,Betadine,Ahmedabad,Gujarat,72.39,10,10,4,Winter
+14-01-2020,167,178,Betadine,Jaipur,Rajasthan,64.99,10,10,7,Winter
+15-01-2020,142,200,Betadine,Mumbai,Maharashtra,73.27,12,7,5,Winter
+16-01-2020,147,147,Betadine,Ahmedabad,Gujarat,71.2,12,15,7,Winter
+17-01-2020,125,181,Betadine,Kolkata,West Bengal,76.48,10,8,6,Winter
+18-01-2020,139,145,Betadine,Hyderabad,Telangana,82.18,13,9,7,Winter
+19-01-2020,150,164,Betadine,Lucknow,Uttar Pradesh,73.14,13,12,6,Winter
+20-01-2020,131,131,Betadine,Bangalore,Karnataka,79.35,12,11,7,Winter
+21-01-2020,155,155,Betadine,Delhi,Delhi,74.02,11,13,7,Winter
+22-01-2020,141,192,Betadine,Ahmedabad,Gujarat,68.97,11,12,8,Winter
+23-01-2020,146,213,Betadine,Pune,Maharashtra,83.33,11,10,7,Winter
+24-01-2020,142,142,Betadine,Chennai,Tamil Nadu,76.8,10,12,7,Winter
+25-01-2020,179,179,Betadine,Pune,Maharashtra,79.42,12,12,5,Winter
+26-01-2020,152,152,Betadine,Pune,Maharashtra,79.24,14,9,4,Winter
+27-01-2020,137,222,Betadine,Hyderabad,Telangana,75.17,14,12,6,Winter
+28-01-2020,166,166,Betadine,Mumbai,Maharashtra,77.45,12,10,6,Winter
+29-01-2020,136,199,Betadine,Bangalore,Karnataka,67.17,14,10,6,Winter
+30-01-2020,158,215,Betadine,Jaipur,Rajasthan,75.45,16,10,6,Winter
+31-01-2020,126,134,Betadine,Pune,Maharashtra,75.72,12,9,7,Winter
+01-02-2020,136,136,Betadine,Lucknow,Uttar Pradesh,73.39,14,9,6,Winter
+02-02-2020,159,159,Betadine,Mumbai,Maharashtra,81.71,8,12,7,Winter
+03-02-2020,168,196,Betadine,Lucknow,Uttar Pradesh,80.52,10,7,7,Winter
+04-02-2020,160,160,Betadine,Kolkata,West Bengal,73.21,13,8,7,Winter
+05-02-2020,156,178,Betadine,Hyderabad,Telangana,70.6,11,11,8,Winter
+06-02-2020,154,254,Betadine,Kolkata,West Bengal,76.21,17,10,7,Winter
+07-02-2020,136,136,Betadine,Bangalore,Karnataka,71.98,14,12,6,Winter
+08-02-2020,148,237,Betadine,Lucknow,Uttar Pradesh,78.08,15,10,7,Winter
+09-02-2020,153,153,Betadine,Kolkata,West Bengal,73.41,13,7,8,Winter
+10-02-2020,176,176,Betadine,Pune,Maharashtra,77.12,11,10,6,Winter
+11-02-2020,166,166,Betadine,Lucknow,Uttar Pradesh,84.27,12,11,7,Winter
+12-02-2020,134,194,Betadine,Kolkata,West Bengal,75.54,14,10,6,Winter
+13-02-2020,166,166,Betadine,Jaipur,Rajasthan,75.69,12,9,6,Winter
+14-02-2020,156,228,Betadine,Kolkata,West Bengal,77.89,15,9,6,Winter
+15-02-2020,152,229,Betadine,Pune,Maharashtra,84.29,15,8,6,Winter
+16-02-2020,172,172,Betadine,Ahmedabad,Gujarat,81.47,13,7,8,Winter
+17-02-2020,178,226,Betadine,Pune,Maharashtra,83.96,10,6,6,Winter
+18-02-2020,177,211,Betadine,Hyderabad,Telangana,77.24,17,10,5,Winter
+19-02-2020,151,151,Betadine,Lucknow,Uttar Pradesh,82.73,13,7,6,Winter
+20-02-2020,160,221,Betadine,Pune,Maharashtra,90.39,19,10,7,Winter
+21-02-2020,170,170,Betadine,Delhi,Delhi,76.24,15,8,8,Winter
+22-02-2020,180,249,Betadine,Chennai,Tamil Nadu,75.69,13,6,5,Winter
+23-02-2020,158,249,Betadine,Delhi,Delhi,79.68,15,8,7,Winter
+24-02-2020,163,180,Betadine,Kolkata,West Bengal,83.78,10,13,8,Winter
+25-02-2020,150,199,Betadine,Hyderabad,Telangana,77.14,16,9,5,Winter
+26-02-2020,149,158,Betadine,Hyderabad,Telangana,72.33,19,10,6,Winter
+27-02-2020,179,212,Betadine,Kolkata,West Bengal,81.26,10,9,5,Winter
+28-02-2020,188,287,Betadine,Lucknow,Uttar Pradesh,85.99,13,6,8,Winter
+29-02-2020,167,214,Betadine,Bangalore,Karnataka,78.16,14,12,4,Winter
+01-03-2020,183,183,Betadine,Jaipur,Rajasthan,85.44,16,8,6,Summer
+02-03-2020,174,256,Betadine,Ahmedabad,Gujarat,87.02,18,6,7,Summer
+03-03-2020,159,159,Betadine,Kolkata,West Bengal,80.4,15,8,5,Summer
+04-03-2020,174,263,Betadine,Mumbai,Maharashtra,81.26,18,8,5,Summer
+05-03-2020,192,192,Betadine,Delhi,Delhi,87.95,15,10,6,Summer
+06-03-2020,169,169,Betadine,Delhi,Delhi,76.52,15,7,8,Summer
+07-03-2020,194,273,Betadine,Chennai,Tamil Nadu,79.23,15,14,5,Summer
+08-03-2020,131,165,Betadine,Hyderabad,Telangana,74.47,17,7,5,Summer
+09-03-2020,183,183,Betadine,Pune,Maharashtra,80.14,13,10,4,Summer
+10-03-2020,172,172,Betadine,Kolkata,West Bengal,77.18,16,4,6,Summer
+11-03-2020,167,167,Betadine,Ahmedabad,Gujarat,89.75,12,8,6,Summer
+12-03-2020,173,203,Betadine,Pune,Maharashtra,92.26,14,9,5,Summer
+13-03-2020,142,142,Betadine,Pune,Maharashtra,75.43,13,6,6,Summer
+14-03-2020,169,265,Betadine,Lucknow,Uttar Pradesh,81.26,15,11,5,Summer
+15-03-2020,178,257,Betadine,Mumbai,Maharashtra,81.06,14,9,3,Summer
+16-03-2020,195,195,Betadine,Hyderabad,Telangana,89.94,17,7,6,Summer
+17-03-2020,165,198,Betadine,Jaipur,Rajasthan,86.93,13,9,7,Summer
+18-03-2020,161,194,Betadine,Delhi,Delhi,70.91,11,7,4,Summer
+19-03-2020,166,216,Betadine,Delhi,Delhi,82.98,12,10,5,Summer
+20-03-2020,188,190,Betadine,Hyderabad,Telangana,76.87,16,10,6,Summer
+21-03-2020,179,214,Betadine,Jaipur,Rajasthan,90.99,13,8,5,Summer
+22-03-2020,167,194,Betadine,Ahmedabad,Gujarat,82.8,15,9,3,Summer
+23-03-2020,183,213,Betadine,Hyderabad,Telangana,78.48,14,5,5,Summer
+24-03-2020,177,184,Betadine,Hyderabad,Telangana,80.59,16,10,6,Summer
+25-03-2020,190,190,Betadine,Hyderabad,Telangana,82.16,14,7,4,Summer
+26-03-2020,165,238,Betadine,Chennai,Tamil Nadu,83.03,20,10,5,Summer
+27-03-2020,171,250,Betadine,Lucknow,Uttar Pradesh,86.41,18,9,3,Summer
+28-03-2020,170,190,Betadine,Chennai,Tamil Nadu,75.26,14,9,4,Summer
+29-03-2020,155,171,Betadine,Pune,Maharashtra,87.99,14,5,5,Summer
+30-03-2020,181,228,Betadine,Lucknow,Uttar Pradesh,90.43,21,5,4,Summer
+31-03-2020,181,207,Betadine,Lucknow,Uttar Pradesh,78.02,12,12,4,Summer
+01-04-2020,178,192,Betadine,Hyderabad,Telangana,82.16,14,4,4,Summer
+02-04-2020,174,174,Betadine,Ahmedabad,Gujarat,89.95,15,5,5,Summer
+03-04-2020,157,157,Betadine,Hyderabad,Telangana,85.16,14,7,5,Summer
+04-04-2020,172,235,Betadine,Kolkata,West Bengal,79.32,11,7,3,Summer
+05-04-2020,174,223,Betadine,Mumbai,Maharashtra,85.07,15,6,3,Summer
+06-04-2020,167,237,Betadine,Delhi,Delhi,95.19,12,8,6,Summer
+07-04-2020,177,177,Betadine,Bangalore,Karnataka,81.93,17,9,4,Summer
+08-04-2020,186,186,Betadine,Chennai,Tamil Nadu,79.44,11,7,3,Summer
+09-04-2020,208,208,Betadine,Hyderabad,Telangana,86.26,14,6,2,Summer
+10-04-2020,183,261,Betadine,Bangalore,Karnataka,83.23,10,7,2,Summer
+11-04-2020,184,203,Betadine,Delhi,Delhi,79.58,10,6,3,Summer
+12-04-2020,180,180,Betadine,Kolkata,West Bengal,83.61,13,3,4,Summer
+13-04-2020,152,213,Betadine,Delhi,Delhi,71.53,13,7,3,Summer
+14-04-2020,181,200,Betadine,Kolkata,West Bengal,78.07,17,8,3,Summer
+15-04-2020,182,229,Betadine,Kolkata,West Bengal,85.39,14,6,2,Summer
+16-04-2020,219,263,Betadine,Ahmedabad,Gujarat,77.63,17,2,4,Summer
+17-04-2020,179,179,Betadine,Lucknow,Uttar Pradesh,85.52,13,5,2,Summer
+18-04-2020,187,198,Betadine,Bangalore,Karnataka,71.94,15,8,3,Summer
+19-04-2020,182,232,Betadine,Kolkata,West Bengal,72.54,13,3,2,Summer
+20-04-2020,166,166,Betadine,Lucknow,Uttar Pradesh,76.51,12,8,3,Summer
+21-04-2020,201,297,Betadine,Kolkata,West Bengal,85.03,10,5,2,Summer
+22-04-2020,195,222,Betadine,Pune,Maharashtra,89.23,15,6,3,Summer
+23-04-2020,196,280,Betadine,Mumbai,Maharashtra,82.89,14,5,2,Summer
+24-04-2020,171,236,Betadine,Kolkata,West Bengal,77.97,15,4,3,Summer
+25-04-2020,206,305,Betadine,Bangalore,Karnataka,86.7,14,9,3,Summer
+26-04-2020,164,253,Betadine,Jaipur,Rajasthan,73.65,18,8,3,Summer
+27-04-2020,194,283,Betadine,Jaipur,Rajasthan,82.7,14,7,3,Summer
+28-04-2020,219,219,Betadine,Jaipur,Rajasthan,79.2,16,8,2,Summer
+29-04-2020,171,176,Betadine,Kolkata,West Bengal,79.21,13,7,3,Summer
+30-04-2020,178,178,Betadine,Ahmedabad,Gujarat,78.75,12,8,2,Summer
+01-05-2020,188,188,Betadine,Kolkata,West Bengal,76.78,15,4,4,Summer
+02-05-2020,180,277,Betadine,Bangalore,Karnataka,80.23,13,8,2,Summer
+03-05-2020,164,263,Betadine,Delhi,Delhi,77.99,15,8,2,Summer
+04-05-2020,189,281,Betadine,Chennai,Tamil Nadu,86.28,14,6,2,Summer
+05-05-2020,172,219,Betadine,Hyderabad,Telangana,69.97,12,5,2,Summer
+06-05-2020,196,196,Betadine,Bangalore,Karnataka,80.62,15,3,5,Summer
+07-05-2020,175,175,Betadine,Ahmedabad,Gujarat,74.4,11,6,3,Summer
+08-05-2020,213,254,Betadine,Hyderabad,Telangana,87.35,14,9,3,Summer
+09-05-2020,178,228,Betadine,Lucknow,Uttar Pradesh,81.97,16,3,2,Summer
+10-05-2020,185,185,Betadine,Chennai,Tamil Nadu,81.54,12,7,4,Summer
+11-05-2020,203,234,Betadine,Jaipur,Rajasthan,77.68,15,4,2,Summer
+12-05-2020,172,179,Betadine,Kolkata,West Bengal,81.43,14,5,3,Summer
+13-05-2020,195,285,Betadine,Lucknow,Uttar Pradesh,72.15,15,3,5,Summer
+14-05-2020,211,214,Betadine,Hyderabad,Telangana,73.12,11,4,2,Summer
+15-05-2020,168,214,Betadine,Kolkata,West Bengal,69.62,13,6,3,Summer
+16-05-2020,195,195,Betadine,Hyderabad,Telangana,79.23,10,7,3,Summer
+17-05-2020,197,197,Betadine,Kolkata,West Bengal,82.78,16,6,3,Summer
+18-05-2020,205,205,Betadine,Jaipur,Rajasthan,65.52,8,4,2,Summer
+19-05-2020,175,193,Betadine,Chennai,Tamil Nadu,82.81,12,3,2,Summer
+20-05-2020,175,240,Betadine,Mumbai,Maharashtra,76.66,11,5,3,Summer
+21-05-2020,203,273,Betadine,Mumbai,Maharashtra,71.56,14,4,2,Summer
+22-05-2020,200,202,Betadine,Mumbai,Maharashtra,79.5,16,5,0,Summer
+23-05-2020,200,223,Betadine,Mumbai,Maharashtra,84.26,13,4,2,Summer
+24-05-2020,202,297,Betadine,Chennai,Tamil Nadu,81.8,18,4,2,Summer
+25-05-2020,187,247,Betadine,Delhi,Delhi,82.1,9,5,2,Summer
+26-05-2020,201,201,Betadine,Jaipur,Rajasthan,71.37,9,6,3,Summer
+27-05-2020,202,240,Betadine,Chennai,Tamil Nadu,76.13,10,7,2,Summer
+28-05-2020,188,249,Betadine,Lucknow,Uttar Pradesh,71.58,12,4,3,Summer
+29-05-2020,227,227,Betadine,Kolkata,West Bengal,89.79,10,6,5,Summer
+30-05-2020,207,236,Betadine,Pune,Maharashtra,81.4,10,8,4,Summer
+31-05-2020,182,183,Betadine,Ahmedabad,Gujarat,89.04,13,6,4,Summer
+01-06-2020,210,210,Betadine,Delhi,Delhi,76.06,9,7,5,Summer
+02-06-2020,186,245,Betadine,Jaipur,Rajasthan,71.38,9,3,3,Summer
+03-06-2020,213,213,Betadine,Kolkata,West Bengal,77.69,11,3,3,Summer
+04-06-2020,220,317,Betadine,Jaipur,Rajasthan,85.89,11,4,2,Summer
+05-06-2020,190,288,Betadine,Lucknow,Uttar Pradesh,72.97,13,5,5,Summer
+06-06-2020,218,218,Betadine,Lucknow,Uttar Pradesh,78.82,9,7,5,Summer
+07-06-2020,210,303,Betadine,Kolkata,West Bengal,77.48,10,3,4,Summer
+08-06-2020,217,311,Betadine,Bangalore,Karnataka,77.8,12,4,5,Summer
+09-06-2020,234,306,Betadine,Hyderabad,Telangana,76.34,12,7,1,Summer
+10-06-2020,202,202,Betadine,Hyderabad,Telangana,74.51,14,5,6,Summer
+11-06-2020,195,195,Betadine,Delhi,Delhi,73.1,12,5,4,Summer
+12-06-2020,194,280,Betadine,Hyderabad,Telangana,73.56,11,5,6,Summer
+13-06-2020,195,281,Betadine,Hyderabad,Telangana,78.32,12,2,6,Summer
+14-06-2020,207,305,Betadine,Lucknow,Uttar Pradesh,83.8,10,2,5,Summer
+15-06-2020,214,214,Betadine,Hyderabad,Telangana,71.4,10,1,4,Summer
+16-06-2020,214,214,Betadine,Kolkata,West Bengal,73.44,7,5,4,Summer
+17-06-2020,223,264,Betadine,Hyderabad,Telangana,72.27,12,6,2,Summer
+18-06-2020,211,211,Betadine,Chennai,Tamil Nadu,75.54,10,6,5,Summer
+19-06-2020,233,277,Betadine,Delhi,Delhi,74.51,12,7,2,Summer
+20-06-2020,208,269,Betadine,Chennai,Tamil Nadu,75,4,7,4,Summer
+21-06-2020,254,320,Betadine,Pune,Maharashtra,85.12,10,5,6,Summer
+22-06-2020,223,259,Betadine,Ahmedabad,Gujarat,62.57,8,4,5,Summer
+23-06-2020,202,256,Betadine,Kolkata,West Bengal,74.46,13,7,3,Summer
+24-06-2020,199,251,Betadine,Lucknow,Uttar Pradesh,69.1,11,3,3,Summer
+25-06-2020,223,223,Betadine,Chennai,Tamil Nadu,76.7,10,2,4,Summer
+26-06-2020,213,241,Betadine,Chennai,Tamil Nadu,68.32,9,4,5,Summer
+27-06-2020,228,228,Betadine,Mumbai,Maharashtra,80.58,10,4,6,Summer
+28-06-2020,225,264,Betadine,Hyderabad,Telangana,78.57,7,5,6,Summer
+29-06-2020,218,313,Betadine,Delhi,Delhi,75.64,9,3,4,Summer
+30-06-2020,207,207,Betadine,Chennai,Tamil Nadu,74.97,8,5,6,Summer
+01-07-2020,198,208,Betadine,Chennai,Tamil Nadu,65.87,13,3,6,Monsoon
+02-07-2020,215,225,Betadine,Lucknow,Uttar Pradesh,68.5,12,7,6,Monsoon
+03-07-2020,235,235,Betadine,Pune,Maharashtra,77.76,11,2,8,Monsoon
+04-07-2020,226,226,Betadine,Pune,Maharashtra,68.76,6,4,6,Monsoon
+05-07-2020,205,205,Betadine,Mumbai,Maharashtra,76.63,10,4,6,Monsoon
+06-07-2020,227,318,Betadine,Bangalore,Karnataka,70.58,9,5,7,Monsoon
+07-07-2020,231,231,Betadine,Delhi,Delhi,74.91,11,6,6,Monsoon
+08-07-2020,213,213,Betadine,Bangalore,Karnataka,80.3,9,5,5,Monsoon
+09-07-2020,230,271,Betadine,Jaipur,Rajasthan,68.07,8,4,7,Monsoon
+10-07-2020,229,255,Betadine,Chennai,Tamil Nadu,71.74,9,6,5,Monsoon
+11-07-2020,212,215,Betadine,Jaipur,Rajasthan,74.07,4,6,5,Monsoon
+12-07-2020,235,310,Betadine,Chennai,Tamil Nadu,76.36,6,5,5,Monsoon
+13-07-2020,239,239,Betadine,Bangalore,Karnataka,70.36,9,5,7,Monsoon
+14-07-2020,248,298,Betadine,Hyderabad,Telangana,70.22,10,6,7,Monsoon
+15-07-2020,249,304,Betadine,Lucknow,Uttar Pradesh,71.43,7,1,7,Monsoon
+16-07-2020,213,254,Betadine,Delhi,Delhi,74.84,8,4,7,Monsoon
+17-07-2020,221,221,Betadine,Ahmedabad,Gujarat,67,4,5,6,Monsoon
+18-07-2020,243,260,Betadine,Ahmedabad,Gujarat,71.59,10,4,6,Monsoon
+19-07-2020,244,244,Betadine,Chennai,Tamil Nadu,68.87,10,4,7,Monsoon
+20-07-2020,245,250,Betadine,Bangalore,Karnataka,74.33,9,6,6,Monsoon
+21-07-2020,296,296,Betadine,Kolkata,West Bengal,78.18,8,6,5,Monsoon
+22-07-2020,248,248,Betadine,Chennai,Tamil Nadu,65.58,10,6,6,Monsoon
+23-07-2020,258,258,Betadine,Chennai,Tamil Nadu,66.76,6,3,7,Monsoon
+24-07-2020,256,256,Betadine,Jaipur,Rajasthan,61.21,5,2,6,Monsoon
+25-07-2020,252,343,Betadine,Jaipur,Rajasthan,66.24,9,7,8,Monsoon
+26-07-2020,239,267,Betadine,Ahmedabad,Gujarat,72.37,9,3,7,Monsoon
+27-07-2020,256,256,Betadine,Kolkata,West Bengal,77.02,4,3,6,Monsoon
+28-07-2020,234,234,Betadine,Pune,Maharashtra,70.63,6,3,6,Monsoon
+29-07-2020,243,310,Betadine,Pune,Maharashtra,70.97,10,7,7,Monsoon
+30-07-2020,240,240,Betadine,Lucknow,Uttar Pradesh,66.97,7,5,5,Monsoon
+31-07-2020,250,347,Betadine,Kolkata,West Bengal,72.47,8,6,7,Monsoon
+01-08-2020,285,285,Betadine,Kolkata,West Bengal,74.43,4,6,6,Monsoon
+02-08-2020,223,322,Betadine,Hyderabad,Telangana,73.42,8,5,7,Monsoon
+03-08-2020,262,262,Betadine,Ahmedabad,Gujarat,68.91,4,7,7,Monsoon
+04-08-2020,229,238,Betadine,Bangalore,Karnataka,71.52,2,3,5,Monsoon
+05-08-2020,247,268,Betadine,Mumbai,Maharashtra,71.17,8,3,5,Monsoon
+06-08-2020,272,275,Betadine,Hyderabad,Telangana,73.48,9,3,6,Monsoon
+07-08-2020,257,257,Betadine,Hyderabad,Telangana,57.74,6,6,7,Monsoon
+08-08-2020,241,241,Betadine,Mumbai,Maharashtra,70.05,5,6,7,Monsoon
+09-08-2020,248,297,Betadine,Jaipur,Rajasthan,65.36,9,4,6,Monsoon
+10-08-2020,270,270,Betadine,Bangalore,Karnataka,66.38,6,5,8,Monsoon
+11-08-2020,250,250,Betadine,Kolkata,West Bengal,58.39,6,8,8,Monsoon
+12-08-2020,265,265,Betadine,Kolkata,West Bengal,67.57,9,4,7,Monsoon
+13-08-2020,264,287,Betadine,Ahmedabad,Gujarat,67.37,5,6,6,Monsoon
+14-08-2020,255,255,Betadine,Mumbai,Maharashtra,59.08,4,4,7,Monsoon
+15-08-2020,298,389,Betadine,Pune,Maharashtra,63.83,7,8,7,Monsoon
+16-08-2020,276,364,Betadine,Mumbai,Maharashtra,70.43,4,7,6,Monsoon
+17-08-2020,237,277,Betadine,Pune,Maharashtra,66.96,5,3,6,Monsoon
+18-08-2020,272,272,Betadine,Chennai,Tamil Nadu,67.95,3,5,5,Monsoon
+19-08-2020,260,345,Betadine,Lucknow,Uttar Pradesh,70.95,6,2,6,Monsoon
+20-08-2020,284,284,Betadine,Chennai,Tamil Nadu,67.77,6,8,5,Monsoon
+21-08-2020,261,313,Betadine,Jaipur,Rajasthan,64.53,7,10,7,Monsoon
+22-08-2020,272,299,Betadine,Pune,Maharashtra,61.41,7,2,6,Monsoon
+23-08-2020,283,379,Betadine,Mumbai,Maharashtra,59.4,6,3,5,Monsoon
+24-08-2020,289,297,Betadine,Hyderabad,Telangana,77.07,6,6,7,Monsoon
+25-08-2020,259,259,Betadine,Lucknow,Uttar Pradesh,69.26,5,6,6,Monsoon
+26-08-2020,274,328,Betadine,Kolkata,West Bengal,58.44,6,5,7,Monsoon
+27-08-2020,273,273,Betadine,Lucknow,Uttar Pradesh,65.78,3,3,6,Monsoon
+28-08-2020,271,276,Betadine,Bangalore,Karnataka,64.1,0,7,5,Monsoon
+29-08-2020,309,340,Betadine,Ahmedabad,Gujarat,68.03,7,8,5,Monsoon
+30-08-2020,290,304,Betadine,Ahmedabad,Gujarat,64.55,6,12,5,Monsoon
+31-08-2020,266,270,Betadine,Hyderabad,Telangana,65.11,5,9,6,Monsoon
+01-09-2020,300,304,Betadine,Mumbai,Maharashtra,71.69,7,4,7,Winter
+02-09-2020,319,401,Betadine,Hyderabad,Telangana,71.81,3,6,4,Winter
+03-09-2020,304,304,Betadine,Kolkata,West Bengal,67,3,8,5,Winter
+04-09-2020,267,284,Betadine,Kolkata,West Bengal,61.81,3,5,7,Winter
+05-09-2020,284,296,Betadine,Kolkata,West Bengal,69.28,6,8,4,Winter
+06-09-2020,311,388,Betadine,Hyderabad,Telangana,70.32,2,8,5,Winter
+07-09-2020,283,346,Betadine,Hyderabad,Telangana,64.36,3,9,5,Winter
+08-09-2020,302,336,Betadine,Bangalore,Karnataka,66.22,5,8,6,Winter
+09-09-2020,308,308,Betadine,Ahmedabad,Gujarat,68.73,2,7,6,Winter
+10-09-2020,284,284,Betadine,Bangalore,Karnataka,61.26,3,6,6,Winter
+11-09-2020,298,320,Betadine,Kolkata,West Bengal,69.31,0,4,6,Winter
+12-09-2020,251,316,Betadine,Bangalore,Karnataka,53.42,6,7,5,Winter
+13-09-2020,286,286,Betadine,Lucknow,Uttar Pradesh,61.14,3,6,7,Winter
+14-09-2020,299,367,Betadine,Kolkata,West Bengal,67.86,2,6,4,Winter
+15-09-2020,285,288,Betadine,Delhi,Delhi,57.14,2,9,2,Winter
+16-09-2020,330,332,Betadine,Jaipur,Rajasthan,60.73,4,10,3,Winter
+17-09-2020,285,285,Betadine,Lucknow,Uttar Pradesh,62.72,1,5,5,Winter
+18-09-2020,301,363,Betadine,Hyderabad,Telangana,55.92,8,7,4,Winter
+19-09-2020,311,397,Betadine,Mumbai,Maharashtra,59.11,0,6,4,Winter
+20-09-2020,332,353,Betadine,Hyderabad,Telangana,71.98,4,8,5,Winter
+21-09-2020,290,309,Betadine,Delhi,Delhi,61.38,5,3,6,Winter
+22-09-2020,331,385,Betadine,Chennai,Tamil Nadu,74.03,3,4,5,Winter
+23-09-2020,315,381,Betadine,Lucknow,Uttar Pradesh,59.38,5,7,5,Winter
+24-09-2020,301,301,Betadine,Chennai,Tamil Nadu,62.93,3,9,3,Winter
+25-09-2020,324,387,Betadine,Chennai,Tamil Nadu,68.4,8,8,4,Winter
+26-09-2020,321,421,Betadine,Chennai,Tamil Nadu,59.95,2,9,5,Winter
+27-09-2020,311,358,Betadine,Mumbai,Maharashtra,69.36,0,8,4,Winter
+28-09-2020,322,420,Betadine,Bangalore,Karnataka,68.15,2,10,4,Winter
+29-09-2020,317,386,Betadine,Hyderabad,Telangana,56.75,5,11,4,Winter
+30-09-2020,325,343,Betadine,Delhi,Delhi,65.61,4,6,4,Winter
+01-10-2020,335,345,Betadine,Mumbai,Maharashtra,68.93,6,10,5,Winter
+02-10-2020,350,431,Betadine,Lucknow,Uttar Pradesh,65.85,6,9,3,Winter
+03-10-2020,309,309,Betadine,Pune,Maharashtra,55.8,3,13,3,Winter
+04-10-2020,361,434,Betadine,Delhi,Delhi,71.39,4,6,2,Winter
+05-10-2020,301,381,Betadine,Mumbai,Maharashtra,72.86,4,8,4,Winter
+06-10-2020,329,361,Betadine,Pune,Maharashtra,63.67,8,6,3,Winter
+07-10-2020,342,382,Betadine,Kolkata,West Bengal,74.85,6,6,5,Winter
+08-10-2020,338,433,Betadine,Hyderabad,Telangana,62.84,8,9,4,Winter
+09-10-2020,326,351,Betadine,Jaipur,Rajasthan,65.88,6,9,3,Winter
+10-10-2020,334,380,Betadine,Hyderabad,Telangana,69.46,5,9,2,Winter
+11-10-2020,331,383,Betadine,Ahmedabad,Gujarat,65.16,3,9,4,Winter
+12-10-2020,331,399,Betadine,Delhi,Delhi,63.51,5,8,3,Winter
+13-10-2020,353,366,Betadine,Lucknow,Uttar Pradesh,71.63,5,8,3,Winter
+14-10-2020,347,396,Betadine,Bangalore,Karnataka,76.46,5,7,4,Winter
+15-10-2020,333,402,Betadine,Bangalore,Karnataka,66.5,4,7,3,Winter
+16-10-2020,358,403,Betadine,Delhi,Delhi,65.82,1,9,2,Winter
+17-10-2020,350,350,Betadine,Ahmedabad,Gujarat,66.25,7,9,3,Winter
+18-10-2020,359,417,Betadine,Chennai,Tamil Nadu,81,5,10,4,Winter
+19-10-2020,358,376,Betadine,Ahmedabad,Gujarat,68.67,2,10,3,Winter
+20-10-2020,337,337,Betadine,Chennai,Tamil Nadu,62.23,6,12,3,Winter
+21-10-2020,343,382,Betadine,Hyderabad,Telangana,60.07,3,7,3,Winter
+22-10-2020,364,382,Betadine,Lucknow,Uttar Pradesh,59.47,6,8,2,Winter
+23-10-2020,363,363,Betadine,Bangalore,Karnataka,70.22,7,7,2,Winter
+24-10-2020,355,455,Betadine,Jaipur,Rajasthan,70.47,7,12,5,Winter
+25-10-2020,358,358,Betadine,Chennai,Tamil Nadu,65.62,5,8,4,Winter
+26-10-2020,377,377,Betadine,Jaipur,Rajasthan,69.93,4,11,3,Winter
+27-10-2020,350,350,Betadine,Lucknow,Uttar Pradesh,60.55,4,12,3,Winter
+28-10-2020,368,398,Betadine,Lucknow,Uttar Pradesh,69.46,4,10,2,Winter
+29-10-2020,358,450,Betadine,Delhi,Delhi,69.81,5,10,2,Winter
+30-10-2020,359,449,Betadine,Jaipur,Rajasthan,64.92,5,9,1,Winter
+31-10-2020,380,380,Betadine,Lucknow,Uttar Pradesh,78.85,4,9,3,Winter
+01-11-2020,377,377,Betadine,Jaipur,Rajasthan,65.61,3,8,3,Winter
+02-11-2020,378,430,Betadine,Jaipur,Rajasthan,71.42,5,9,4,Winter
+03-11-2020,387,444,Betadine,Hyderabad,Telangana,75.24,5,13,2,Winter
+04-11-2020,369,369,Betadine,Delhi,Delhi,68.21,3,7,4,Winter
+05-11-2020,380,433,Betadine,Chennai,Tamil Nadu,69.26,7,10,3,Winter
+06-11-2020,366,377,Betadine,Bangalore,Karnataka,61.06,9,11,5,Winter
+07-11-2020,377,403,Betadine,Pune,Maharashtra,76.39,8,9,4,Winter
+08-11-2020,372,410,Betadine,Ahmedabad,Gujarat,68.15,5,10,4,Winter
+09-11-2020,376,376,Betadine,Kolkata,West Bengal,72.09,6,7,3,Winter
+10-11-2020,385,385,Betadine,Lucknow,Uttar Pradesh,73.96,9,12,2,Winter
+11-11-2020,365,373,Betadine,Delhi,Delhi,64.86,4,12,3,Winter
+12-11-2020,410,410,Betadine,Bangalore,Karnataka,73.01,8,10,5,Winter
+13-11-2020,364,364,Betadine,Hyderabad,Telangana,74.47,3,8,3,Winter
+14-11-2020,362,386,Betadine,Chennai,Tamil Nadu,62.01,10,11,2,Winter
+15-11-2020,399,399,Betadine,Lucknow,Uttar Pradesh,83.24,6,8,3,Winter
+16-11-2020,395,447,Betadine,Jaipur,Rajasthan,68.28,11,8,2,Winter
+17-11-2020,393,493,Betadine,Pune,Maharashtra,65.9,10,10,2,Winter
+18-11-2020,395,422,Betadine,Pune,Maharashtra,72.66,6,13,3,Winter
+19-11-2020,386,395,Betadine,Mumbai,Maharashtra,81.84,5,11,4,Winter
+20-11-2020,374,422,Betadine,Delhi,Delhi,59.65,7,9,2,Winter
+21-11-2020,390,466,Betadine,Pune,Maharashtra,70.69,6,7,2,Winter
+22-11-2020,380,380,Betadine,Delhi,Delhi,72.38,6,10,1,Winter
+23-11-2020,405,414,Betadine,Mumbai,Maharashtra,73.57,4,11,3,Winter
+24-11-2020,390,435,Betadine,Lucknow,Uttar Pradesh,73.31,6,10,1,Winter
+25-11-2020,381,420,Betadine,Ahmedabad,Gujarat,66.61,5,14,3,Winter
+26-11-2020,389,389,Betadine,Bangalore,Karnataka,68.4,8,10,3,Winter
+27-11-2020,401,460,Betadine,Delhi,Delhi,72.26,9,6,1,Winter
+28-11-2020,388,388,Betadine,Mumbai,Maharashtra,65.55,9,9,2,Winter
+29-11-2020,385,396,Betadine,Chennai,Tamil Nadu,70.58,8,11,3,Winter
+30-11-2020,402,471,Betadine,Delhi,Delhi,71.26,6,11,3,Winter
+01-12-2020,403,477,Betadine,Pune,Maharashtra,71.05,8,10,3,Winter
+02-12-2020,393,393,Betadine,Delhi,Delhi,73.6,9,10,4,Winter
+03-12-2020,394,420,Betadine,Chennai,Tamil Nadu,63.3,7,6,2,Winter
+04-12-2020,406,406,Betadine,Kolkata,West Bengal,72.65,8,10,4,Winter
+05-12-2020,382,382,Betadine,Kolkata,West Bengal,82.39,8,10,3,Winter
+06-12-2020,383,383,Betadine,Ahmedabad,Gujarat,65.57,11,11,3,Winter
+07-12-2020,395,458,Betadine,Pune,Maharashtra,79.03,10,11,2,Winter
+08-12-2020,403,403,Betadine,Lucknow,Uttar Pradesh,74.07,9,13,3,Winter
+09-12-2020,412,488,Betadine,Pune,Maharashtra,71.99,5,8,4,Winter
+10-12-2020,431,517,Betadine,Bangalore,Karnataka,70.8,9,8,4,Winter
+11-12-2020,422,457,Betadine,Delhi,Delhi,77.1,8,9,4,Winter
+12-12-2020,408,408,Betadine,Hyderabad,Telangana,81.87,8,9,4,Winter
+13-12-2020,411,483,Betadine,Jaipur,Rajasthan,73.05,5,9,4,Winter
+14-12-2020,397,397,Betadine,Lucknow,Uttar Pradesh,72.8,6,13,3,Winter
+15-12-2020,413,413,Betadine,Ahmedabad,Gujarat,80.45,9,11,4,Winter
+16-12-2020,410,410,Betadine,Bangalore,Karnataka,76.7,11,14,4,Winter
+17-12-2020,420,426,Betadine,Lucknow,Uttar Pradesh,68.74,8,10,3,Winter
+18-12-2020,404,493,Betadine,Bangalore,Karnataka,74.89,8,8,5,Winter
+19-12-2020,425,490,Betadine,Ahmedabad,Gujarat,84.76,13,9,3,Winter
+20-12-2020,441,441,Betadine,Mumbai,Maharashtra,79.22,9,13,5,Winter
+21-12-2020,417,417,Betadine,Delhi,Delhi,62.69,9,8,5,Winter
+22-12-2020,426,426,Betadine,Mumbai,Maharashtra,79.54,9,12,4,Winter
+23-12-2020,431,502,Betadine,Jaipur,Rajasthan,77.41,7,10,6,Winter
+24-12-2020,415,415,Betadine,Hyderabad,Telangana,67.25,11,9,4,Winter
+25-12-2020,426,448,Betadine,Ahmedabad,Gujarat,69.4,8,13,4,Winter
+26-12-2020,423,507,Betadine,Hyderabad,Telangana,82.48,10,9,4,Winter
+27-12-2020,425,425,Betadine,Chennai,Tamil Nadu,74.34,11,9,5,Winter
+28-12-2020,413,492,Betadine,Delhi,Delhi,71.86,14,10,4,Winter
+29-12-2020,426,444,Betadine,Mumbai,Maharashtra,78.02,7,9,4,Winter
+30-12-2020,434,464,Betadine,Bangalore,Karnataka,76.18,12,15,5,Winter
+31-12-2020,449,510,Betadine,Ahmedabad,Gujarat,81.9,12,13,5,Winter
+01-01-2021,442,482,Betadine,Mumbai,Maharashtra,79.59,9,9,7,Winter
+02-01-2021,461,483,Betadine,Delhi,Delhi,77.2,11,10,6,Winter
+03-01-2021,418,468,Betadine,Lucknow,Uttar Pradesh,75.04,14,6,6,Winter
+04-01-2021,443,452,Betadine,Chennai,Tamil Nadu,83.21,9,11,5,Winter
+05-01-2021,434,477,Betadine,Lucknow,Uttar Pradesh,80.01,11,9,5,Winter
+06-01-2021,465,465,Betadine,Chennai,Tamil Nadu,83.59,11,11,6,Winter
+07-01-2021,420,516,Betadine,Bangalore,Karnataka,87.89,12,6,5,Winter
+08-01-2021,421,449,Betadine,Jaipur,Rajasthan,82.06,12,10,5,Winter
+09-01-2021,425,490,Betadine,Chennai,Tamil Nadu,83.26,11,14,6,Winter
+10-01-2021,403,403,Betadine,Pune,Maharashtra,75.37,12,10,5,Winter
+11-01-2021,427,451,Betadine,Kolkata,West Bengal,80.7,9,9,5,Winter
+12-01-2021,425,425,Betadine,Hyderabad,Telangana,77.04,11,10,7,Winter
+13-01-2021,439,487,Betadine,Jaipur,Rajasthan,85.09,10,10,5,Winter
+14-01-2021,443,531,Betadine,Jaipur,Rajasthan,81.25,9,15,5,Winter
+15-01-2021,466,504,Betadine,Chennai,Tamil Nadu,86.11,10,10,7,Winter
+16-01-2021,453,463,Betadine,Ahmedabad,Gujarat,84.2,12,8,6,Winter
+17-01-2021,431,524,Betadine,Chennai,Tamil Nadu,80.51,12,10,8,Winter
+18-01-2021,427,527,Betadine,Delhi,Delhi,94.69,9,11,5,Winter
+19-01-2021,448,490,Betadine,Delhi,Delhi,79.67,10,11,6,Winter
+20-01-2021,422,455,Betadine,Pune,Maharashtra,76.22,13,12,7,Winter
+21-01-2021,469,494,Betadine,Kolkata,West Bengal,89.47,13,14,5,Winter
+22-01-2021,460,483,Betadine,Kolkata,West Bengal,82.02,14,9,8,Winter
+23-01-2021,436,460,Betadine,Bangalore,Karnataka,80.34,15,9,6,Winter
+24-01-2021,418,511,Betadine,Hyderabad,Telangana,73.97,13,6,7,Winter
+25-01-2021,465,488,Betadine,Pune,Maharashtra,88.26,11,11,6,Winter
+26-01-2021,443,462,Betadine,Bangalore,Karnataka,85.52,12,8,8,Winter
+27-01-2021,464,464,Betadine,Jaipur,Rajasthan,84.22,16,12,7,Winter
+28-01-2021,422,422,Betadine,Delhi,Delhi,83.97,18,9,9,Winter
+29-01-2021,438,488,Betadine,Lucknow,Uttar Pradesh,73.31,13,13,8,Winter
+30-01-2021,447,530,Betadine,Pune,Maharashtra,80.27,14,7,7,Winter
+31-01-2021,448,547,Betadine,Chennai,Tamil Nadu,83.35,14,12,6,Winter
+01-02-2021,442,442,Betadine,Lucknow,Uttar Pradesh,77.54,13,12,7,Winter
+02-02-2021,458,513,Betadine,Jaipur,Rajasthan,76.86,15,11,6,Winter
+03-02-2021,433,482,Betadine,Ahmedabad,Gujarat,80.86,15,8,7,Winter
+04-02-2021,448,500,Betadine,Jaipur,Rajasthan,87.87,14,11,7,Winter
+05-02-2021,452,519,Betadine,Delhi,Delhi,91.41,12,10,6,Winter
+06-02-2021,459,459,Betadine,Jaipur,Rajasthan,83.26,10,6,6,Winter
+07-02-2021,462,511,Betadine,Hyderabad,Telangana,90.27,14,13,6,Winter
+08-02-2021,435,452,Betadine,Bangalore,Karnataka,86.18,13,9,5,Winter
+09-02-2021,429,429,Betadine,Ahmedabad,Gujarat,88.49,12,13,7,Winter
+10-02-2021,472,472,Betadine,Mumbai,Maharashtra,86.25,11,9,7,Winter
+11-02-2021,458,458,Betadine,Lucknow,Uttar Pradesh,77.41,15,11,7,Winter
+12-02-2021,442,442,Betadine,Mumbai,Maharashtra,84.55,10,8,7,Winter
+13-02-2021,477,517,Betadine,Chennai,Tamil Nadu,83.93,14,10,5,Winter
+14-02-2021,456,488,Betadine,Chennai,Tamil Nadu,82.58,15,10,5,Winter
+15-02-2021,473,473,Betadine,Jaipur,Rajasthan,87.09,15,9,8,Winter
+16-02-2021,456,489,Betadine,Delhi,Delhi,84.71,13,8,7,Winter
+17-02-2021,487,508,Betadine,Kolkata,West Bengal,91.31,11,3,5,Winter
+18-02-2021,483,519,Betadine,Mumbai,Maharashtra,93.52,15,8,7,Winter
+19-02-2021,453,459,Betadine,Hyderabad,Telangana,84.36,16,11,5,Winter
+20-02-2021,472,541,Betadine,Lucknow,Uttar Pradesh,90.78,13,6,4,Winter
+21-02-2021,467,495,Betadine,Mumbai,Maharashtra,88.27,15,7,8,Winter
+22-02-2021,478,547,Betadine,Kolkata,West Bengal,94.48,17,6,6,Winter
+23-02-2021,444,444,Betadine,Jaipur,Rajasthan,84.26,15,9,6,Winter
+24-02-2021,469,504,Betadine,Delhi,Delhi,88.21,13,7,5,Winter
+25-02-2021,475,517,Betadine,Pune,Maharashtra,87.53,16,11,5,Winter
+26-02-2021,433,465,Betadine,Hyderabad,Telangana,82.99,12,10,4,Winter
+27-02-2021,442,510,Betadine,Jaipur,Rajasthan,81.28,11,9,7,Winter
+28-02-2021,430,483,Betadine,Chennai,Tamil Nadu,79.19,16,9,4,Winter
+01-03-2021,456,548,Betadine,Lucknow,Uttar Pradesh,91.08,13,7,7,Summer
+02-03-2021,472,520,Betadine,Jaipur,Rajasthan,83.78,13,7,5,Summer
+03-03-2021,484,497,Betadine,Ahmedabad,Gujarat,89.2,13,10,4,Summer
+04-03-2021,463,464,Betadine,Chennai,Tamil Nadu,93.08,13,10,5,Summer
+05-03-2021,486,488,Betadine,Hyderabad,Telangana,89.44,17,10,5,Summer
+06-03-2021,441,453,Betadine,Pune,Maharashtra,89.54,18,8,5,Summer
+07-03-2021,437,437,Betadine,Lucknow,Uttar Pradesh,81.84,18,8,4,Summer
+08-03-2021,462,462,Betadine,Bangalore,Karnataka,82.94,16,7,5,Summer
+09-03-2021,469,519,Betadine,Pune,Maharashtra,81.03,15,10,4,Summer
+10-03-2021,463,525,Betadine,Bangalore,Karnataka,94.96,11,4,6,Summer
+11-03-2021,433,457,Betadine,Mumbai,Maharashtra,78.72,14,4,6,Summer
+12-03-2021,463,551,Betadine,Bangalore,Karnataka,92.14,19,4,5,Summer
+13-03-2021,445,539,Betadine,Mumbai,Maharashtra,81,14,4,6,Summer
+14-03-2021,475,540,Betadine,Kolkata,West Bengal,96.59,17,11,5,Summer
+15-03-2021,471,505,Betadine,Lucknow,Uttar Pradesh,100.43,15,10,5,Summer
+16-03-2021,451,535,Betadine,Hyderabad,Telangana,78.37,9,6,5,Summer
+17-03-2021,458,458,Betadine,Jaipur,Rajasthan,82.38,16,8,4,Summer
+18-03-2021,450,501,Betadine,Pune,Maharashtra,90.47,17,11,4,Summer
+19-03-2021,465,550,Betadine,Jaipur,Rajasthan,91.37,14,9,5,Summer
+20-03-2021,481,516,Betadine,Bangalore,Karnataka,94.68,17,12,5,Summer
+21-03-2021,452,452,Betadine,Chennai,Tamil Nadu,84.13,11,7,5,Summer
+22-03-2021,475,573,Betadine,Ahmedabad,Gujarat,99.94,12,6,5,Summer
+23-03-2021,460,461,Betadine,Lucknow,Uttar Pradesh,88.59,15,5,3,Summer
+24-03-2021,456,536,Betadine,Delhi,Delhi,81.32,15,8,5,Summer
+25-03-2021,466,470,Betadine,Ahmedabad,Gujarat,87.53,17,9,4,Summer
+26-03-2021,453,477,Betadine,Pune,Maharashtra,80.98,16,8,4,Summer
+27-03-2021,460,512,Betadine,Mumbai,Maharashtra,95.95,12,7,5,Summer
+28-03-2021,451,497,Betadine,Pune,Maharashtra,83.3,15,10,3,Summer
+29-03-2021,499,499,Betadine,Jaipur,Rajasthan,95.46,16,8,4,Summer
+30-03-2021,470,507,Betadine,Jaipur,Rajasthan,86.85,11,7,4,Summer
+31-03-2021,459,524,Betadine,Jaipur,Rajasthan,84.52,14,6,5,Summer
+01-04-2021,473,473,Betadine,Pune,Maharashtra,80.05,14,7,3,Summer
+02-04-2021,469,469,Betadine,Chennai,Tamil Nadu,91.79,13,8,3,Summer
+03-04-2021,467,467,Betadine,Kolkata,West Bengal,95.1,15,5,4,Summer
+04-04-2021,480,480,Betadine,Hyderabad,Telangana,85.82,12,5,3,Summer
+05-04-2021,483,557,Betadine,Bangalore,Karnataka,82.87,15,6,3,Summer
+06-04-2021,463,523,Betadine,Kolkata,West Bengal,92.02,16,7,3,Summer
+07-04-2021,463,472,Betadine,Kolkata,West Bengal,79.57,17,10,3,Summer
+08-04-2021,468,560,Betadine,Pune,Maharashtra,94.5,12,4,5,Summer
+09-04-2021,438,517,Betadine,Hyderabad,Telangana,79.88,11,7,3,Summer
+10-04-2021,450,489,Betadine,Chennai,Tamil Nadu,80.48,15,6,4,Summer
+11-04-2021,493,534,Betadine,Jaipur,Rajasthan,92.84,14,6,3,Summer
+12-04-2021,498,558,Betadine,Kolkata,West Bengal,87.01,20,10,3,Summer
+13-04-2021,470,484,Betadine,Pune,Maharashtra,84.86,15,7,3,Summer
+14-04-2021,482,482,Betadine,Delhi,Delhi,91.77,14,5,4,Summer
+15-04-2021,479,479,Betadine,Delhi,Delhi,77.25,14,8,3,Summer
+16-04-2021,521,571,Betadine,Delhi,Delhi,103.21,12,8,3,Summer
+17-04-2021,491,548,Betadine,Jaipur,Rajasthan,91.22,15,4,3,Summer
+18-04-2021,473,477,Betadine,Hyderabad,Telangana,81.94,14,4,2,Summer
+19-04-2021,461,526,Betadine,Chennai,Tamil Nadu,81.71,14,7,4,Summer
+20-04-2021,451,533,Betadine,Jaipur,Rajasthan,90.36,14,6,2,Summer
+21-04-2021,479,496,Betadine,Jaipur,Rajasthan,92.01,14,5,4,Summer
+22-04-2021,465,465,Betadine,Jaipur,Rajasthan,93.93,10,8,3,Summer
+23-04-2021,455,455,Betadine,Mumbai,Maharashtra,82.19,16,5,4,Summer
+24-04-2021,467,467,Betadine,Delhi,Delhi,88.48,12,7,2,Summer
+25-04-2021,461,464,Betadine,Pune,Maharashtra,88.33,14,8,2,Summer
+26-04-2021,503,526,Betadine,Mumbai,Maharashtra,95.08,16,5,4,Summer
+27-04-2021,491,491,Betadine,Bangalore,Karnataka,95.44,17,2,2,Summer
+28-04-2021,478,478,Betadine,Mumbai,Maharashtra,84.41,10,5,4,Summer
+29-04-2021,501,586,Betadine,Chennai,Tamil Nadu,90.43,14,6,3,Summer
+30-04-2021,480,501,Betadine,Pune,Maharashtra,84.95,14,8,4,Summer
+01-05-2021,466,497,Betadine,Hyderabad,Telangana,85.94,11,5,2,Summer
+02-05-2021,502,568,Betadine,Kolkata,West Bengal,94.29,15,9,3,Summer
+03-05-2021,488,488,Betadine,Bangalore,Karnataka,80.53,14,3,2,Summer
+04-05-2021,465,492,Betadine,Chennai,Tamil Nadu,90.95,14,6,0,Summer
+05-05-2021,478,478,Betadine,Chennai,Tamil Nadu,81.3,11,5,3,Summer
+06-05-2021,468,468,Betadine,Mumbai,Maharashtra,84.06,14,8,3,Summer
+07-05-2021,461,491,Betadine,Hyderabad,Telangana,90.82,15,3,3,Summer
+08-05-2021,496,496,Betadine,Delhi,Delhi,90.64,13,6,3,Summer
+09-05-2021,511,511,Betadine,Mumbai,Maharashtra,92.7,12,5,3,Summer
+10-05-2021,462,512,Betadine,Bangalore,Karnataka,78.3,12,8,4,Summer
+11-05-2021,491,529,Betadine,Hyderabad,Telangana,82.78,13,4,3,Summer
+12-05-2021,474,489,Betadine,Pune,Maharashtra,90.11,13,6,2,Summer
+13-05-2021,476,487,Betadine,Chennai,Tamil Nadu,82.85,15,4,3,Summer
+14-05-2021,475,499,Betadine,Ahmedabad,Gujarat,82.93,12,6,3,Summer
+15-05-2021,472,512,Betadine,Delhi,Delhi,89.62,10,4,0,Summer
+16-05-2021,486,568,Betadine,Delhi,Delhi,81.15,13,4,3,Summer
+17-05-2021,473,473,Betadine,Hyderabad,Telangana,85.95,12,1,4,Summer
+18-05-2021,490,558,Betadine,Lucknow,Uttar Pradesh,86.81,14,6,3,Summer
+19-05-2021,486,540,Betadine,Kolkata,West Bengal,85.79,12,3,2,Summer
+20-05-2021,483,483,Betadine,Chennai,Tamil Nadu,82.81,14,3,3,Summer
+21-05-2021,474,485,Betadine,Pune,Maharashtra,81.1,10,2,5,Summer
+22-05-2021,479,479,Betadine,Kolkata,West Bengal,79.01,13,3,3,Summer
+23-05-2021,500,508,Betadine,Delhi,Delhi,89.41,11,6,3,Summer
+24-05-2021,496,502,Betadine,Ahmedabad,Gujarat,83.06,10,6,3,Summer
+25-05-2021,474,474,Betadine,Delhi,Delhi,88.04,10,6,2,Summer
+26-05-2021,491,571,Betadine,Hyderabad,Telangana,84.28,11,3,3,Summer
+27-05-2021,501,575,Betadine,Mumbai,Maharashtra,81.11,14,5,3,Summer
+28-05-2021,466,475,Betadine,Ahmedabad,Gujarat,80.41,11,4,1,Summer
+29-05-2021,499,561,Betadine,Mumbai,Maharashtra,83.75,9,7,3,Summer
+30-05-2021,482,574,Betadine,Pune,Maharashtra,88.25,12,6,4,Summer
+31-05-2021,501,557,Betadine,Delhi,Delhi,83.75,12,3,3,Summer
+01-06-2021,481,542,Betadine,Bangalore,Karnataka,81.42,10,7,1,Summer
+02-06-2021,466,507,Betadine,Chennai,Tamil Nadu,87.66,11,6,5,Summer
+03-06-2021,469,494,Betadine,Mumbai,Maharashtra,83.34,13,2,3,Summer
+04-06-2021,495,591,Betadine,Bangalore,Karnataka,92.31,13,1,3,Summer
+05-06-2021,499,499,Betadine,Lucknow,Uttar Pradesh,90.5,12,2,5,Summer
+06-06-2021,482,575,Betadine,Kolkata,West Bengal,77.36,9,8,3,Summer
+07-06-2021,506,523,Betadine,Kolkata,West Bengal,89.75,17,3,2,Summer
+08-06-2021,472,522,Betadine,Bangalore,Karnataka,87.63,13,8,4,Summer
+09-06-2021,496,525,Betadine,Jaipur,Rajasthan,90.66,12,2,5,Summer
+10-06-2021,480,531,Betadine,Ahmedabad,Gujarat,85.54,8,2,4,Summer
+11-06-2021,489,502,Betadine,Kolkata,West Bengal,86.44,13,6,4,Summer
+12-06-2021,500,539,Betadine,Hyderabad,Telangana,81.29,10,6,3,Summer
+13-06-2021,487,505,Betadine,Bangalore,Karnataka,76.61,10,6,3,Summer
+14-06-2021,495,545,Betadine,Kolkata,West Bengal,79.84,7,6,4,Summer
+15-06-2021,516,516,Betadine,Delhi,Delhi,76.08,8,3,5,Summer
+16-06-2021,493,543,Betadine,Ahmedabad,Gujarat,87.71,11,6,5,Summer
+17-06-2021,515,515,Betadine,Mumbai,Maharashtra,82.18,12,5,6,Summer
+18-06-2021,486,487,Betadine,Pune,Maharashtra,86.06,11,4,6,Summer
+19-06-2021,512,541,Betadine,Hyderabad,Telangana,76.64,11,5,6,Summer
+20-06-2021,526,550,Betadine,Lucknow,Uttar Pradesh,89.81,10,7,3,Summer
+21-06-2021,468,468,Betadine,Kolkata,West Bengal,73.93,9,5,4,Summer
+22-06-2021,494,494,Betadine,Ahmedabad,Gujarat,73.18,10,0,6,Summer
+23-06-2021,515,543,Betadine,Jaipur,Rajasthan,90.34,11,6,5,Summer
+24-06-2021,504,504,Betadine,Jaipur,Rajasthan,86.14,10,6,3,Summer
+25-06-2021,514,524,Betadine,Pune,Maharashtra,82.66,12,4,4,Summer
+26-06-2021,500,500,Betadine,Delhi,Delhi,79.57,9,5,3,Summer
+27-06-2021,511,585,Betadine,Lucknow,Uttar Pradesh,82.8,7,5,5,Summer
+28-06-2021,508,508,Betadine,Bangalore,Karnataka,80.97,9,1,5,Summer
+29-06-2021,529,581,Betadine,Delhi,Delhi,78.64,9,4,5,Summer
+30-06-2021,516,522,Betadine,Hyderabad,Telangana,78.54,9,4,7,Summer
+01-07-2021,518,554,Betadine,Kolkata,West Bengal,90.4,12,4,4,Monsoon
+02-07-2021,507,549,Betadine,Delhi,Delhi,92.16,10,3,5,Monsoon
+03-07-2021,507,549,Betadine,Ahmedabad,Gujarat,86.41,6,6,4,Monsoon
+04-07-2021,509,596,Betadine,Jaipur,Rajasthan,80.99,12,3,7,Monsoon
+05-07-2021,522,536,Betadine,Delhi,Delhi,78.31,3,6,7,Monsoon
+06-07-2021,510,576,Betadine,Ahmedabad,Gujarat,74.21,13,6,6,Monsoon
+07-07-2021,522,522,Betadine,Mumbai,Maharashtra,75.94,8,7,6,Monsoon
+08-07-2021,550,601,Betadine,Lucknow,Uttar Pradesh,80.23,8,8,5,Monsoon
+09-07-2021,532,532,Betadine,Kolkata,West Bengal,91.16,8,8,6,Monsoon
+10-07-2021,515,529,Betadine,Bangalore,Karnataka,86.83,9,2,5,Monsoon
+11-07-2021,539,539,Betadine,Lucknow,Uttar Pradesh,84.53,8,5,6,Monsoon
+12-07-2021,516,516,Betadine,Delhi,Delhi,72.6,8,3,6,Monsoon
+13-07-2021,492,591,Betadine,Mumbai,Maharashtra,78.47,11,11,5,Monsoon
+14-07-2021,509,542,Betadine,Ahmedabad,Gujarat,74.81,9,6,6,Monsoon
+15-07-2021,497,518,Betadine,Delhi,Delhi,63.23,6,8,7,Monsoon
+16-07-2021,520,564,Betadine,Chennai,Tamil Nadu,78.44,9,6,8,Monsoon
+17-07-2021,527,586,Betadine,Jaipur,Rajasthan,73.39,9,0,7,Monsoon
+18-07-2021,553,630,Betadine,Bangalore,Karnataka,76.76,6,3,9,Monsoon
+19-07-2021,533,533,Betadine,Mumbai,Maharashtra,76.75,9,3,6,Monsoon
+20-07-2021,526,526,Betadine,Lucknow,Uttar Pradesh,74.11,7,4,8,Monsoon
+21-07-2021,543,580,Betadine,Jaipur,Rajasthan,78.43,7,6,7,Monsoon
+22-07-2021,498,557,Betadine,Hyderabad,Telangana,71.99,7,6,7,Monsoon
+23-07-2021,536,559,Betadine,Delhi,Delhi,67.82,2,0,6,Monsoon
+24-07-2021,545,545,Betadine,Pune,Maharashtra,85.8,6,4,7,Monsoon
+25-07-2021,512,585,Betadine,Lucknow,Uttar Pradesh,68.48,8,4,7,Monsoon
+26-07-2021,552,601,Betadine,Bangalore,Karnataka,73.84,7,8,5,Monsoon
+27-07-2021,541,546,Betadine,Pune,Maharashtra,75.16,4,6,7,Monsoon
+28-07-2021,531,531,Betadine,Pune,Maharashtra,74.66,9,5,5,Monsoon
+29-07-2021,548,645,Betadine,Chennai,Tamil Nadu,84.49,6,5,7,Monsoon
+30-07-2021,573,611,Betadine,Delhi,Delhi,81.75,4,2,7,Monsoon
+31-07-2021,543,558,Betadine,Delhi,Delhi,78.83,11,6,8,Monsoon
+01-08-2021,545,620,Betadine,Delhi,Delhi,77.37,4,4,6,Monsoon
+02-08-2021,536,536,Betadine,Chennai,Tamil Nadu,75.76,8,4,6,Monsoon
+03-08-2021,531,531,Betadine,Delhi,Delhi,75.15,5,8,8,Monsoon
+04-08-2021,557,623,Betadine,Jaipur,Rajasthan,67.34,7,6,5,Monsoon
+05-08-2021,533,533,Betadine,Lucknow,Uttar Pradesh,72.15,4,4,5,Monsoon
+06-08-2021,548,548,Betadine,Pune,Maharashtra,81.01,4,4,7,Monsoon
+07-08-2021,541,541,Betadine,Kolkata,West Bengal,93.71,7,6,6,Monsoon
+08-08-2021,556,574,Betadine,Delhi,Delhi,69.78,7,6,7,Monsoon
+09-08-2021,555,555,Betadine,Chennai,Tamil Nadu,77.52,8,5,7,Monsoon
+10-08-2021,567,644,Betadine,Pune,Maharashtra,73.74,6,3,7,Monsoon
+11-08-2021,545,577,Betadine,Chennai,Tamil Nadu,83.64,10,3,6,Monsoon
+12-08-2021,550,550,Betadine,Pune,Maharashtra,67.03,6,4,6,Monsoon
+13-08-2021,540,588,Betadine,Chennai,Tamil Nadu,75.52,7,5,6,Monsoon
+14-08-2021,549,613,Betadine,Ahmedabad,Gujarat,66.36,3,5,6,Monsoon
+15-08-2021,563,618,Betadine,Lucknow,Uttar Pradesh,73.21,4,5,5,Monsoon
+16-08-2021,570,628,Betadine,Lucknow,Uttar Pradesh,75.43,7,5,7,Monsoon
+17-08-2021,546,613,Betadine,Bangalore,Karnataka,77.55,5,9,7,Monsoon
+18-08-2021,574,581,Betadine,Bangalore,Karnataka,70.21,6,7,7,Monsoon
+19-08-2021,582,681,Betadine,Bangalore,Karnataka,79.92,4,8,7,Monsoon
+20-08-2021,569,569,Betadine,Mumbai,Maharashtra,74.69,6,7,5,Monsoon
+21-08-2021,592,628,Betadine,Kolkata,West Bengal,78.76,6,6,5,Monsoon
+22-08-2021,554,554,Betadine,Bangalore,Karnataka,76.79,3,7,7,Monsoon
+23-08-2021,548,548,Betadine,Hyderabad,Telangana,64.59,7,6,6,Monsoon
+24-08-2021,541,541,Betadine,Jaipur,Rajasthan,73.85,2,8,6,Monsoon
+25-08-2021,591,591,Betadine,Mumbai,Maharashtra,73.56,6,4,6,Monsoon
+26-08-2021,580,599,Betadine,Mumbai,Maharashtra,80.08,9,8,6,Monsoon
+27-08-2021,571,619,Betadine,Hyderabad,Telangana,74.87,6,6,6,Monsoon
+28-08-2021,577,588,Betadine,Jaipur,Rajasthan,72.75,6,3,6,Monsoon
+29-08-2021,557,623,Betadine,Kolkata,West Bengal,67.85,3,6,4,Monsoon
+30-08-2021,612,679,Betadine,Lucknow,Uttar Pradesh,82.12,8,4,6,Monsoon
+31-08-2021,578,659,Betadine,Ahmedabad,Gujarat,79.5,8,5,6,Monsoon
+01-09-2021,579,596,Betadine,Lucknow,Uttar Pradesh,70.54,3,6,4,Winter
+02-09-2021,590,590,Betadine,Bangalore,Karnataka,68.73,4,3,4,Winter
+03-09-2021,587,587,Betadine,Mumbai,Maharashtra,77.27,7,6,6,Winter
+04-09-2021,585,601,Betadine,Kolkata,West Bengal,66.16,8,7,6,Winter
+05-09-2021,571,653,Betadine,Mumbai,Maharashtra,64.67,2,8,3,Winter
+06-09-2021,591,591,Betadine,Ahmedabad,Gujarat,68.49,3,6,6,Winter
+07-09-2021,613,631,Betadine,Hyderabad,Telangana,74.52,4,7,5,Winter
+08-09-2021,607,631,Betadine,Chennai,Tamil Nadu,68.72,0,7,5,Winter
+09-09-2021,612,612,Betadine,Kolkata,West Bengal,66.11,5,6,5,Winter
+10-09-2021,581,628,Betadine,Ahmedabad,Gujarat,65.92,7,3,4,Winter
+11-09-2021,575,659,Betadine,Pune,Maharashtra,73.81,2,7,5,Winter
+12-09-2021,590,682,Betadine,Jaipur,Rajasthan,66.04,5,8,4,Winter
+13-09-2021,594,684,Betadine,Bangalore,Karnataka,71.1,3,5,5,Winter
+14-09-2021,611,619,Betadine,Lucknow,Uttar Pradesh,84.53,8,7,6,Winter
+15-09-2021,570,658,Betadine,Bangalore,Karnataka,68.95,3,7,4,Winter
+16-09-2021,620,701,Betadine,Chennai,Tamil Nadu,77.31,8,9,4,Winter
+17-09-2021,596,645,Betadine,Jaipur,Rajasthan,67.47,3,7,4,Winter
+18-09-2021,593,682,Betadine,Delhi,Delhi,82.62,6,8,6,Winter
+19-09-2021,585,663,Betadine,Bangalore,Karnataka,67.89,5,7,4,Winter
+20-09-2021,577,577,Betadine,Pune,Maharashtra,68.26,4,6,4,Winter
+21-09-2021,616,708,Betadine,Delhi,Delhi,80.79,3,5,4,Winter
+22-09-2021,606,679,Betadine,Chennai,Tamil Nadu,71.89,5,7,5,Winter
+23-09-2021,587,587,Betadine,Jaipur,Rajasthan,70.24,4,8,4,Winter
+24-09-2021,588,600,Betadine,Bangalore,Karnataka,68.59,3,8,4,Winter
+25-09-2021,603,702,Betadine,Lucknow,Uttar Pradesh,70.63,7,11,4,Winter
+26-09-2021,635,635,Betadine,Delhi,Delhi,77.85,6,10,4,Winter
+27-09-2021,607,607,Betadine,Pune,Maharashtra,74.96,6,10,0,Winter
+28-09-2021,590,627,Betadine,Kolkata,West Bengal,66.58,4,4,5,Winter
+29-09-2021,610,641,Betadine,Jaipur,Rajasthan,68.57,4,11,3,Winter
+30-09-2021,611,619,Betadine,Bangalore,Karnataka,69.35,4,8,4,Winter
+01-10-2021,576,665,Betadine,Lucknow,Uttar Pradesh,60.59,5,9,6,Winter
+02-10-2021,617,715,Betadine,Pune,Maharashtra,64.85,6,10,3,Winter
+03-10-2021,616,640,Betadine,Ahmedabad,Gujarat,74.09,5,8,6,Winter
+04-10-2021,631,713,Betadine,Bangalore,Karnataka,79.09,3,6,4,Winter
+05-10-2021,649,745,Betadine,Ahmedabad,Gujarat,81.16,6,11,4,Winter
+06-10-2021,640,650,Betadine,Kolkata,West Bengal,63.49,5,7,4,Winter
+07-10-2021,620,620,Betadine,Jaipur,Rajasthan,71.37,2,6,2,Winter
+08-10-2021,609,609,Betadine,Lucknow,Uttar Pradesh,65.49,0,8,1,Winter
+09-10-2021,666,724,Betadine,Delhi,Delhi,79.12,5,8,2,Winter
+10-10-2021,629,629,Betadine,Chennai,Tamil Nadu,71.51,3,8,4,Winter
+11-10-2021,630,630,Betadine,Chennai,Tamil Nadu,76.36,6,8,2,Winter
+12-10-2021,631,691,Betadine,Pune,Maharashtra,73.3,3,11,1,Winter
+13-10-2021,635,709,Betadine,Bangalore,Karnataka,64.52,5,9,3,Winter
+14-10-2021,631,631,Betadine,Lucknow,Uttar Pradesh,68.56,4,7,3,Winter
+15-10-2021,626,669,Betadine,Delhi,Delhi,72.63,8,7,3,Winter
+16-10-2021,628,628,Betadine,Kolkata,West Bengal,73.25,7,8,3,Winter
+17-10-2021,637,644,Betadine,Delhi,Delhi,66.77,8,8,4,Winter
+18-10-2021,631,631,Betadine,Hyderabad,Telangana,65.32,5,8,3,Winter
+19-10-2021,629,647,Betadine,Ahmedabad,Gujarat,72.88,7,7,2,Winter
+20-10-2021,643,643,Betadine,Mumbai,Maharashtra,67.38,5,9,2,Winter
+21-10-2021,639,719,Betadine,Delhi,Delhi,65.46,8,8,3,Winter
+22-10-2021,666,754,Betadine,Pune,Maharashtra,75.17,5,7,3,Winter
+23-10-2021,605,630,Betadine,Chennai,Tamil Nadu,66.76,2,10,2,Winter
+24-10-2021,663,663,Betadine,Lucknow,Uttar Pradesh,72.41,1,11,4,Winter
+25-10-2021,666,679,Betadine,Mumbai,Maharashtra,73.68,9,9,3,Winter
+26-10-2021,618,626,Betadine,Jaipur,Rajasthan,70.67,6,13,3,Winter
+27-10-2021,645,645,Betadine,Jaipur,Rajasthan,70.6,6,14,2,Winter
+28-10-2021,646,660,Betadine,Ahmedabad,Gujarat,74.75,8,10,4,Winter
+29-10-2021,632,632,Betadine,Jaipur,Rajasthan,70.5,2,8,1,Winter
+30-10-2021,642,642,Betadine,Mumbai,Maharashtra,74.64,5,10,4,Winter
+31-10-2021,639,639,Betadine,Chennai,Tamil Nadu,77.59,5,7,1,Winter
+01-11-2021,683,752,Betadine,Lucknow,Uttar Pradesh,83.2,7,8,1,Winter
+02-11-2021,672,757,Betadine,Lucknow,Uttar Pradesh,84.04,4,6,3,Winter
+03-11-2021,678,760,Betadine,Kolkata,West Bengal,82.59,3,8,2,Winter
+04-11-2021,671,671,Betadine,Pune,Maharashtra,78.59,3,7,2,Winter
+05-11-2021,644,728,Betadine,Delhi,Delhi,71.63,8,11,2,Winter
+06-11-2021,655,658,Betadine,Delhi,Delhi,73.26,4,8,2,Winter
+07-11-2021,671,671,Betadine,Jaipur,Rajasthan,73.01,5,10,3,Winter
+08-11-2021,647,675,Betadine,Jaipur,Rajasthan,74.02,7,11,3,Winter
+09-11-2021,677,777,Betadine,Ahmedabad,Gujarat,81.49,5,12,4,Winter
+10-11-2021,664,664,Betadine,Kolkata,West Bengal,72.57,3,9,3,Winter
+11-11-2021,663,729,Betadine,Chennai,Tamil Nadu,76.01,3,10,2,Winter
+12-11-2021,681,765,Betadine,Hyderabad,Telangana,75.01,6,10,3,Winter
+13-11-2021,678,777,Betadine,Chennai,Tamil Nadu,79.05,7,12,1,Winter
+14-11-2021,667,727,Betadine,Jaipur,Rajasthan,73.85,6,11,0,Winter
+15-11-2021,691,767,Betadine,Lucknow,Uttar Pradesh,76.1,7,12,1,Winter
+16-11-2021,658,732,Betadine,Ahmedabad,Gujarat,72,3,7,2,Winter
+17-11-2021,685,742,Betadine,Pune,Maharashtra,81.52,3,9,3,Winter
+18-11-2021,686,686,Betadine,Hyderabad,Telangana,78.72,11,12,0,Winter
+19-11-2021,673,766,Betadine,Chennai,Tamil Nadu,75.46,9,11,3,Winter
+20-11-2021,684,684,Betadine,Hyderabad,Telangana,80.31,8,10,3,Winter
+21-11-2021,661,711,Betadine,Delhi,Delhi,73.93,5,9,3,Winter
+22-11-2021,695,789,Betadine,Ahmedabad,Gujarat,86.03,6,12,1,Winter
+23-11-2021,680,700,Betadine,Kolkata,West Bengal,73.53,7,6,6,Winter
+24-11-2021,676,736,Betadine,Hyderabad,Telangana,77.07,10,12,3,Winter
+25-11-2021,700,700,Betadine,Delhi,Delhi,74.18,8,10,2,Winter
+26-11-2021,675,694,Betadine,Lucknow,Uttar Pradesh,76.07,8,9,3,Winter
+27-11-2021,666,757,Betadine,Mumbai,Maharashtra,68.2,7,11,5,Winter
+28-11-2021,665,686,Betadine,Jaipur,Rajasthan,80.33,9,9,2,Winter
+29-11-2021,698,722,Betadine,Lucknow,Uttar Pradesh,84.83,8,10,2,Winter
+30-11-2021,671,693,Betadine,Delhi,Delhi,81.32,8,10,3,Winter
+01-12-2021,718,742,Betadine,Ahmedabad,Gujarat,83.74,6,12,4,Winter
+02-12-2021,661,750,Betadine,Pune,Maharashtra,71.8,7,11,4,Winter
+03-12-2021,719,748,Betadine,Jaipur,Rajasthan,80,6,6,5,Winter
+04-12-2021,697,773,Betadine,Lucknow,Uttar Pradesh,88.85,8,8,5,Winter
+05-12-2021,694,733,Betadine,Mumbai,Maharashtra,87.98,8,8,2,Winter
+06-12-2021,688,688,Betadine,Pune,Maharashtra,80.61,3,11,3,Winter
+07-12-2021,703,785,Betadine,Jaipur,Rajasthan,79.42,8,11,3,Winter
+08-12-2021,698,750,Betadine,Ahmedabad,Gujarat,88.24,6,14,5,Winter
+09-12-2021,716,780,Betadine,Ahmedabad,Gujarat,80.33,9,8,5,Winter
+10-12-2021,702,702,Betadine,Mumbai,Maharashtra,83.14,10,13,5,Winter
+11-12-2021,704,704,Betadine,Pune,Maharashtra,89.16,8,7,5,Winter
+12-12-2021,697,712,Betadine,Hyderabad,Telangana,77.22,10,10,4,Winter
+13-12-2021,702,707,Betadine,Bangalore,Karnataka,86.35,10,11,4,Winter
+14-12-2021,709,771,Betadine,Delhi,Delhi,85.8,8,11,3,Winter
+15-12-2021,680,732,Betadine,Hyderabad,Telangana,79.2,12,10,5,Winter
+16-12-2021,686,738,Betadine,Pune,Maharashtra,75.23,7,11,4,Winter
+17-12-2021,718,752,Betadine,Jaipur,Rajasthan,80.98,12,8,6,Winter
+18-12-2021,711,752,Betadine,Pune,Maharashtra,85.05,9,12,5,Winter
+19-12-2021,706,706,Betadine,Mumbai,Maharashtra,76.08,7,11,7,Winter
+20-12-2021,710,805,Betadine,Mumbai,Maharashtra,84.45,8,11,5,Winter
+21-12-2021,716,766,Betadine,Jaipur,Rajasthan,87.31,7,10,5,Winter
+22-12-2021,703,703,Betadine,Mumbai,Maharashtra,87.93,11,10,5,Winter
+23-12-2021,701,757,Betadine,Kolkata,West Bengal,75.81,6,12,5,Winter
+24-12-2021,716,716,Betadine,Bangalore,Karnataka,91.38,12,14,5,Winter
+25-12-2021,699,749,Betadine,Hyderabad,Telangana,91.28,8,8,6,Winter
+26-12-2021,721,801,Betadine,Bangalore,Karnataka,87.85,11,8,4,Winter
+27-12-2021,690,690,Betadine,Pune,Maharashtra,76.41,10,11,5,Winter
+28-12-2021,732,732,Betadine,Jaipur,Rajasthan,85.76,10,10,4,Winter
+29-12-2021,725,824,Betadine,Hyderabad,Telangana,86.16,9,11,6,Winter
+30-12-2021,722,801,Betadine,Jaipur,Rajasthan,87.55,11,10,5,Winter
+31-12-2021,734,734,Betadine,Pune,Maharashtra,87.91,10,12,6,Winter
+01-01-2022,745,819,Betadine,Lucknow,Uttar Pradesh,90.81,7,10,5,Winter
+02-01-2022,736,799,Betadine,Pune,Maharashtra,87.75,8,8,5,Winter
+03-01-2022,694,753,Betadine,Delhi,Delhi,84.13,9,9,6,Winter
+04-01-2022,703,775,Betadine,Pune,Maharashtra,81.7,9,10,6,Winter
+05-01-2022,714,814,Betadine,Delhi,Delhi,83.91,13,8,7,Winter
+06-01-2022,724,739,Betadine,Pune,Maharashtra,84.12,11,10,5,Winter
+07-01-2022,732,743,Betadine,Delhi,Delhi,97.79,9,11,5,Winter
+08-01-2022,714,714,Betadine,Jaipur,Rajasthan,93.32,10,10,7,Winter
+09-01-2022,729,808,Betadine,Jaipur,Rajasthan,90.78,10,11,6,Winter
+10-01-2022,715,774,Betadine,Delhi,Delhi,92.83,10,7,6,Winter
+11-01-2022,718,744,Betadine,Hyderabad,Telangana,90.59,9,8,7,Winter
+12-01-2022,707,707,Betadine,Jaipur,Rajasthan,86.11,9,8,6,Winter
+13-01-2022,715,715,Betadine,Ahmedabad,Gujarat,78.87,13,12,6,Winter
+14-01-2022,709,753,Betadine,Lucknow,Uttar Pradesh,84.49,12,15,6,Winter
+15-01-2022,715,715,Betadine,Delhi,Delhi,84.92,11,9,8,Winter
+16-01-2022,747,781,Betadine,Kolkata,West Bengal,85.33,11,10,6,Winter
+17-01-2022,717,717,Betadine,Pune,Maharashtra,79.57,11,9,6,Winter
+18-01-2022,772,844,Betadine,Delhi,Delhi,96.86,11,11,6,Winter
+19-01-2022,740,803,Betadine,Bangalore,Karnataka,92.02,13,9,7,Winter
+20-01-2022,736,736,Betadine,Chennai,Tamil Nadu,83.96,13,11,8,Winter
+21-01-2022,721,721,Betadine,Chennai,Tamil Nadu,84.27,9,11,6,Winter
+22-01-2022,745,745,Betadine,Hyderabad,Telangana,97.01,12,8,6,Winter
+23-01-2022,727,764,Betadine,Ahmedabad,Gujarat,84.41,9,11,8,Winter
+24-01-2022,738,738,Betadine,Chennai,Tamil Nadu,91.25,13,6,7,Winter
+25-01-2022,775,791,Betadine,Mumbai,Maharashtra,94.45,14,10,6,Winter
+26-01-2022,736,736,Betadine,Pune,Maharashtra,92.93,11,9,7,Winter
+27-01-2022,755,839,Betadine,Kolkata,West Bengal,88.72,12,10,5,Winter
+28-01-2022,728,728,Betadine,Chennai,Tamil Nadu,89.85,8,9,6,Winter
+29-01-2022,738,827,Betadine,Chennai,Tamil Nadu,91.84,14,9,7,Winter
+30-01-2022,766,802,Betadine,Chennai,Tamil Nadu,95.95,14,9,8,Winter
+31-01-2022,730,730,Betadine,Ahmedabad,Gujarat,90.4,15,10,6,Winter
+01-02-2022,767,767,Betadine,Jaipur,Rajasthan,96.92,16,10,7,Winter
+02-02-2022,751,840,Betadine,Bangalore,Karnataka,103.96,10,10,8,Winter
+03-02-2022,733,752,Betadine,Kolkata,West Bengal,103.41,15,9,6,Winter
+04-02-2022,751,751,Betadine,Kolkata,West Bengal,90,16,12,7,Winter
+05-02-2022,757,757,Betadine,Bangalore,Karnataka,82.41,10,13,7,Winter
+06-02-2022,752,752,Betadine,Hyderabad,Telangana,96.38,13,7,6,Winter
+07-02-2022,720,808,Betadine,Ahmedabad,Gujarat,90.13,12,10,5,Winter
+08-02-2022,733,797,Betadine,Pune,Maharashtra,96.31,15,9,7,Winter
+09-02-2022,741,797,Betadine,Hyderabad,Telangana,93.62,8,11,4,Winter
+10-02-2022,744,744,Betadine,Lucknow,Uttar Pradesh,92.89,17,10,6,Winter
+11-02-2022,755,755,Betadine,Hyderabad,Telangana,99.84,13,10,5,Winter
+12-02-2022,748,757,Betadine,Kolkata,West Bengal,99.74,15,10,7,Winter
+13-02-2022,726,726,Betadine,Chennai,Tamil Nadu,83.67,13,9,8,Winter
+14-02-2022,752,763,Betadine,Lucknow,Uttar Pradesh,90.12,14,13,5,Winter
+15-02-2022,756,819,Betadine,Lucknow,Uttar Pradesh,94.07,9,10,9,Winter
+16-02-2022,756,756,Betadine,Delhi,Delhi,95.29,13,11,7,Winter
+17-02-2022,764,840,Betadine,Pune,Maharashtra,94.67,15,9,6,Winter
+18-02-2022,761,805,Betadine,Chennai,Tamil Nadu,97.77,14,9,7,Winter
+19-02-2022,756,846,Betadine,Delhi,Delhi,99.78,10,11,5,Winter
+20-02-2022,748,766,Betadine,Hyderabad,Telangana,102.61,14,11,6,Winter
+21-02-2022,725,791,Betadine,Ahmedabad,Gujarat,93.69,12,7,6,Winter
+22-02-2022,756,811,Betadine,Delhi,Delhi,90.94,12,9,5,Winter
+23-02-2022,753,753,Betadine,Pune,Maharashtra,94.06,11,10,4,Winter
+24-02-2022,755,845,Betadine,Hyderabad,Telangana,94.62,15,9,5,Winter
+25-02-2022,732,732,Betadine,Delhi,Delhi,94.57,16,10,5,Winter
+26-02-2022,735,789,Betadine,Chennai,Tamil Nadu,94.54,18,9,6,Winter
+27-02-2022,768,768,Betadine,Hyderabad,Telangana,107.25,11,4,5,Winter
+28-02-2022,752,752,Betadine,Delhi,Delhi,92.49,16,6,4,Winter
+01-03-2022,763,834,Betadine,Jaipur,Rajasthan,98.32,16,11,6,Summer
+02-03-2022,753,838,Betadine,Chennai,Tamil Nadu,106.97,13,8,7,Summer
+03-03-2022,754,798,Betadine,Hyderabad,Telangana,92.27,12,9,5,Summer
+04-03-2022,768,866,Betadine,Jaipur,Rajasthan,97.93,12,9,7,Summer
+05-03-2022,746,772,Betadine,Ahmedabad,Gujarat,89.48,13,7,6,Summer
+06-03-2022,756,768,Betadine,Kolkata,West Bengal,96.01,15,8,4,Summer
+07-03-2022,748,823,Betadine,Ahmedabad,Gujarat,90.7,17,9,4,Summer
+08-03-2022,748,791,Betadine,Bangalore,Karnataka,99.83,16,9,5,Summer
+09-03-2022,751,782,Betadine,Jaipur,Rajasthan,95.74,11,13,5,Summer
+10-03-2022,759,855,Betadine,Hyderabad,Telangana,91.52,13,7,2,Summer
+11-03-2022,749,749,Betadine,Hyderabad,Telangana,99,17,12,4,Summer
+12-03-2022,775,775,Betadine,Jaipur,Rajasthan,99.3,13,6,4,Summer
+13-03-2022,743,743,Betadine,Pune,Maharashtra,98.76,14,9,6,Summer
+14-03-2022,754,764,Betadine,Pune,Maharashtra,89.86,11,8,5,Summer
+15-03-2022,750,789,Betadine,Bangalore,Karnataka,96.84,17,8,4,Summer
+16-03-2022,779,779,Betadine,Lucknow,Uttar Pradesh,102.87,11,8,4,Summer
+17-03-2022,761,761,Betadine,Chennai,Tamil Nadu,94.28,11,7,5,Summer
+18-03-2022,773,844,Betadine,Lucknow,Uttar Pradesh,91.9,17,10,4,Summer
+19-03-2022,736,782,Betadine,Chennai,Tamil Nadu,92.99,18,6,4,Summer
+20-03-2022,763,763,Betadine,Chennai,Tamil Nadu,102.94,14,8,4,Summer
+21-03-2022,772,815,Betadine,Mumbai,Maharashtra,103.63,14,9,4,Summer
+22-03-2022,760,798,Betadine,Delhi,Delhi,94.26,16,10,3,Summer
+23-03-2022,775,775,Betadine,Lucknow,Uttar Pradesh,91.98,15,10,3,Summer
+24-03-2022,752,802,Betadine,Chennai,Tamil Nadu,93.04,14,9,3,Summer
+25-03-2022,781,781,Betadine,Kolkata,West Bengal,96.86,14,6,3,Summer
+26-03-2022,795,877,Betadine,Hyderabad,Telangana,103.23,11,6,3,Summer
+27-03-2022,755,843,Betadine,Lucknow,Uttar Pradesh,95.07,15,5,5,Summer
+28-03-2022,754,756,Betadine,Bangalore,Karnataka,91.63,14,5,5,Summer
+29-03-2022,783,783,Betadine,Mumbai,Maharashtra,104.72,14,7,4,Summer
+30-03-2022,785,785,Betadine,Mumbai,Maharashtra,100.3,12,6,4,Summer
+31-03-2022,754,846,Betadine,Hyderabad,Telangana,97.58,13,10,3,Summer
+01-04-2022,756,856,Betadine,Pune,Maharashtra,86.98,16,6,1,Summer
+02-04-2022,758,758,Betadine,Pune,Maharashtra,83.68,16,7,3,Summer
+03-04-2022,742,742,Betadine,Kolkata,West Bengal,86.41,14,7,4,Summer
+04-04-2022,749,792,Betadine,Mumbai,Maharashtra,92.2,14,4,2,Summer
+05-04-2022,748,806,Betadine,Bangalore,Karnataka,97.28,13,9,2,Summer
+06-04-2022,752,752,Betadine,Ahmedabad,Gujarat,83.09,16,8,2,Summer
+07-04-2022,763,824,Betadine,Ahmedabad,Gujarat,104.16,14,8,3,Summer
+08-04-2022,768,768,Betadine,Mumbai,Maharashtra,97.65,15,8,3,Summer
+09-04-2022,788,832,Betadine,Mumbai,Maharashtra,106.2,15,5,4,Summer
+10-04-2022,750,838,Betadine,Jaipur,Rajasthan,89.77,14,5,2,Summer
+11-04-2022,780,780,Betadine,Hyderabad,Telangana,100.72,12,8,3,Summer
+12-04-2022,762,762,Betadine,Mumbai,Maharashtra,96.23,12,10,3,Summer
+13-04-2022,765,765,Betadine,Pune,Maharashtra,100.09,16,7,2,Summer
+14-04-2022,776,776,Betadine,Bangalore,Karnataka,96.23,13,8,4,Summer
+15-04-2022,749,749,Betadine,Bangalore,Karnataka,96.17,13,5,4,Summer
+16-04-2022,772,798,Betadine,Chennai,Tamil Nadu,102.31,12,9,2,Summer
+17-04-2022,769,769,Betadine,Mumbai,Maharashtra,93.14,12,6,2,Summer
+18-04-2022,774,774,Betadine,Hyderabad,Telangana,98.21,13,7,4,Summer
+19-04-2022,772,814,Betadine,Hyderabad,Telangana,87.16,17,6,3,Summer
+20-04-2022,804,804,Betadine,Pune,Maharashtra,104.31,15,8,3,Summer
+21-04-2022,758,758,Betadine,Mumbai,Maharashtra,104.37,13,8,3,Summer
+22-04-2022,760,801,Betadine,Delhi,Delhi,88.38,16,3,3,Summer
+23-04-2022,759,766,Betadine,Kolkata,West Bengal,93.94,14,9,3,Summer
+24-04-2022,761,784,Betadine,Kolkata,West Bengal,99,17,11,3,Summer
+25-04-2022,760,837,Betadine,Chennai,Tamil Nadu,94.36,18,5,3,Summer
+26-04-2022,787,789,Betadine,Ahmedabad,Gujarat,98.63,16,6,4,Summer
+27-04-2022,791,849,Betadine,Mumbai,Maharashtra,96.25,14,8,2,Summer
+28-04-2022,762,762,Betadine,Chennai,Tamil Nadu,92.06,15,6,3,Summer
+29-04-2022,758,758,Betadine,Hyderabad,Telangana,93.17,14,6,4,Summer
+30-04-2022,778,859,Betadine,Hyderabad,Telangana,96.41,10,10,3,Summer
+01-05-2022,763,806,Betadine,Chennai,Tamil Nadu,88.09,12,3,2,Summer
+02-05-2022,781,826,Betadine,Bangalore,Karnataka,96.07,12,4,3,Summer
+03-05-2022,775,829,Betadine,Ahmedabad,Gujarat,103.24,12,6,3,Summer
+04-05-2022,750,750,Betadine,Ahmedabad,Gujarat,89.7,17,2,2,Summer
+05-05-2022,796,893,Betadine,Delhi,Delhi,91.61,16,5,3,Summer
+06-05-2022,800,800,Betadine,Pune,Maharashtra,97.44,14,5,2,Summer
+07-05-2022,764,768,Betadine,Chennai,Tamil Nadu,89.83,15,7,4,Summer
+08-05-2022,768,837,Betadine,Jaipur,Rajasthan,87.11,9,7,3,Summer
+09-05-2022,778,795,Betadine,Ahmedabad,Gujarat,95.7,15,2,2,Summer
+10-05-2022,780,809,Betadine,Pune,Maharashtra,91.45,15,4,2,Summer
+11-05-2022,785,785,Betadine,Mumbai,Maharashtra,92.48,8,4,3,Summer
+12-05-2022,805,880,Betadine,Delhi,Delhi,98.97,14,5,2,Summer
+13-05-2022,773,813,Betadine,Chennai,Tamil Nadu,85.93,10,3,5,Summer
+14-05-2022,764,855,Betadine,Ahmedabad,Gujarat,83.49,9,6,1,Summer
+15-05-2022,756,756,Betadine,Hyderabad,Telangana,94.35,15,4,4,Summer
+16-05-2022,766,766,Betadine,Lucknow,Uttar Pradesh,82.55,11,6,2,Summer
+17-05-2022,777,851,Betadine,Chennai,Tamil Nadu,88.52,11,5,2,Summer
+18-05-2022,805,896,Betadine,Jaipur,Rajasthan,88,14,3,4,Summer
+19-05-2022,771,806,Betadine,Pune,Maharashtra,89.77,12,8,3,Summer
+20-05-2022,782,828,Betadine,Delhi,Delhi,95.74,12,8,5,Summer
+21-05-2022,779,828,Betadine,Chennai,Tamil Nadu,93.56,12,6,2,Summer
+22-05-2022,798,798,Betadine,Bangalore,Karnataka,107.36,13,5,4,Summer
+23-05-2022,818,818,Betadine,Jaipur,Rajasthan,103.23,12,3,3,Summer
+24-05-2022,773,815,Betadine,Hyderabad,Telangana,86.94,12,7,4,Summer
+25-05-2022,774,802,Betadine,Ahmedabad,Gujarat,85.61,11,7,4,Summer
+26-05-2022,797,797,Betadine,Chennai,Tamil Nadu,108.13,13,3,2,Summer
+27-05-2022,792,873,Betadine,Mumbai,Maharashtra,98.91,12,3,4,Summer
+28-05-2022,810,810,Betadine,Bangalore,Karnataka,98.75,16,6,5,Summer
+29-05-2022,792,814,Betadine,Kolkata,West Bengal,93.57,11,2,4,Summer
+30-05-2022,778,808,Betadine,Mumbai,Maharashtra,92.57,11,4,3,Summer
+31-05-2022,793,844,Betadine,Bangalore,Karnataka,85.59,12,3,2,Summer
+01-06-2022,801,819,Betadine,Kolkata,West Bengal,94.59,13,3,4,Summer
+02-06-2022,798,845,Betadine,Jaipur,Rajasthan,93.56,9,3,6,Summer
+03-06-2022,793,882,Betadine,Lucknow,Uttar Pradesh,87.88,12,7,5,Summer
+04-06-2022,802,877,Betadine,Pune,Maharashtra,90.71,6,1,5,Summer
+05-06-2022,805,823,Betadine,Hyderabad,Telangana,100.98,11,6,5,Summer
+06-06-2022,808,893,Betadine,Kolkata,West Bengal,92.97,13,5,4,Summer
+07-06-2022,798,798,Betadine,Kolkata,West Bengal,102.36,10,7,4,Summer
+08-06-2022,786,786,Betadine,Kolkata,West Bengal,81.5,11,5,5,Summer
+09-06-2022,792,799,Betadine,Pune,Maharashtra,88.19,10,4,3,Summer
+10-06-2022,808,808,Betadine,Kolkata,West Bengal,85.06,9,3,5,Summer
+11-06-2022,778,834,Betadine,Ahmedabad,Gujarat,82.55,13,7,6,Summer
+12-06-2022,797,888,Betadine,Mumbai,Maharashtra,86.66,8,6,4,Summer
+13-06-2022,786,786,Betadine,Kolkata,West Bengal,90.78,11,4,5,Summer
+14-06-2022,793,827,Betadine,Kolkata,West Bengal,91.13,11,6,4,Summer
+15-06-2022,812,850,Betadine,Hyderabad,Telangana,88.8,9,4,5,Summer
+16-06-2022,797,844,Betadine,Lucknow,Uttar Pradesh,78.66,11,5,5,Summer
+17-06-2022,795,823,Betadine,Hyderabad,Telangana,96.79,8,3,5,Summer
+18-06-2022,775,859,Betadine,Jaipur,Rajasthan,84.97,11,6,5,Summer
+19-06-2022,807,880,Betadine,Ahmedabad,Gujarat,84.82,7,3,3,Summer
+20-06-2022,806,857,Betadine,Ahmedabad,Gujarat,91.57,9,4,4,Summer
+21-06-2022,830,853,Betadine,Chennai,Tamil Nadu,94.02,9,3,7,Summer
+22-06-2022,793,883,Betadine,Bangalore,Karnataka,86.39,12,5,6,Summer
+23-06-2022,802,820,Betadine,Kolkata,West Bengal,89.54,10,5,3,Summer
+24-06-2022,803,836,Betadine,Jaipur,Rajasthan,83.02,11,2,7,Summer
+25-06-2022,824,896,Betadine,Kolkata,West Bengal,95,11,5,4,Summer
+26-06-2022,799,804,Betadine,Ahmedabad,Gujarat,82.82,10,2,6,Summer
+27-06-2022,806,891,Betadine,Chennai,Tamil Nadu,85.37,9,9,7,Summer
+28-06-2022,811,811,Betadine,Ahmedabad,Gujarat,92.04,11,3,6,Summer
+29-06-2022,806,830,Betadine,Kolkata,West Bengal,93.82,8,7,5,Summer
+30-06-2022,797,797,Betadine,Delhi,Delhi,94.33,6,5,5,Summer
+01-07-2022,808,880,Betadine,Kolkata,West Bengal,92.88,9,5,6,Monsoon
+02-07-2022,822,915,Betadine,Ahmedabad,Gujarat,87.58,10,2,5,Monsoon
+03-07-2022,791,796,Betadine,Ahmedabad,Gujarat,77.09,6,6,5,Monsoon
+04-07-2022,809,849,Betadine,Pune,Maharashtra,94.03,7,5,6,Monsoon
+05-07-2022,797,813,Betadine,Pune,Maharashtra,92.05,6,5,5,Monsoon
+06-07-2022,827,889,Betadine,Bangalore,Karnataka,85.44,10,4,7,Monsoon
+07-07-2022,787,787,Betadine,Chennai,Tamil Nadu,87.81,12,5,5,Monsoon
+08-07-2022,802,880,Betadine,Jaipur,Rajasthan,83.34,8,3,3,Monsoon
+09-07-2022,817,896,Betadine,Lucknow,Uttar Pradesh,94.31,9,4,5,Monsoon
+10-07-2022,836,836,Betadine,Mumbai,Maharashtra,86.43,9,4,6,Monsoon
+11-07-2022,812,889,Betadine,Chennai,Tamil Nadu,95.49,11,3,7,Monsoon
+12-07-2022,806,850,Betadine,Lucknow,Uttar Pradesh,88.33,7,5,6,Monsoon
+13-07-2022,843,843,Betadine,Lucknow,Uttar Pradesh,98.19,7,5,6,Monsoon
+14-07-2022,794,794,Betadine,Delhi,Delhi,80.08,7,5,6,Monsoon
+15-07-2022,784,862,Betadine,Kolkata,West Bengal,82.83,8,4,8,Monsoon
+16-07-2022,824,872,Betadine,Pune,Maharashtra,80.95,13,6,7,Monsoon
+17-07-2022,811,868,Betadine,Hyderabad,Telangana,88.02,8,5,6,Monsoon
+18-07-2022,804,804,Betadine,Chennai,Tamil Nadu,87.1,6,5,8,Monsoon
+19-07-2022,831,832,Betadine,Hyderabad,Telangana,97.99,5,5,6,Monsoon
+20-07-2022,825,837,Betadine,Ahmedabad,Gujarat,87.21,10,7,4,Monsoon
+21-07-2022,814,870,Betadine,Pune,Maharashtra,86.82,6,2,5,Monsoon
+22-07-2022,804,804,Betadine,Lucknow,Uttar Pradesh,79.25,9,4,7,Monsoon
+23-07-2022,837,838,Betadine,Chennai,Tamil Nadu,88.51,6,6,5,Monsoon
+24-07-2022,835,835,Betadine,Pune,Maharashtra,83.3,5,2,7,Monsoon
+25-07-2022,825,920,Betadine,Ahmedabad,Gujarat,84.18,8,8,6,Monsoon
+26-07-2022,855,860,Betadine,Mumbai,Maharashtra,88.27,6,5,8,Monsoon
+27-07-2022,812,812,Betadine,Bangalore,Karnataka,79.64,8,7,7,Monsoon
+28-07-2022,806,863,Betadine,Bangalore,Karnataka,80.71,8,7,5,Monsoon
+29-07-2022,820,840,Betadine,Mumbai,Maharashtra,79.92,8,6,7,Monsoon
+30-07-2022,831,831,Betadine,Jaipur,Rajasthan,81.1,6,1,8,Monsoon
+31-07-2022,836,883,Betadine,Kolkata,West Bengal,88.78,8,5,5,Monsoon
+01-08-2022,830,924,Betadine,Kolkata,West Bengal,83.28,5,6,6,Monsoon
+02-08-2022,840,840,Betadine,Pune,Maharashtra,85.14,2,3,7,Monsoon
+03-08-2022,817,904,Betadine,Ahmedabad,Gujarat,72.91,8,2,7,Monsoon
+04-08-2022,858,858,Betadine,Hyderabad,Telangana,87.52,7,6,9,Monsoon
+05-08-2022,837,839,Betadine,Hyderabad,Telangana,84.85,5,3,7,Monsoon
+06-08-2022,856,901,Betadine,Bangalore,Karnataka,82.61,3,9,9,Monsoon
+07-08-2022,845,928,Betadine,Pune,Maharashtra,93.23,2,6,6,Monsoon
+08-08-2022,848,851,Betadine,Lucknow,Uttar Pradesh,71.55,6,8,7,Monsoon
+09-08-2022,851,851,Betadine,Hyderabad,Telangana,87.12,9,5,6,Monsoon
+10-08-2022,850,850,Betadine,Jaipur,Rajasthan,86.36,6,7,6,Monsoon
+11-08-2022,854,854,Betadine,Chennai,Tamil Nadu,85.71,5,6,6,Monsoon
+12-08-2022,866,882,Betadine,Kolkata,West Bengal,85.28,6,7,6,Monsoon
+13-08-2022,850,875,Betadine,Bangalore,Karnataka,84.75,10,1,4,Monsoon
+14-08-2022,859,904,Betadine,Delhi,Delhi,87.34,7,7,5,Monsoon
+15-08-2022,848,866,Betadine,Kolkata,West Bengal,77.57,4,7,7,Monsoon
+16-08-2022,872,872,Betadine,Chennai,Tamil Nadu,85.7,6,5,6,Monsoon
+17-08-2022,841,841,Betadine,Lucknow,Uttar Pradesh,79.08,6,5,6,Monsoon
+18-08-2022,880,894,Betadine,Ahmedabad,Gujarat,79.33,3,5,5,Monsoon
+19-08-2022,853,872,Betadine,Bangalore,Karnataka,84.59,7,6,6,Monsoon
+20-08-2022,833,837,Betadine,Hyderabad,Telangana,75.38,4,8,7,Monsoon
+21-08-2022,858,941,Betadine,Kolkata,West Bengal,73.71,2,5,7,Monsoon
+22-08-2022,847,881,Betadine,Mumbai,Maharashtra,76.9,5,2,6,Monsoon
+23-08-2022,871,872,Betadine,Chennai,Tamil Nadu,78.41,5,11,5,Monsoon
+24-08-2022,850,898,Betadine,Mumbai,Maharashtra,84.54,5,7,7,Monsoon
+25-08-2022,854,947,Betadine,Hyderabad,Telangana,80.57,4,5,7,Monsoon
+26-08-2022,834,836,Betadine,Kolkata,West Bengal,83.71,4,8,4,Monsoon
+27-08-2022,857,916,Betadine,Jaipur,Rajasthan,76.27,7,8,4,Monsoon
+28-08-2022,828,885,Betadine,Ahmedabad,Gujarat,79.97,6,7,4,Monsoon
+29-08-2022,842,854,Betadine,Lucknow,Uttar Pradesh,91.4,3,5,5,Monsoon
+30-08-2022,879,912,Betadine,Hyderabad,Telangana,83.58,1,8,6,Monsoon
+31-08-2022,880,972,Betadine,Lucknow,Uttar Pradesh,86.11,3,8,6,Monsoon
+01-09-2022,876,876,Betadine,Kolkata,West Bengal,84.67,5,3,5,Winter
+02-09-2022,856,856,Betadine,Kolkata,West Bengal,71.09,4,7,5,Winter
+03-09-2022,871,882,Betadine,Chennai,Tamil Nadu,82.93,3,7,7,Winter
+04-09-2022,873,881,Betadine,Ahmedabad,Gujarat,81.73,4,7,5,Winter
+05-09-2022,857,900,Betadine,Bangalore,Karnataka,76.5,5,7,5,Winter
+06-09-2022,898,989,Betadine,Chennai,Tamil Nadu,78.58,6,9,4,Winter
+07-09-2022,890,969,Betadine,Hyderabad,Telangana,85.27,5,6,7,Winter
+08-09-2022,875,884,Betadine,Kolkata,West Bengal,74.74,5,7,5,Winter
+09-09-2022,880,880,Betadine,Delhi,Delhi,90.67,4,7,4,Winter
+10-09-2022,884,884,Betadine,Delhi,Delhi,80.97,4,6,3,Winter
+11-09-2022,852,939,Betadine,Delhi,Delhi,69.68,6,4,3,Winter
+12-09-2022,880,957,Betadine,Pune,Maharashtra,76.83,6,7,4,Winter
+13-09-2022,875,885,Betadine,Bangalore,Karnataka,77.21,9,7,3,Winter
+14-09-2022,871,871,Betadine,Chennai,Tamil Nadu,90.06,6,6,3,Winter
+15-09-2022,883,883,Betadine,Jaipur,Rajasthan,74.98,4,7,5,Winter
+16-09-2022,916,916,Betadine,Jaipur,Rajasthan,83.02,3,1,5,Winter
+17-09-2022,900,900,Betadine,Bangalore,Karnataka,78.51,6,10,6,Winter
+18-09-2022,883,949,Betadine,Bangalore,Karnataka,81.3,3,9,2,Winter
+19-09-2022,901,924,Betadine,Chennai,Tamil Nadu,78.39,6,5,3,Winter
+20-09-2022,915,915,Betadine,Mumbai,Maharashtra,77.1,3,6,3,Winter
+21-09-2022,909,958,Betadine,Lucknow,Uttar Pradesh,80.82,5,10,5,Winter
+22-09-2022,897,915,Betadine,Lucknow,Uttar Pradesh,78.5,2,5,4,Winter
+23-09-2022,888,969,Betadine,Pune,Maharashtra,75.64,6,8,5,Winter
+24-09-2022,910,1006,Betadine,Lucknow,Uttar Pradesh,78.71,2,7,4,Winter
+25-09-2022,906,1000,Betadine,Pune,Maharashtra,86.72,5,8,3,Winter
+26-09-2022,915,915,Betadine,Ahmedabad,Gujarat,80.2,4,8,4,Winter
+27-09-2022,913,1013,Betadine,Lucknow,Uttar Pradesh,75.73,5,7,2,Winter
+28-09-2022,920,940,Betadine,Ahmedabad,Gujarat,79.89,4,8,1,Winter
+29-09-2022,898,963,Betadine,Mumbai,Maharashtra,79.27,4,7,4,Winter
+30-09-2022,927,963,Betadine,Ahmedabad,Gujarat,76.12,5,4,3,Winter
+01-10-2022,911,991,Betadine,Pune,Maharashtra,88.73,3,6,5,Winter
+02-10-2022,941,941,Betadine,Hyderabad,Telangana,88.74,3,6,2,Winter
+03-10-2022,901,961,Betadine,Jaipur,Rajasthan,86.15,4,5,3,Winter
+04-10-2022,938,938,Betadine,Bangalore,Karnataka,85.76,4,9,4,Winter
+05-10-2022,917,940,Betadine,Ahmedabad,Gujarat,70.33,3,8,3,Winter
+06-10-2022,905,981,Betadine,Pune,Maharashtra,86.88,6,9,4,Winter
+07-10-2022,909,909,Betadine,Kolkata,West Bengal,75.28,4,9,2,Winter
+08-10-2022,913,952,Betadine,Hyderabad,Telangana,76.09,4,10,4,Winter
+09-10-2022,925,1018,Betadine,Chennai,Tamil Nadu,82.18,2,9,3,Winter
+10-10-2022,928,928,Betadine,Lucknow,Uttar Pradesh,88.69,9,6,4,Winter
+11-10-2022,913,936,Betadine,Ahmedabad,Gujarat,84.87,10,10,2,Winter
+12-10-2022,923,923,Betadine,Kolkata,West Bengal,85.33,3,9,2,Winter
+13-10-2022,956,956,Betadine,Chennai,Tamil Nadu,83.64,7,13,2,Winter
+14-10-2022,951,951,Betadine,Mumbai,Maharashtra,82.76,5,9,2,Winter
+15-10-2022,933,1008,Betadine,Bangalore,Karnataka,83.73,8,9,2,Winter
+16-10-2022,929,1024,Betadine,Kolkata,West Bengal,80.55,6,8,2,Winter
+17-10-2022,931,999,Betadine,Lucknow,Uttar Pradesh,85.85,5,9,2,Winter
+18-10-2022,940,956,Betadine,Chennai,Tamil Nadu,86.75,0,9,3,Winter
+19-10-2022,917,917,Betadine,Bangalore,Karnataka,82.36,3,8,1,Winter
+20-10-2022,929,963,Betadine,Ahmedabad,Gujarat,68.37,5,9,2,Winter
+21-10-2022,910,979,Betadine,Chennai,Tamil Nadu,78.84,5,10,2,Winter
+22-10-2022,942,942,Betadine,Delhi,Delhi,81.86,3,8,2,Winter
+23-10-2022,947,947,Betadine,Hyderabad,Telangana,83.84,4,11,3,Winter
+24-10-2022,931,931,Betadine,Chennai,Tamil Nadu,77.23,6,10,2,Winter
+25-10-2022,963,1021,Betadine,Delhi,Delhi,78.58,2,7,2,Winter
+26-10-2022,923,952,Betadine,Delhi,Delhi,81.92,6,7,2,Winter
+27-10-2022,920,951,Betadine,Delhi,Delhi,77.62,8,10,4,Winter
+28-10-2022,947,947,Betadine,Pune,Maharashtra,85.67,6,8,4,Winter
+29-10-2022,960,960,Betadine,Bangalore,Karnataka,81.25,6,7,2,Winter
+30-10-2022,971,1036,Betadine,Ahmedabad,Gujarat,93.08,1,13,2,Winter
+31-10-2022,940,940,Betadine,Mumbai,Maharashtra,86.81,4,7,1,Winter
+01-11-2022,965,999,Betadine,Chennai,Tamil Nadu,86.48,10,6,2,Winter
+02-11-2022,949,949,Betadine,Hyderabad,Telangana,81.73,4,8,1,Winter
+03-11-2022,948,948,Betadine,Chennai,Tamil Nadu,87.06,8,10,2,Winter
+04-11-2022,965,965,Betadine,Kolkata,West Bengal,86.96,4,10,4,Winter
+05-11-2022,963,983,Betadine,Mumbai,Maharashtra,85.79,5,13,1,Winter
+06-11-2022,931,990,Betadine,Lucknow,Uttar Pradesh,85.61,7,8,2,Winter
+07-11-2022,978,1050,Betadine,Jaipur,Rajasthan,93.73,6,10,2,Winter
+08-11-2022,978,989,Betadine,Jaipur,Rajasthan,80.34,7,12,1,Winter
+09-11-2022,949,985,Betadine,Jaipur,Rajasthan,77.35,4,8,4,Winter
+10-11-2022,965,965,Betadine,Delhi,Delhi,80.9,4,11,3,Winter
+11-11-2022,968,968,Betadine,Ahmedabad,Gujarat,77.69,4,6,5,Winter
+12-11-2022,966,966,Betadine,Mumbai,Maharashtra,84.49,5,13,2,Winter
+13-11-2022,955,955,Betadine,Chennai,Tamil Nadu,86.4,6,12,1,Winter
+14-11-2022,954,1013,Betadine,Chennai,Tamil Nadu,83.29,8,8,4,Winter
+15-11-2022,965,965,Betadine,Mumbai,Maharashtra,82.13,7,12,3,Winter
+16-11-2022,984,1057,Betadine,Ahmedabad,Gujarat,93.03,7,13,3,Winter
+17-11-2022,976,1001,Betadine,Kolkata,West Bengal,86.9,7,7,5,Winter
+18-11-2022,963,963,Betadine,Kolkata,West Bengal,86.31,4,9,3,Winter
+19-11-2022,982,982,Betadine,Lucknow,Uttar Pradesh,92.77,7,13,4,Winter
+20-11-2022,928,928,Betadine,Mumbai,Maharashtra,79.18,7,10,3,Winter
+21-11-2022,989,989,Betadine,Jaipur,Rajasthan,98.3,8,11,3,Winter
+22-11-2022,947,1028,Betadine,Hyderabad,Telangana,80.16,5,10,3,Winter
+23-11-2022,969,990,Betadine,Mumbai,Maharashtra,95.39,3,12,4,Winter
+24-11-2022,959,959,Betadine,Kolkata,West Bengal,79.13,7,11,4,Winter
+25-11-2022,957,957,Betadine,Pune,Maharashtra,86.39,8,10,4,Winter
+26-11-2022,995,1028,Betadine,Jaipur,Rajasthan,85.79,7,6,1,Winter
+27-11-2022,972,972,Betadine,Delhi,Delhi,91.4,7,11,2,Winter
+28-11-2022,985,1006,Betadine,Jaipur,Rajasthan,85.21,9,12,2,Winter
+29-11-2022,980,980,Betadine,Bangalore,Karnataka,88.45,6,8,3,Winter
+30-11-2022,989,989,Betadine,Jaipur,Rajasthan,84.95,7,8,2,Winter
+01-12-2022,984,1014,Betadine,Kolkata,West Bengal,92.29,8,11,6,Winter
+02-12-2022,965,1045,Betadine,Pune,Maharashtra,81.72,5,11,4,Winter
+03-12-2022,1000,1017,Betadine,Jaipur,Rajasthan,98.22,7,6,4,Winter
+04-12-2022,979,1023,Betadine,Lucknow,Uttar Pradesh,82.02,8,9,3,Winter
+05-12-2022,964,964,Betadine,Chennai,Tamil Nadu,78.27,11,11,3,Winter
+06-12-2022,982,1073,Betadine,Pune,Maharashtra,92.36,7,12,6,Winter
+07-12-2022,1012,1012,Betadine,Delhi,Delhi,88.64,8,9,6,Winter
+08-12-2022,1003,1005,Betadine,Pune,Maharashtra,90.36,10,10,5,Winter
+09-12-2022,986,1020,Betadine,Lucknow,Uttar Pradesh,86.59,7,9,2,Winter
+10-12-2022,987,1085,Betadine,Jaipur,Rajasthan,81.84,11,13,4,Winter
+11-12-2022,989,989,Betadine,Ahmedabad,Gujarat,88.22,12,11,5,Winter
+12-12-2022,1025,1025,Betadine,Lucknow,Uttar Pradesh,99.92,8,9,4,Winter
+13-12-2022,1001,1080,Betadine,Hyderabad,Telangana,95.42,7,8,3,Winter
+14-12-2022,1003,1048,Betadine,Chennai,Tamil Nadu,91.96,12,8,7,Winter
+15-12-2022,1013,1013,Betadine,Pune,Maharashtra,97.76,10,14,4,Winter
+16-12-2022,1002,1002,Betadine,Pune,Maharashtra,85.5,9,10,4,Winter
+17-12-2022,995,995,Betadine,Pune,Maharashtra,88.37,12,10,5,Winter
+18-12-2022,997,1022,Betadine,Chennai,Tamil Nadu,92.18,12,10,6,Winter
+19-12-2022,1000,1069,Betadine,Lucknow,Uttar Pradesh,89.95,8,9,6,Winter
+20-12-2022,1001,1066,Betadine,Chennai,Tamil Nadu,89.77,10,10,4,Winter
+21-12-2022,1014,1093,Betadine,Kolkata,West Bengal,86.6,10,11,4,Winter
+22-12-2022,1004,1004,Betadine,Ahmedabad,Gujarat,81.19,9,11,3,Winter
+23-12-2022,1015,1108,Betadine,Lucknow,Uttar Pradesh,97.09,7,8,5,Winter
+24-12-2022,1004,1090,Betadine,Chennai,Tamil Nadu,92.82,8,12,5,Winter
+25-12-2022,1007,1007,Betadine,Jaipur,Rajasthan,96.71,7,9,6,Winter
+26-12-2022,977,1052,Betadine,Ahmedabad,Gujarat,86.01,11,9,5,Winter
+27-12-2022,1022,1058,Betadine,Jaipur,Rajasthan,90.64,7,9,7,Winter
+28-12-2022,1014,1076,Betadine,Delhi,Delhi,93.23,10,8,6,Winter
+29-12-2022,1024,1024,Betadine,Chennai,Tamil Nadu,99.07,14,11,5,Winter
+30-12-2022,967,1063,Betadine,Mumbai,Maharashtra,86.04,13,12,6,Winter
+31-12-2022,1042,1104,Betadine,Bangalore,Karnataka,101.41,6,9,7,Winter
+01-01-2023,1010,1087,Betadine,Lucknow,Uttar Pradesh,87.97,8,7,5,Winter
+02-01-2023,1029,1057,Betadine,Kolkata,West Bengal,94.99,9,8,6,Winter
+03-01-2023,998,1084,Betadine,Pune,Maharashtra,91.25,8,10,6,Winter
+04-01-2023,1023,1109,Betadine,Bangalore,Karnataka,101.33,7,8,6,Winter
+05-01-2023,999,1063,Betadine,Mumbai,Maharashtra,93.04,11,9,7,Winter
+06-01-2023,1006,1093,Betadine,Hyderabad,Telangana,101.73,12,9,7,Winter
+07-01-2023,1045,1077,Betadine,Chennai,Tamil Nadu,91.46,13,10,7,Winter
+08-01-2023,1014,1014,Betadine,Jaipur,Rajasthan,94.85,10,7,7,Winter
+09-01-2023,1021,1036,Betadine,Pune,Maharashtra,96.1,10,12,6,Winter
+10-01-2023,1032,1032,Betadine,Lucknow,Uttar Pradesh,99.9,12,14,7,Winter
+11-01-2023,1027,1027,Betadine,Pune,Maharashtra,92.13,11,13,5,Winter
+12-01-2023,1022,1022,Betadine,Kolkata,West Bengal,104.02,13,9,9,Winter
+13-01-2023,1026,1045,Betadine,Mumbai,Maharashtra,96.46,12,12,8,Winter
+14-01-2023,1057,1057,Betadine,Pune,Maharashtra,95.16,11,11,7,Winter
+15-01-2023,1021,1021,Betadine,Jaipur,Rajasthan,95.72,8,10,7,Winter
+16-01-2023,1026,1026,Betadine,Pune,Maharashtra,95.03,14,11,7,Winter
+17-01-2023,1039,1071,Betadine,Mumbai,Maharashtra,112.32,10,12,5,Winter
+18-01-2023,1041,1041,Betadine,Hyderabad,Telangana,103.85,12,12,5,Winter
+19-01-2023,1043,1053,Betadine,Jaipur,Rajasthan,99.25,8,9,5,Winter
+20-01-2023,1035,1121,Betadine,Chennai,Tamil Nadu,97.44,12,12,7,Winter
+21-01-2023,1009,1091,Betadine,Chennai,Tamil Nadu,99.56,12,13,6,Winter
+22-01-2023,1051,1070,Betadine,Pune,Maharashtra,105.39,12,12,7,Winter
+23-01-2023,1010,1086,Betadine,Hyderabad,Telangana,80.44,18,13,6,Winter
+24-01-2023,1032,1032,Betadine,Delhi,Delhi,101.41,11,5,8,Winter
+25-01-2023,1017,1017,Betadine,Hyderabad,Telangana,96.34,14,11,6,Winter
+26-01-2023,1028,1058,Betadine,Ahmedabad,Gujarat,91.24,13,11,6,Winter
+27-01-2023,1034,1096,Betadine,Chennai,Tamil Nadu,103,11,12,7,Winter
+28-01-2023,1035,1035,Betadine,Hyderabad,Telangana,110.03,14,8,7,Winter
+29-01-2023,1037,1037,Betadine,Lucknow,Uttar Pradesh,101.98,12,9,5,Winter
+30-01-2023,1055,1055,Betadine,Pune,Maharashtra,107.3,14,12,8,Winter
+31-01-2023,1039,1074,Betadine,Delhi,Delhi,108.62,16,8,7,Winter
+01-02-2023,1029,1123,Betadine,Kolkata,West Bengal,94.25,13,10,4,Winter
+02-02-2023,1047,1047,Betadine,Delhi,Delhi,91.51,12,10,6,Winter
+03-02-2023,1051,1142,Betadine,Chennai,Tamil Nadu,104.68,15,9,6,Winter
+04-02-2023,1015,1078,Betadine,Pune,Maharashtra,95.56,16,11,5,Winter
+05-02-2023,1043,1050,Betadine,Jaipur,Rajasthan,93.73,11,7,8,Winter
+06-02-2023,1045,1144,Betadine,Hyderabad,Telangana,100.61,12,8,6,Winter
+07-02-2023,1031,1031,Betadine,Pune,Maharashtra,102.64,14,9,7,Winter
+08-02-2023,1056,1076,Betadine,Pune,Maharashtra,101.86,13,7,6,Winter
+09-02-2023,1034,1112,Betadine,Chennai,Tamil Nadu,95.67,11,12,7,Winter
+10-02-2023,1039,1106,Betadine,Mumbai,Maharashtra,99.28,14,8,8,Winter
+11-02-2023,1035,1112,Betadine,Pune,Maharashtra,99.9,15,11,7,Winter
+12-02-2023,1038,1038,Betadine,Hyderabad,Telangana,90.75,13,8,8,Winter
+13-02-2023,1022,1022,Betadine,Bangalore,Karnataka,97.69,13,11,7,Winter
+14-02-2023,1017,1098,Betadine,Bangalore,Karnataka,91.08,12,6,6,Winter
+15-02-2023,1063,1063,Betadine,Pune,Maharashtra,107.3,11,12,6,Winter
+16-02-2023,1027,1052,Betadine,Kolkata,West Bengal,91.39,13,12,3,Winter
+17-02-2023,1025,1025,Betadine,Bangalore,Karnataka,104.06,14,8,5,Winter
+18-02-2023,1008,1082,Betadine,Delhi,Delhi,94.75,11,8,6,Winter
+19-02-2023,1031,1045,Betadine,Kolkata,West Bengal,97.29,13,10,6,Winter
+20-02-2023,1021,1102,Betadine,Jaipur,Rajasthan,100.27,14,6,6,Winter
+21-02-2023,1066,1158,Betadine,Mumbai,Maharashtra,100.47,16,9,6,Winter
+22-02-2023,1057,1109,Betadine,Lucknow,Uttar Pradesh,104.99,13,7,4,Winter
+23-02-2023,1032,1092,Betadine,Bangalore,Karnataka,96.74,11,8,4,Winter
+24-02-2023,1076,1156,Betadine,Kolkata,West Bengal,103.62,13,8,4,Winter
+25-02-2023,1058,1058,Betadine,Pune,Maharashtra,105.83,13,7,7,Winter
+26-02-2023,1039,1052,Betadine,Chennai,Tamil Nadu,95.71,15,12,4,Winter
+27-02-2023,1006,1006,Betadine,Delhi,Delhi,90.68,13,10,4,Winter
+28-02-2023,1078,1125,Betadine,Hyderabad,Telangana,108.04,9,6,5,Winter
+01-03-2023,1024,1024,Betadine,Hyderabad,Telangana,99.47,21,7,3,Summer
+02-03-2023,1020,1113,Betadine,Mumbai,Maharashtra,99.84,14,10,4,Summer
+03-03-2023,1061,1117,Betadine,Lucknow,Uttar Pradesh,106.24,14,11,6,Summer
+04-03-2023,1082,1082,Betadine,Pune,Maharashtra,107.69,11,6,4,Summer
+05-03-2023,1067,1077,Betadine,Delhi,Delhi,108.44,11,10,6,Summer
+06-03-2023,1055,1116,Betadine,Delhi,Delhi,104.29,14,9,3,Summer
+07-03-2023,1055,1076,Betadine,Delhi,Delhi,93.96,15,5,4,Summer
+08-03-2023,1060,1114,Betadine,Chennai,Tamil Nadu,95.86,16,8,4,Summer
+09-03-2023,1059,1068,Betadine,Lucknow,Uttar Pradesh,114.04,15,8,4,Summer
+10-03-2023,1052,1079,Betadine,Mumbai,Maharashtra,103.6,12,8,3,Summer
+11-03-2023,1049,1055,Betadine,Chennai,Tamil Nadu,107.95,9,6,4,Summer
+12-03-2023,1047,1052,Betadine,Hyderabad,Telangana,101.27,14,7,5,Summer
+13-03-2023,1037,1053,Betadine,Delhi,Delhi,101.31,13,7,4,Summer
+14-03-2023,1045,1121,Betadine,Mumbai,Maharashtra,100.33,12,7,3,Summer
+15-03-2023,1024,1050,Betadine,Mumbai,Maharashtra,112.13,16,7,6,Summer
+16-03-2023,1048,1137,Betadine,Delhi,Delhi,104.47,11,8,4,Summer
+17-03-2023,1035,1092,Betadine,Ahmedabad,Gujarat,98.73,16,9,5,Summer
+18-03-2023,1033,1033,Betadine,Chennai,Tamil Nadu,92.94,12,11,5,Summer
+19-03-2023,1053,1066,Betadine,Bangalore,Karnataka,113.67,15,10,4,Summer
+20-03-2023,1071,1144,Betadine,Bangalore,Karnataka,105.38,16,10,3,Summer
+21-03-2023,1065,1127,Betadine,Jaipur,Rajasthan,109.12,14,7,4,Summer
+22-03-2023,1028,1062,Betadine,Bangalore,Karnataka,104.68,18,6,3,Summer
+23-03-2023,1037,1037,Betadine,Hyderabad,Telangana,99.29,18,9,4,Summer
+24-03-2023,1066,1133,Betadine,Lucknow,Uttar Pradesh,108.76,15,8,3,Summer
+25-03-2023,1037,1037,Betadine,Jaipur,Rajasthan,98.58,16,9,4,Summer
+26-03-2023,1049,1114,Betadine,Chennai,Tamil Nadu,98.25,17,6,2,Summer
+27-03-2023,1061,1061,Betadine,Bangalore,Karnataka,110.62,16,9,4,Summer
+28-03-2023,1038,1122,Betadine,Jaipur,Rajasthan,101.01,15,7,4,Summer
+29-03-2023,1055,1083,Betadine,Mumbai,Maharashtra,106.39,13,6,3,Summer
+30-03-2023,1033,1121,Betadine,Mumbai,Maharashtra,103.05,11,7,4,Summer
+31-03-2023,1045,1064,Betadine,Ahmedabad,Gujarat,105.59,12,8,4,Summer
+01-04-2023,1059,1059,Betadine,Lucknow,Uttar Pradesh,96.62,19,9,4,Summer
+02-04-2023,1030,1077,Betadine,Jaipur,Rajasthan,97.67,15,6,4,Summer
+03-04-2023,1061,1150,Betadine,Delhi,Delhi,102.98,14,8,3,Summer
+04-04-2023,1055,1093,Betadine,Pune,Maharashtra,99.44,17,8,2,Summer
+05-04-2023,1063,1063,Betadine,Mumbai,Maharashtra,106.95,13,8,2,Summer
+06-04-2023,1059,1125,Betadine,Bangalore,Karnataka,110.13,16,9,3,Summer
+07-04-2023,1076,1076,Betadine,Pune,Maharashtra,113.13,15,10,4,Summer
+08-04-2023,1058,1069,Betadine,Pune,Maharashtra,102.1,15,6,3,Summer
+09-04-2023,1050,1065,Betadine,Jaipur,Rajasthan,104.26,14,10,4,Summer
+10-04-2023,1058,1067,Betadine,Bangalore,Karnataka,106.03,12,7,4,Summer
+11-04-2023,1065,1101,Betadine,Delhi,Delhi,107.71,13,4,2,Summer
+12-04-2023,1058,1058,Betadine,Bangalore,Karnataka,99.21,13,5,5,Summer
+13-04-2023,1058,1113,Betadine,Delhi,Delhi,112.7,14,7,3,Summer
+14-04-2023,1047,1047,Betadine,Mumbai,Maharashtra,106.63,11,8,2,Summer
+15-04-2023,1048,1079,Betadine,Chennai,Tamil Nadu,106.76,12,4,3,Summer
+16-04-2023,1037,1037,Betadine,Chennai,Tamil Nadu,106.62,14,5,3,Summer
+17-04-2023,1085,1152,Betadine,Jaipur,Rajasthan,109.47,14,5,2,Summer
+18-04-2023,1040,1107,Betadine,Lucknow,Uttar Pradesh,95.66,14,5,2,Summer
+19-04-2023,1049,1124,Betadine,Chennai,Tamil Nadu,101.11,14,2,2,Summer
+20-04-2023,1049,1143,Betadine,Kolkata,West Bengal,93.54,19,2,3,Summer
+21-04-2023,1073,1165,Betadine,Chennai,Tamil Nadu,107.08,14,5,3,Summer
+22-04-2023,1056,1063,Betadine,Lucknow,Uttar Pradesh,101.55,13,7,2,Summer
+23-04-2023,1079,1082,Betadine,Hyderabad,Telangana,105.2,14,7,3,Summer
+24-04-2023,1051,1092,Betadine,Delhi,Delhi,107.62,16,3,1,Summer
+25-04-2023,1065,1065,Betadine,Hyderabad,Telangana,101.12,14,3,3,Summer
+26-04-2023,1049,1049,Betadine,Ahmedabad,Gujarat,99.94,15,5,2,Summer
+27-04-2023,1094,1135,Betadine,Jaipur,Rajasthan,107.11,15,6,2,Summer
+28-04-2023,1044,1044,Betadine,Kolkata,West Bengal,91,13,8,3,Summer
+29-04-2023,1067,1089,Betadine,Bangalore,Karnataka,101.87,14,7,3,Summer
+30-04-2023,1072,1103,Betadine,Hyderabad,Telangana,91.37,17,5,2,Summer
+01-05-2023,1069,1069,Betadine,Bangalore,Karnataka,100.27,14,6,2,Summer
+02-05-2023,1061,1061,Betadine,Kolkata,West Bengal,106.28,12,4,2,Summer
+03-05-2023,1062,1088,Betadine,Ahmedabad,Gujarat,104.24,13,6,3,Summer
+04-05-2023,1065,1164,Betadine,Pune,Maharashtra,99.23,9,5,3,Summer
+05-05-2023,1062,1139,Betadine,Chennai,Tamil Nadu,102,14,8,2,Summer
+06-05-2023,1079,1143,Betadine,Hyderabad,Telangana,98.63,16,7,2,Summer
+07-05-2023,1099,1099,Betadine,Kolkata,West Bengal,106.39,11,4,3,Summer
+08-05-2023,1057,1057,Betadine,Chennai,Tamil Nadu,115.25,13,4,3,Summer
+09-05-2023,1046,1046,Betadine,Jaipur,Rajasthan,108.23,15,5,3,Summer
+10-05-2023,1065,1065,Betadine,Ahmedabad,Gujarat,101.66,15,2,0,Summer
+11-05-2023,1106,1132,Betadine,Chennai,Tamil Nadu,107.4,16,5,3,Summer
+12-05-2023,1055,1073,Betadine,Kolkata,West Bengal,94.9,9,5,4,Summer
+13-05-2023,1092,1092,Betadine,Mumbai,Maharashtra,100.59,14,6,2,Summer
+14-05-2023,1093,1094,Betadine,Lucknow,Uttar Pradesh,106.41,10,6,4,Summer
+15-05-2023,1060,1132,Betadine,Chennai,Tamil Nadu,97.38,11,5,2,Summer
+16-05-2023,1078,1078,Betadine,Chennai,Tamil Nadu,106.52,14,2,2,Summer
+17-05-2023,1094,1094,Betadine,Lucknow,Uttar Pradesh,111.85,13,3,4,Summer
+18-05-2023,1064,1158,Betadine,Chennai,Tamil Nadu,101.66,14,4,3,Summer
+19-05-2023,1067,1124,Betadine,Delhi,Delhi,100.71,11,6,3,Summer
+20-05-2023,1062,1106,Betadine,Mumbai,Maharashtra,91,15,6,4,Summer
+21-05-2023,1056,1056,Betadine,Lucknow,Uttar Pradesh,102.14,14,5,3,Summer
+22-05-2023,1062,1125,Betadine,Kolkata,West Bengal,93.28,14,10,3,Summer
+23-05-2023,1054,1133,Betadine,Kolkata,West Bengal,95.51,10,8,3,Summer
+24-05-2023,1073,1154,Betadine,Pune,Maharashtra,104.8,14,7,3,Summer
+25-05-2023,1062,1097,Betadine,Bangalore,Karnataka,103.55,11,6,4,Summer
+26-05-2023,1077,1077,Betadine,Chennai,Tamil Nadu,97.87,11,6,3,Summer
+27-05-2023,1051,1120,Betadine,Delhi,Delhi,94.36,13,6,5,Summer
+28-05-2023,1080,1080,Betadine,Chennai,Tamil Nadu,96.7,13,1,1,Summer
+29-05-2023,1088,1133,Betadine,Chennai,Tamil Nadu,95.01,10,3,5,Summer
+30-05-2023,1046,1134,Betadine,Jaipur,Rajasthan,92.03,16,4,4,Summer
+31-05-2023,1082,1163,Betadine,Ahmedabad,Gujarat,91.73,15,5,4,Summer
+01-06-2023,1095,1183,Betadine,Mumbai,Maharashtra,104.82,13,4,3,Summer
+02-06-2023,1059,1077,Betadine,Jaipur,Rajasthan,98.37,12,5,2,Summer
+03-06-2023,1103,1103,Betadine,Kolkata,West Bengal,104.8,12,0,5,Summer
+04-06-2023,1085,1100,Betadine,Ahmedabad,Gujarat,94.63,8,6,5,Summer
+05-06-2023,1068,1084,Betadine,Pune,Maharashtra,91.02,11,5,5,Summer
+06-06-2023,1079,1092,Betadine,Pune,Maharashtra,98.27,11,4,4,Summer
+07-06-2023,1089,1089,Betadine,Delhi,Delhi,99.52,10,6,5,Summer
+08-06-2023,1082,1109,Betadine,Jaipur,Rajasthan,97.26,10,3,4,Summer
+09-06-2023,1089,1092,Betadine,Lucknow,Uttar Pradesh,97.35,6,4,4,Summer
+10-06-2023,1068,1127,Betadine,Mumbai,Maharashtra,104.35,9,5,5,Summer
+11-06-2023,1085,1086,Betadine,Jaipur,Rajasthan,99.93,12,3,5,Summer
+12-06-2023,1062,1071,Betadine,Mumbai,Maharashtra,104.45,14,1,6,Summer
+13-06-2023,1082,1094,Betadine,Mumbai,Maharashtra,103.34,9,2,4,Summer
+14-06-2023,1071,1156,Betadine,Jaipur,Rajasthan,103.72,11,4,3,Summer
+15-06-2023,1074,1074,Betadine,Mumbai,Maharashtra,90.03,13,4,4,Summer
+16-06-2023,1104,1154,Betadine,Hyderabad,Telangana,102.17,9,4,6,Summer
+17-06-2023,1103,1105,Betadine,Ahmedabad,Gujarat,96.64,11,3,5,Summer
+18-06-2023,1096,1096,Betadine,Lucknow,Uttar Pradesh,89.28,10,2,4,Summer
+19-06-2023,1071,1071,Betadine,Delhi,Delhi,101.68,12,5,5,Summer
+20-06-2023,1084,1084,Betadine,Mumbai,Maharashtra,94.13,7,4,5,Summer
+21-06-2023,1107,1107,Betadine,Chennai,Tamil Nadu,93.12,8,6,6,Summer
+22-06-2023,1092,1092,Betadine,Chennai,Tamil Nadu,94.13,10,3,6,Summer
+23-06-2023,1125,1125,Betadine,Bangalore,Karnataka,96.42,10,0,8,Summer
+24-06-2023,1097,1097,Betadine,Bangalore,Karnataka,92.93,9,0,4,Summer
+25-06-2023,1095,1107,Betadine,Mumbai,Maharashtra,94.69,11,4,4,Summer
+26-06-2023,1088,1088,Betadine,Lucknow,Uttar Pradesh,103.25,8,5,6,Summer
+27-06-2023,1096,1142,Betadine,Delhi,Delhi,92.07,7,4,7,Summer
+28-06-2023,1092,1092,Betadine,Bangalore,Karnataka,102.9,8,3,5,Summer
+29-06-2023,1106,1113,Betadine,Mumbai,Maharashtra,100.44,8,1,5,Summer
+30-06-2023,1110,1202,Betadine,Jaipur,Rajasthan,98.58,8,1,6,Summer
+01-07-2023,1085,1160,Betadine,Delhi,Delhi,96.54,11,5,8,Monsoon
+02-07-2023,1078,1126,Betadine,Hyderabad,Telangana,91.67,10,4,5,Monsoon
+03-07-2023,1071,1116,Betadine,Bangalore,Karnataka,96.83,10,4,6,Monsoon
+04-07-2023,1107,1192,Betadine,Bangalore,Karnataka,97.83,9,1,4,Monsoon
+05-07-2023,1083,1120,Betadine,Kolkata,West Bengal,83.28,8,3,6,Monsoon
+06-07-2023,1068,1068,Betadine,Chennai,Tamil Nadu,90.88,7,5,6,Monsoon
+07-07-2023,1107,1175,Betadine,Hyderabad,Telangana,98.32,6,5,8,Monsoon
+08-07-2023,1140,1197,Betadine,Ahmedabad,Gujarat,96.95,7,4,6,Monsoon
+09-07-2023,1103,1174,Betadine,Mumbai,Maharashtra,93.83,8,7,7,Monsoon
+10-07-2023,1117,1184,Betadine,Jaipur,Rajasthan,91.74,6,3,6,Monsoon
+11-07-2023,1106,1171,Betadine,Bangalore,Karnataka,86.31,8,7,6,Monsoon
+12-07-2023,1105,1202,Betadine,Kolkata,West Bengal,84.85,8,5,8,Monsoon
+13-07-2023,1121,1180,Betadine,Ahmedabad,Gujarat,86.91,7,5,8,Monsoon
+14-07-2023,1103,1181,Betadine,Ahmedabad,Gujarat,95.35,10,7,8,Monsoon
+15-07-2023,1113,1113,Betadine,Jaipur,Rajasthan,80.55,3,3,7,Monsoon
+16-07-2023,1114,1114,Betadine,Kolkata,West Bengal,89.67,7,4,6,Monsoon
+17-07-2023,1101,1144,Betadine,Mumbai,Maharashtra,86.97,3,2,7,Monsoon
+18-07-2023,1126,1126,Betadine,Chennai,Tamil Nadu,92.59,8,7,7,Monsoon
+19-07-2023,1110,1182,Betadine,Bangalore,Karnataka,82.12,9,5,7,Monsoon
+20-07-2023,1102,1187,Betadine,Mumbai,Maharashtra,92.22,5,7,6,Monsoon
+21-07-2023,1122,1189,Betadine,Hyderabad,Telangana,86.23,5,5,6,Monsoon
+22-07-2023,1102,1182,Betadine,Jaipur,Rajasthan,95.26,4,7,6,Monsoon
+23-07-2023,1117,1204,Betadine,Mumbai,Maharashtra,88.29,7,3,8,Monsoon
+24-07-2023,1117,1117,Betadine,Kolkata,West Bengal,90.72,6,7,8,Monsoon
+25-07-2023,1135,1135,Betadine,Lucknow,Uttar Pradesh,93.22,6,4,10,Monsoon
+26-07-2023,1126,1204,Betadine,Delhi,Delhi,93.02,6,5,7,Monsoon
+27-07-2023,1120,1178,Betadine,Delhi,Delhi,90.99,5,6,6,Monsoon
+28-07-2023,1134,1134,Betadine,Kolkata,West Bengal,90.26,9,10,6,Monsoon
+29-07-2023,1143,1143,Betadine,Hyderabad,Telangana,95.12,7,7,6,Monsoon
+30-07-2023,1132,1135,Betadine,Delhi,Delhi,93.93,4,7,8,Monsoon
+31-07-2023,1125,1125,Betadine,Chennai,Tamil Nadu,86.57,5,4,7,Monsoon
+01-08-2023,1106,1145,Betadine,Bangalore,Karnataka,89.73,5,5,5,Monsoon
+02-08-2023,1111,1211,Betadine,Bangalore,Karnataka,93.96,9,5,6,Monsoon
+03-08-2023,1123,1198,Betadine,Mumbai,Maharashtra,92.93,8,8,5,Monsoon
+04-08-2023,1120,1120,Betadine,Hyderabad,Telangana,93.26,6,5,7,Monsoon
+05-08-2023,1127,1163,Betadine,Pune,Maharashtra,90.26,10,8,6,Monsoon
+06-08-2023,1132,1132,Betadine,Chennai,Tamil Nadu,85.12,9,3,6,Monsoon
+07-08-2023,1140,1228,Betadine,Kolkata,West Bengal,86.55,6,8,4,Monsoon
+08-08-2023,1132,1221,Betadine,Chennai,Tamil Nadu,90.8,5,4,7,Monsoon
+09-08-2023,1142,1233,Betadine,Lucknow,Uttar Pradesh,94.91,5,7,7,Monsoon
+10-08-2023,1136,1136,Betadine,Bangalore,Karnataka,103.33,4,4,5,Monsoon
+11-08-2023,1107,1199,Betadine,Delhi,Delhi,90.11,9,7,6,Monsoon
+12-08-2023,1124,1124,Betadine,Lucknow,Uttar Pradesh,81.35,4,4,6,Monsoon
+13-08-2023,1137,1137,Betadine,Bangalore,Karnataka,84.76,7,8,6,Monsoon
+14-08-2023,1122,1122,Betadine,Ahmedabad,Gujarat,97.79,7,7,5,Monsoon
+15-08-2023,1150,1150,Betadine,Ahmedabad,Gujarat,88.93,5,4,5,Monsoon
+16-08-2023,1165,1246,Betadine,Bangalore,Karnataka,92.04,9,7,7,Monsoon
+17-08-2023,1162,1259,Betadine,Mumbai,Maharashtra,86.2,2,8,3,Monsoon
+18-08-2023,1141,1141,Betadine,Kolkata,West Bengal,95.83,5,4,6,Monsoon
+19-08-2023,1168,1196,Betadine,Bangalore,Karnataka,93.9,4,4,6,Monsoon
+20-08-2023,1149,1190,Betadine,Mumbai,Maharashtra,84.73,7,4,7,Monsoon
+21-08-2023,1143,1171,Betadine,Bangalore,Karnataka,82.63,6,3,5,Monsoon
+22-08-2023,1140,1140,Betadine,Lucknow,Uttar Pradesh,88.54,2,4,5,Monsoon
+23-08-2023,1146,1197,Betadine,Delhi,Delhi,87.62,8,8,5,Monsoon
+24-08-2023,1146,1198,Betadine,Delhi,Delhi,91.36,6,7,6,Monsoon
+25-08-2023,1156,1186,Betadine,Chennai,Tamil Nadu,91.13,3,3,5,Monsoon
+26-08-2023,1157,1157,Betadine,Jaipur,Rajasthan,86.88,4,5,4,Monsoon
+27-08-2023,1155,1175,Betadine,Mumbai,Maharashtra,85.08,2,4,4,Monsoon
+28-08-2023,1163,1163,Betadine,Jaipur,Rajasthan,87.8,5,8,4,Monsoon
+29-08-2023,1176,1176,Betadine,Ahmedabad,Gujarat,87.45,5,5,4,Monsoon
+30-08-2023,1173,1173,Betadine,Pune,Maharashtra,88.95,4,3,5,Monsoon
+31-08-2023,1138,1238,Betadine,Hyderabad,Telangana,84.68,4,7,5,Monsoon
+01-09-2023,1123,1171,Betadine,Ahmedabad,Gujarat,77.91,2,8,5,Winter
+02-09-2023,1177,1189,Betadine,Chennai,Tamil Nadu,92.55,6,4,5,Winter
+03-09-2023,1144,1162,Betadine,Jaipur,Rajasthan,82.95,1,6,3,Winter
+04-09-2023,1162,1239,Betadine,Delhi,Delhi,82.79,5,5,2,Winter
+05-09-2023,1149,1183,Betadine,Delhi,Delhi,83.24,1,9,3,Winter
+06-09-2023,1141,1176,Betadine,Jaipur,Rajasthan,85.01,5,6,5,Winter
+07-09-2023,1177,1239,Betadine,Hyderabad,Telangana,88.82,5,5,5,Winter
+08-09-2023,1182,1257,Betadine,Ahmedabad,Gujarat,90.91,5,7,5,Winter
+09-09-2023,1163,1173,Betadine,Bangalore,Karnataka,90.69,6,6,5,Winter
+10-09-2023,1134,1134,Betadine,Mumbai,Maharashtra,88.52,7,8,5,Winter
+11-09-2023,1166,1257,Betadine,Bangalore,Karnataka,87.63,1,9,4,Winter
+12-09-2023,1181,1237,Betadine,Delhi,Delhi,82.65,4,9,6,Winter
+13-09-2023,1155,1182,Betadine,Bangalore,Karnataka,82.85,9,6,4,Winter
+14-09-2023,1181,1225,Betadine,Mumbai,Maharashtra,82.58,5,8,6,Winter
+15-09-2023,1179,1193,Betadine,Bangalore,Karnataka,95.68,3,10,3,Winter
+16-09-2023,1189,1226,Betadine,Jaipur,Rajasthan,98.34,4,10,3,Winter
+17-09-2023,1184,1187,Betadine,Kolkata,West Bengal,90.65,4,5,3,Winter
+18-09-2023,1169,1169,Betadine,Jaipur,Rajasthan,89.49,2,8,4,Winter
+19-09-2023,1203,1203,Betadine,Pune,Maharashtra,90.85,6,8,3,Winter
+20-09-2023,1184,1184,Betadine,Hyderabad,Telangana,88.83,6,9,4,Winter
+21-09-2023,1187,1187,Betadine,Mumbai,Maharashtra,79.21,2,10,3,Winter
+22-09-2023,1175,1175,Betadine,Delhi,Delhi,85.03,4,5,3,Winter
+23-09-2023,1183,1235,Betadine,Jaipur,Rajasthan,81.99,3,6,3,Winter
+24-09-2023,1178,1178,Betadine,Kolkata,West Bengal,87.01,1,9,4,Winter
+25-09-2023,1190,1259,Betadine,Lucknow,Uttar Pradesh,86.7,2,8,4,Winter
+26-09-2023,1220,1243,Betadine,Chennai,Tamil Nadu,100.53,2,3,1,Winter
+27-09-2023,1175,1175,Betadine,Bangalore,Karnataka,89.18,4,4,5,Winter
+28-09-2023,1172,1229,Betadine,Lucknow,Uttar Pradesh,85.62,4,9,3,Winter
+29-09-2023,1220,1288,Betadine,Mumbai,Maharashtra,89.07,3,9,4,Winter
+30-09-2023,1196,1196,Betadine,Jaipur,Rajasthan,95.38,4,5,4,Winter
+01-10-2023,1190,1197,Betadine,Delhi,Delhi,86.05,6,10,4,Winter
+02-10-2023,1217,1302,Betadine,Bangalore,Karnataka,91.26,5,8,2,Winter
+03-10-2023,1194,1198,Betadine,Pune,Maharashtra,86.61,7,6,2,Winter
+04-10-2023,1232,1275,Betadine,Kolkata,West Bengal,89.18,4,7,5,Winter
+05-10-2023,1216,1216,Betadine,Bangalore,Karnataka,89.18,8,6,2,Winter
+06-10-2023,1200,1200,Betadine,Kolkata,West Bengal,76.99,5,7,3,Winter
+07-10-2023,1241,1317,Betadine,Pune,Maharashtra,84.46,4,4,4,Winter
+08-10-2023,1201,1227,Betadine,Lucknow,Uttar Pradesh,88.35,5,8,2,Winter
+09-10-2023,1222,1248,Betadine,Hyderabad,Telangana,97.24,2,9,2,Winter
+10-10-2023,1217,1217,Betadine,Mumbai,Maharashtra,90.34,4,6,4,Winter
+11-10-2023,1233,1325,Betadine,Hyderabad,Telangana,87,6,8,3,Winter
+12-10-2023,1238,1274,Betadine,Pune,Maharashtra,83.99,6,7,3,Winter
+13-10-2023,1217,1250,Betadine,Pune,Maharashtra,92.12,4,10,2,Winter
+14-10-2023,1206,1293,Betadine,Ahmedabad,Gujarat,83.96,10,4,2,Winter
+15-10-2023,1226,1233,Betadine,Ahmedabad,Gujarat,92.42,4,10,2,Winter
+16-10-2023,1210,1243,Betadine,Pune,Maharashtra,88.95,2,5,4,Winter
+17-10-2023,1252,1279,Betadine,Lucknow,Uttar Pradesh,94.99,7,8,2,Winter
+18-10-2023,1225,1313,Betadine,Kolkata,West Bengal,88.97,6,7,3,Winter
+19-10-2023,1218,1284,Betadine,Jaipur,Rajasthan,89.92,5,8,2,Winter
+20-10-2023,1228,1247,Betadine,Bangalore,Karnataka,88.6,4,6,5,Winter
+21-10-2023,1206,1276,Betadine,Bangalore,Karnataka,83.02,6,12,3,Winter
+22-10-2023,1213,1213,Betadine,Bangalore,Karnataka,82.18,8,6,3,Winter
+23-10-2023,1247,1264,Betadine,Pune,Maharashtra,79.67,6,7,3,Winter
+24-10-2023,1221,1221,Betadine,Mumbai,Maharashtra,86.89,2,13,2,Winter
+25-10-2023,1216,1314,Betadine,Kolkata,West Bengal,94.8,0,10,4,Winter
+26-10-2023,1241,1326,Betadine,Chennai,Tamil Nadu,94.05,6,7,1,Winter
+27-10-2023,1252,1254,Betadine,Chennai,Tamil Nadu,93.14,3,9,2,Winter
+28-10-2023,1246,1342,Betadine,Mumbai,Maharashtra,87.33,5,9,2,Winter
+29-10-2023,1252,1266,Betadine,Lucknow,Uttar Pradesh,96.79,4,6,1,Winter
+30-10-2023,1227,1298,Betadine,Kolkata,West Bengal,87.8,4,8,2,Winter
+31-10-2023,1218,1267,Betadine,Mumbai,Maharashtra,95.07,4,9,3,Winter
+01-11-2023,1263,1287,Betadine,Kolkata,West Bengal,88.29,4,12,2,Winter
+02-11-2023,1237,1310,Betadine,Ahmedabad,Gujarat,85.85,7,9,1,Winter
+03-11-2023,1239,1315,Betadine,Mumbai,Maharashtra,85.56,7,9,3,Winter
+04-11-2023,1264,1337,Betadine,Jaipur,Rajasthan,85.79,3,8,3,Winter
+05-11-2023,1254,1254,Betadine,Bangalore,Karnataka,87.11,4,12,3,Winter
+06-11-2023,1253,1334,Betadine,Mumbai,Maharashtra,92.12,7,11,2,Winter
+07-11-2023,1280,1280,Betadine,Kolkata,West Bengal,91.64,8,11,2,Winter
+08-11-2023,1239,1239,Betadine,Delhi,Delhi,70.52,8,10,2,Winter
+09-11-2023,1264,1285,Betadine,Hyderabad,Telangana,98.37,4,6,3,Winter
+10-11-2023,1252,1252,Betadine,Lucknow,Uttar Pradesh,82.98,8,12,2,Winter
+11-11-2023,1257,1257,Betadine,Pune,Maharashtra,94.95,3,10,3,Winter
+12-11-2023,1277,1308,Betadine,Chennai,Tamil Nadu,94.96,6,9,2,Winter
+13-11-2023,1263,1263,Betadine,Kolkata,West Bengal,103.39,7,11,2,Winter
+14-11-2023,1264,1302,Betadine,Kolkata,West Bengal,97.98,2,10,4,Winter
+15-11-2023,1273,1331,Betadine,Mumbai,Maharashtra,91.68,11,8,4,Winter
+16-11-2023,1253,1253,Betadine,Chennai,Tamil Nadu,88.09,9,9,3,Winter
+17-11-2023,1247,1299,Betadine,Mumbai,Maharashtra,98.31,8,6,3,Winter
+18-11-2023,1245,1292,Betadine,Lucknow,Uttar Pradesh,83.02,5,10,3,Winter
+19-11-2023,1232,1321,Betadine,Pune,Maharashtra,89.75,7,13,5,Winter
+20-11-2023,1294,1361,Betadine,Pune,Maharashtra,96.34,8,6,3,Winter
+21-11-2023,1248,1277,Betadine,Delhi,Delhi,89.08,5,10,3,Winter
+22-11-2023,1262,1346,Betadine,Jaipur,Rajasthan,94.57,7,11,5,Winter
+23-11-2023,1262,1263,Betadine,Delhi,Delhi,93.75,9,12,3,Winter
+24-11-2023,1272,1272,Betadine,Chennai,Tamil Nadu,96.49,4,9,4,Winter
+25-11-2023,1281,1326,Betadine,Hyderabad,Telangana,96.09,8,8,3,Winter
+26-11-2023,1283,1355,Betadine,Bangalore,Karnataka,97.69,4,9,5,Winter
+27-11-2023,1262,1361,Betadine,Kolkata,West Bengal,93.47,5,13,5,Winter
+28-11-2023,1269,1323,Betadine,Ahmedabad,Gujarat,90.7,6,7,3,Winter
+29-11-2023,1277,1362,Betadine,Ahmedabad,Gujarat,95.02,8,8,3,Winter
+30-11-2023,1270,1323,Betadine,Mumbai,Maharashtra,90.63,6,9,5,Winter
+01-12-2023,1299,1364,Betadine,Bangalore,Karnataka,94.1,8,8,6,Winter
+02-12-2023,1284,1284,Betadine,Jaipur,Rajasthan,94.32,6,10,5,Winter
+03-12-2023,1288,1344,Betadine,Jaipur,Rajasthan,96,7,13,4,Winter
+04-12-2023,1288,1357,Betadine,Jaipur,Rajasthan,96.78,10,8,4,Winter
+05-12-2023,1297,1297,Betadine,Jaipur,Rajasthan,102.38,6,10,3,Winter
+06-12-2023,1283,1382,Betadine,Pune,Maharashtra,93.51,9,10,5,Winter
+07-12-2023,1262,1317,Betadine,Pune,Maharashtra,94.18,8,10,6,Winter
+08-12-2023,1288,1301,Betadine,Kolkata,West Bengal,97.39,7,7,4,Winter
+09-12-2023,1274,1293,Betadine,Jaipur,Rajasthan,91.96,6,9,5,Winter
+10-12-2023,1276,1369,Betadine,Hyderabad,Telangana,95.77,6,9,5,Winter
+11-12-2023,1294,1294,Betadine,Lucknow,Uttar Pradesh,102.81,7,12,7,Winter
+12-12-2023,1305,1387,Betadine,Ahmedabad,Gujarat,100.13,8,11,5,Winter
+13-12-2023,1288,1300,Betadine,Bangalore,Karnataka,98.13,10,7,4,Winter
+14-12-2023,1293,1317,Betadine,Kolkata,West Bengal,94.27,8,10,4,Winter
+15-12-2023,1315,1315,Betadine,Bangalore,Karnataka,110.64,8,9,4,Winter
+16-12-2023,1294,1294,Betadine,Chennai,Tamil Nadu,94.76,9,14,7,Winter
+17-12-2023,1330,1330,Betadine,Bangalore,Karnataka,94.66,10,11,6,Winter
+18-12-2023,1300,1300,Betadine,Kolkata,West Bengal,103.3,10,8,5,Winter
+19-12-2023,1266,1363,Betadine,Pune,Maharashtra,94.03,6,9,3,Winter
+20-12-2023,1305,1328,Betadine,Hyderabad,Telangana,98.28,9,10,5,Winter
+21-12-2023,1300,1301,Betadine,Mumbai,Maharashtra,96.47,12,11,6,Winter
+22-12-2023,1315,1415,Betadine,Hyderabad,Telangana,110.56,7,11,6,Winter
+23-12-2023,1307,1335,Betadine,Hyderabad,Telangana,101.97,10,11,6,Winter
+24-12-2023,1295,1362,Betadine,Ahmedabad,Gujarat,101.55,9,10,4,Winter
+25-12-2023,1280,1280,Betadine,Kolkata,West Bengal,97.61,8,10,6,Winter
+26-12-2023,1296,1296,Betadine,Pune,Maharashtra,100.35,13,10,5,Winter
+27-12-2023,1287,1295,Betadine,Mumbai,Maharashtra,104.99,10,7,6,Winter
+28-12-2023,1292,1357,Betadine,Delhi,Delhi,97.55,13,10,5,Winter
+29-12-2023,1310,1402,Betadine,Ahmedabad,Gujarat,93.92,10,9,7,Winter
+30-12-2023,1327,1346,Betadine,Delhi,Delhi,107.94,11,7,6,Winter
+31-12-2023,1309,1309,Betadine,Kolkata,West Bengal,103.68,9,15,6,Winter
+01-01-2024,1286,1337,Betadine,Ahmedabad,Gujarat,98.74,9,11,8,Winter
+02-01-2024,1311,1351,Betadine,Hyderabad,Telangana,104.15,11,10,6,Winter
+03-01-2024,1323,1409,Betadine,Lucknow,Uttar Pradesh,101.55,11,10,5,Winter
+04-01-2024,1297,1305,Betadine,Ahmedabad,Gujarat,100.1,12,12,7,Winter
+05-01-2024,1305,1305,Betadine,Mumbai,Maharashtra,100.54,11,8,7,Winter
+06-01-2024,1308,1317,Betadine,Lucknow,Uttar Pradesh,98.64,8,10,6,Winter
+07-01-2024,1297,1323,Betadine,Lucknow,Uttar Pradesh,106.15,9,9,6,Winter
+08-01-2024,1319,1319,Betadine,Kolkata,West Bengal,96.14,12,12,7,Winter
+09-01-2024,1308,1308,Betadine,Jaipur,Rajasthan,113.6,7,9,7,Winter
+10-01-2024,1317,1330,Betadine,Kolkata,West Bengal,107.59,12,13,6,Winter
+11-01-2024,1298,1298,Betadine,Mumbai,Maharashtra,91.91,11,10,7,Winter
+12-01-2024,1306,1306,Betadine,Kolkata,West Bengal,100.68,13,12,7,Winter
+13-01-2024,1324,1372,Betadine,Pune,Maharashtra,103.56,12,11,6,Winter
+14-01-2024,1308,1308,Betadine,Hyderabad,Telangana,104.36,10,12,6,Winter
+15-01-2024,1340,1340,Betadine,Lucknow,Uttar Pradesh,101.65,10,8,6,Winter
+16-01-2024,1309,1404,Betadine,Ahmedabad,Gujarat,102.76,10,12,8,Winter
+17-01-2024,1319,1319,Betadine,Delhi,Delhi,103.39,13,7,6,Winter
+18-01-2024,1330,1395,Betadine,Mumbai,Maharashtra,101.91,7,10,8,Winter
+19-01-2024,1295,1365,Betadine,Pune,Maharashtra,96.82,12,9,7,Winter
+20-01-2024,1291,1291,Betadine,Delhi,Delhi,105.19,10,7,5,Winter
+21-01-2024,1295,1295,Betadine,Hyderabad,Telangana,92.72,12,8,4,Winter
+22-01-2024,1338,1351,Betadine,Kolkata,West Bengal,109.39,13,9,6,Winter
+23-01-2024,1311,1311,Betadine,Kolkata,West Bengal,107.59,9,10,8,Winter
+24-01-2024,1358,1360,Betadine,Jaipur,Rajasthan,108.91,12,9,8,Winter
+25-01-2024,1312,1396,Betadine,Ahmedabad,Gujarat,104.06,12,10,7,Winter
+26-01-2024,1324,1324,Betadine,Pune,Maharashtra,111.42,12,8,6,Winter
+27-01-2024,1345,1345,Betadine,Pune,Maharashtra,104.88,12,9,6,Winter
+28-01-2024,1352,1377,Betadine,Mumbai,Maharashtra,106.39,10,9,7,Winter
+29-01-2024,1354,1354,Betadine,Lucknow,Uttar Pradesh,107.32,10,10,7,Winter
+30-01-2024,1341,1343,Betadine,Ahmedabad,Gujarat,114.03,10,12,7,Winter
+31-01-2024,1339,1339,Betadine,Bangalore,Karnataka,114.46,14,12,7,Winter
+01-02-2024,1333,1335,Betadine,Pune,Maharashtra,100.22,12,10,7,Winter
+02-02-2024,1336,1435,Betadine,Jaipur,Rajasthan,112.83,13,11,7,Winter
+03-02-2024,1317,1376,Betadine,Hyderabad,Telangana,109.49,9,10,4,Winter
+04-02-2024,1314,1341,Betadine,Mumbai,Maharashtra,112.77,13,9,5,Winter
+05-02-2024,1326,1409,Betadine,Pune,Maharashtra,108.53,14,12,5,Winter
+06-02-2024,1324,1324,Betadine,Pune,Maharashtra,106.38,9,8,5,Winter
+07-02-2024,1321,1341,Betadine,Chennai,Tamil Nadu,111.73,12,6,6,Winter
+08-02-2024,1338,1369,Betadine,Hyderabad,Telangana,112.09,10,8,5,Winter
+09-02-2024,1343,1343,Betadine,Chennai,Tamil Nadu,120.42,12,12,5,Winter
+10-02-2024,1330,1409,Betadine,Kolkata,West Bengal,112.39,11,9,6,Winter
+11-02-2024,1351,1351,Betadine,Lucknow,Uttar Pradesh,111.37,14,10,4,Winter
+12-02-2024,1313,1313,Betadine,Pune,Maharashtra,99.53,14,9,5,Winter
+13-02-2024,1327,1366,Betadine,Kolkata,West Bengal,104.5,16,11,6,Winter
+14-02-2024,1320,1395,Betadine,Mumbai,Maharashtra,99.42,13,10,4,Winter
+15-02-2024,1303,1395,Betadine,Mumbai,Maharashtra,103.32,14,9,6,Winter
+16-02-2024,1330,1397,Betadine,Jaipur,Rajasthan,112.63,12,11,5,Winter
+17-02-2024,1330,1372,Betadine,Bangalore,Karnataka,107.98,11,8,6,Winter
+18-02-2024,1355,1355,Betadine,Ahmedabad,Gujarat,116.51,15,10,4,Winter
+19-02-2024,1342,1425,Betadine,Chennai,Tamil Nadu,111.49,16,9,6,Winter
+20-02-2024,1318,1345,Betadine,Lucknow,Uttar Pradesh,104.58,15,9,5,Winter
+21-02-2024,1361,1368,Betadine,Lucknow,Uttar Pradesh,112.84,14,7,6,Winter
+22-02-2024,1352,1352,Betadine,Lucknow,Uttar Pradesh,113.76,12,9,5,Winter
+23-02-2024,1343,1343,Betadine,Jaipur,Rajasthan,110.9,16,8,6,Winter
+24-02-2024,1331,1333,Betadine,Hyderabad,Telangana,109.35,15,11,6,Winter
+25-02-2024,1321,1361,Betadine,Mumbai,Maharashtra,103.35,18,6,5,Winter
+26-02-2024,1330,1396,Betadine,Pune,Maharashtra,106.44,12,11,4,Winter
+27-02-2024,1352,1386,Betadine,Chennai,Tamil Nadu,122.89,16,5,5,Winter
+28-02-2024,1364,1411,Betadine,Ahmedabad,Gujarat,119.34,15,10,4,Winter
+29-02-2024,1360,1360,Betadine,Ahmedabad,Gujarat,105.23,13,7,5,Winter
+01-03-2024,1329,1329,Betadine,Pune,Maharashtra,96.77,17,10,5,Summer
+02-03-2024,1320,1320,Betadine,Bangalore,Karnataka,107.98,15,8,6,Summer
+03-03-2024,1340,1340,Betadine,Delhi,Delhi,114.67,12,6,6,Summer
+04-03-2024,1311,1376,Betadine,Pune,Maharashtra,103.8,14,11,3,Summer
+05-03-2024,1343,1395,Betadine,Bangalore,Karnataka,115.71,12,10,5,Summer
+06-03-2024,1336,1351,Betadine,Mumbai,Maharashtra,110.1,13,9,4,Summer
+07-03-2024,1332,1397,Betadine,Hyderabad,Telangana,108.38,16,7,5,Summer
+08-03-2024,1315,1362,Betadine,Mumbai,Maharashtra,110.78,16,10,3,Summer
+09-03-2024,1347,1347,Betadine,Mumbai,Maharashtra,108.74,15,6,5,Summer
+10-03-2024,1332,1349,Betadine,Pune,Maharashtra,107.77,13,4,3,Summer
+11-03-2024,1323,1323,Betadine,Pune,Maharashtra,111.35,15,5,4,Summer
+12-03-2024,1297,1370,Betadine,Hyderabad,Telangana,104.64,16,6,3,Summer
+13-03-2024,1340,1358,Betadine,Kolkata,West Bengal,119.94,10,7,2,Summer
+14-03-2024,1368,1424,Betadine,Bangalore,Karnataka,117.67,15,7,3,Summer
+15-03-2024,1366,1421,Betadine,Chennai,Tamil Nadu,117.14,14,7,3,Summer
+16-03-2024,1335,1335,Betadine,Jaipur,Rajasthan,109.55,16,7,5,Summer
+17-03-2024,1333,1333,Betadine,Mumbai,Maharashtra,113.77,15,4,2,Summer
+18-03-2024,1349,1395,Betadine,Pune,Maharashtra,109.99,15,8,3,Summer
+19-03-2024,1328,1396,Betadine,Delhi,Delhi,110.21,14,7,2,Summer
+20-03-2024,1347,1408,Betadine,Lucknow,Uttar Pradesh,106.82,14,6,5,Summer
+21-03-2024,1355,1418,Betadine,Pune,Maharashtra,117.6,16,10,3,Summer
+22-03-2024,1362,1458,Betadine,Bangalore,Karnataka,114.85,14,7,3,Summer
+23-03-2024,1342,1342,Betadine,Kolkata,West Bengal,120.51,15,8,3,Summer
+24-03-2024,1341,1422,Betadine,Lucknow,Uttar Pradesh,122.56,11,9,1,Summer
+25-03-2024,1331,1429,Betadine,Jaipur,Rajasthan,113.02,14,4,2,Summer
+26-03-2024,1332,1332,Betadine,Jaipur,Rajasthan,109.74,10,7,2,Summer
+27-03-2024,1341,1440,Betadine,Lucknow,Uttar Pradesh,105.87,13,9,4,Summer
+28-03-2024,1351,1351,Betadine,Chennai,Tamil Nadu,116.32,15,7,0,Summer
+29-03-2024,1359,1359,Betadine,Jaipur,Rajasthan,113.85,16,5,3,Summer
+30-03-2024,1334,1413,Betadine,Kolkata,West Bengal,112.09,12,6,3,Summer
+31-03-2024,1368,1429,Betadine,Hyderabad,Telangana,122.65,15,8,1,Summer
+01-04-2024,1342,1342,Betadine,Lucknow,Uttar Pradesh,106.28,17,3,2,Summer
+02-04-2024,1346,1429,Betadine,Pune,Maharashtra,106.38,13,4,4,Summer
+03-04-2024,1336,1336,Betadine,Ahmedabad,Gujarat,108.22,11,11,2,Summer
+04-04-2024,1311,1323,Betadine,Pune,Maharashtra,110.31,15,8,2,Summer
+05-04-2024,1361,1361,Betadine,Chennai,Tamil Nadu,115.57,12,10,5,Summer
+06-04-2024,1359,1368,Betadine,Jaipur,Rajasthan,107.92,13,9,3,Summer
+07-04-2024,1344,1351,Betadine,Delhi,Delhi,114.18,16,8,2,Summer
+08-04-2024,1349,1420,Betadine,Lucknow,Uttar Pradesh,104.99,18,6,2,Summer
+09-04-2024,1356,1442,Betadine,Jaipur,Rajasthan,107.81,12,7,3,Summer
+10-04-2024,1325,1330,Betadine,Mumbai,Maharashtra,107.22,13,10,3,Summer
+11-04-2024,1341,1404,Betadine,Lucknow,Uttar Pradesh,107.03,13,8,0,Summer
+12-04-2024,1361,1361,Betadine,Kolkata,West Bengal,116.85,13,7,0,Summer
+13-04-2024,1331,1353,Betadine,Ahmedabad,Gujarat,109.63,18,6,2,Summer
+14-04-2024,1354,1401,Betadine,Ahmedabad,Gujarat,120.03,13,7,2,Summer
+15-04-2024,1330,1330,Betadine,Hyderabad,Telangana,106.76,13,5,3,Summer
+16-04-2024,1358,1358,Betadine,Delhi,Delhi,110.99,17,7,1,Summer
+17-04-2024,1350,1367,Betadine,Mumbai,Maharashtra,116.65,15,5,2,Summer
+18-04-2024,1327,1327,Betadine,Hyderabad,Telangana,106.75,16,6,2,Summer
+19-04-2024,1369,1396,Betadine,Mumbai,Maharashtra,120.27,12,4,2,Summer
+20-04-2024,1341,1427,Betadine,Ahmedabad,Gujarat,111.7,13,5,2,Summer
+21-04-2024,1340,1340,Betadine,Kolkata,West Bengal,97.04,12,5,2,Summer
+22-04-2024,1356,1451,Betadine,Jaipur,Rajasthan,116.69,16,9,3,Summer
+23-04-2024,1370,1370,Betadine,Kolkata,West Bengal,117.16,16,4,3,Summer
+24-04-2024,1338,1367,Betadine,Kolkata,West Bengal,112.96,13,7,1,Summer
+25-04-2024,1354,1354,Betadine,Pune,Maharashtra,100.65,13,4,4,Summer
+26-04-2024,1360,1400,Betadine,Mumbai,Maharashtra,107.49,13,6,1,Summer
+27-04-2024,1365,1365,Betadine,Hyderabad,Telangana,108.46,11,6,1,Summer
+28-04-2024,1357,1440,Betadine,Mumbai,Maharashtra,105.99,12,2,2,Summer
+29-04-2024,1349,1358,Betadine,Kolkata,West Bengal,117.71,15,3,2,Summer
+30-04-2024,1343,1409,Betadine,Delhi,Delhi,107.94,12,4,3,Summer
+01-05-2024,1357,1357,Betadine,Mumbai,Maharashtra,109.62,14,3,2,Summer
+02-05-2024,1340,1340,Betadine,Mumbai,Maharashtra,110.16,11,6,4,Summer
+03-05-2024,1312,1327,Betadine,Delhi,Delhi,106.45,13,6,5,Summer
+04-05-2024,1363,1407,Betadine,Lucknow,Uttar Pradesh,93.53,12,3,3,Summer
+05-05-2024,1371,1371,Betadine,Hyderabad,Telangana,107.77,11,6,3,Summer
+06-05-2024,1322,1322,Betadine,Mumbai,Maharashtra,97.34,15,5,1,Summer
+07-05-2024,1343,1354,Betadine,Pune,Maharashtra,109,15,5,3,Summer
+08-05-2024,1367,1452,Betadine,Ahmedabad,Gujarat,108.76,11,4,2,Summer
+09-05-2024,1389,1434,Betadine,Kolkata,West Bengal,113.08,13,6,2,Summer
+10-05-2024,1359,1416,Betadine,Jaipur,Rajasthan,98.41,13,9,2,Summer
+11-05-2024,1348,1348,Betadine,Delhi,Delhi,105.65,9,7,3,Summer
+12-05-2024,1357,1410,Betadine,Jaipur,Rajasthan,113.78,10,8,2,Summer
+13-05-2024,1381,1480,Betadine,Bangalore,Karnataka,118.25,15,2,3,Summer
+14-05-2024,1351,1400,Betadine,Bangalore,Karnataka,110.59,11,4,2,Summer
+15-05-2024,1349,1371,Betadine,Delhi,Delhi,99.92,15,6,4,Summer
+16-05-2024,1354,1355,Betadine,Chennai,Tamil Nadu,113.5,10,8,4,Summer
+17-05-2024,1348,1435,Betadine,Bangalore,Karnataka,109.82,14,6,4,Summer
+18-05-2024,1364,1423,Betadine,Delhi,Delhi,107.61,12,3,5,Summer
+19-05-2024,1387,1387,Betadine,Mumbai,Maharashtra,100.87,12,4,3,Summer
+20-05-2024,1368,1437,Betadine,Ahmedabad,Gujarat,113.17,16,6,4,Summer
+21-05-2024,1360,1360,Betadine,Mumbai,Maharashtra,104.04,10,5,5,Summer
+22-05-2024,1360,1413,Betadine,Ahmedabad,Gujarat,108.53,13,3,3,Summer
+23-05-2024,1341,1341,Betadine,Mumbai,Maharashtra,104.54,13,4,2,Summer
+24-05-2024,1378,1378,Betadine,Mumbai,Maharashtra,116.69,19,5,3,Summer
+25-05-2024,1364,1431,Betadine,Mumbai,Maharashtra,106.17,10,3,5,Summer
+26-05-2024,1363,1439,Betadine,Hyderabad,Telangana,106.52,11,7,3,Summer
+27-05-2024,1415,1451,Betadine,Mumbai,Maharashtra,121.09,13,4,4,Summer
+28-05-2024,1372,1380,Betadine,Ahmedabad,Gujarat,103.91,11,5,3,Summer
+29-05-2024,1356,1370,Betadine,Chennai,Tamil Nadu,109.07,11,7,4,Summer
+30-05-2024,1362,1407,Betadine,Jaipur,Rajasthan,104.61,13,5,3,Summer
+31-05-2024,1386,1435,Betadine,Ahmedabad,Gujarat,103.59,11,7,3,Summer
+01-06-2024,1371,1371,Betadine,Ahmedabad,Gujarat,106.41,10,3,4,Summer
+02-06-2024,1348,1442,Betadine,Lucknow,Uttar Pradesh,106.46,13,6,4,Summer
+03-06-2024,1384,1481,Betadine,Bangalore,Karnataka,114.37,12,6,6,Summer
+04-06-2024,1361,1445,Betadine,Lucknow,Uttar Pradesh,111.77,11,3,5,Summer
+05-06-2024,1400,1400,Betadine,Ahmedabad,Gujarat,107.73,10,4,4,Summer
+06-06-2024,1388,1474,Betadine,Mumbai,Maharashtra,102.66,9,4,4,Summer
+07-06-2024,1366,1369,Betadine,Jaipur,Rajasthan,102.81,12,5,6,Summer
+08-06-2024,1393,1490,Betadine,Ahmedabad,Gujarat,101.69,10,6,5,Summer
+09-06-2024,1375,1375,Betadine,Delhi,Delhi,103.91,9,3,4,Summer
+10-06-2024,1387,1472,Betadine,Ahmedabad,Gujarat,104.69,8,4,5,Summer
+11-06-2024,1382,1413,Betadine,Delhi,Delhi,109.24,11,8,4,Summer
+12-06-2024,1363,1435,Betadine,Lucknow,Uttar Pradesh,91.77,9,7,6,Summer
+13-06-2024,1367,1394,Betadine,Mumbai,Maharashtra,99.33,6,6,6,Summer
+14-06-2024,1393,1393,Betadine,Delhi,Delhi,102.57,8,4,4,Summer
+15-06-2024,1373,1458,Betadine,Kolkata,West Bengal,109.34,10,9,7,Summer
+16-06-2024,1372,1390,Betadine,Bangalore,Karnataka,97.43,10,7,5,Summer
+17-06-2024,1365,1394,Betadine,Mumbai,Maharashtra,102.93,10,5,3,Summer
+18-06-2024,1386,1429,Betadine,Bangalore,Karnataka,103.76,9,5,6,Summer
+19-06-2024,1411,1475,Betadine,Mumbai,Maharashtra,112.82,7,4,3,Summer
+20-06-2024,1365,1365,Betadine,Pune,Maharashtra,104.18,8,5,7,Summer
+21-06-2024,1382,1425,Betadine,Lucknow,Uttar Pradesh,103.81,12,6,6,Summer
+22-06-2024,1404,1404,Betadine,Ahmedabad,Gujarat,103.03,12,6,6,Summer
+23-06-2024,1382,1399,Betadine,Chennai,Tamil Nadu,93.34,11,4,6,Summer
+24-06-2024,1391,1391,Betadine,Kolkata,West Bengal,104.84,10,2,6,Summer
+25-06-2024,1369,1448,Betadine,Pune,Maharashtra,103.05,11,5,5,Summer
+26-06-2024,1392,1392,Betadine,Jaipur,Rajasthan,95.33,7,6,6,Summer
+27-06-2024,1384,1419,Betadine,Bangalore,Karnataka,95.63,9,3,6,Summer
+28-06-2024,1402,1443,Betadine,Mumbai,Maharashtra,105.26,7,4,3,Summer
+29-06-2024,1406,1498,Betadine,Jaipur,Rajasthan,105.9,7,7,7,Summer
+30-06-2024,1428,1510,Betadine,Mumbai,Maharashtra,102.05,10,2,7,Summer
+01-07-2024,1398,1398,Betadine,Kolkata,West Bengal,99.93,11,4,7,Monsoon
+02-07-2024,1395,1475,Betadine,Pune,Maharashtra,93.02,8,8,7,Monsoon
+03-07-2024,1394,1444,Betadine,Delhi,Delhi,108.69,12,5,8,Monsoon
+04-07-2024,1387,1453,Betadine,Jaipur,Rajasthan,93.9,9,3,6,Monsoon
+05-07-2024,1398,1465,Betadine,Chennai,Tamil Nadu,104.31,7,5,6,Monsoon
+06-07-2024,1389,1427,Betadine,Kolkata,West Bengal,100.03,6,6,6,Monsoon
+07-07-2024,1397,1434,Betadine,Pune,Maharashtra,107.45,10,4,4,Monsoon
+08-07-2024,1415,1417,Betadine,Jaipur,Rajasthan,99.24,9,6,7,Monsoon
+09-07-2024,1381,1407,Betadine,Pune,Maharashtra,98.71,10,5,6,Monsoon
+10-07-2024,1414,1508,Betadine,Hyderabad,Telangana,94.11,3,5,4,Monsoon
+11-07-2024,1418,1466,Betadine,Ahmedabad,Gujarat,93.11,9,6,6,Monsoon
+12-07-2024,1397,1486,Betadine,Ahmedabad,Gujarat,102.78,7,4,6,Monsoon
+13-07-2024,1368,1468,Betadine,Chennai,Tamil Nadu,86.67,5,3,6,Monsoon
+14-07-2024,1392,1463,Betadine,Lucknow,Uttar Pradesh,97.26,8,6,7,Monsoon
+15-07-2024,1421,1421,Betadine,Lucknow,Uttar Pradesh,107.26,10,4,5,Monsoon
+16-07-2024,1402,1484,Betadine,Bangalore,Karnataka,103.13,12,4,7,Monsoon
+17-07-2024,1389,1475,Betadine,Lucknow,Uttar Pradesh,93.88,8,6,7,Monsoon
+18-07-2024,1397,1407,Betadine,Hyderabad,Telangana,90.26,6,7,8,Monsoon
+19-07-2024,1418,1418,Betadine,Pune,Maharashtra,103.15,6,4,6,Monsoon
+20-07-2024,1415,1461,Betadine,Jaipur,Rajasthan,106.71,9,5,7,Monsoon
+21-07-2024,1404,1404,Betadine,Kolkata,West Bengal,94.89,5,2,5,Monsoon
+22-07-2024,1403,1429,Betadine,Delhi,Delhi,93.78,8,4,6,Monsoon
+23-07-2024,1403,1403,Betadine,Lucknow,Uttar Pradesh,94.98,8,5,5,Monsoon
+24-07-2024,1396,1396,Betadine,Mumbai,Maharashtra,99.46,7,5,7,Monsoon
+25-07-2024,1436,1436,Betadine,Pune,Maharashtra,107.54,4,4,5,Monsoon
+26-07-2024,1408,1472,Betadine,Lucknow,Uttar Pradesh,91.2,6,6,6,Monsoon
+27-07-2024,1432,1432,Betadine,Bangalore,Karnataka,92.91,4,5,6,Monsoon
+28-07-2024,1437,1443,Betadine,Bangalore,Karnataka,112.5,6,10,6,Monsoon
+29-07-2024,1430,1518,Betadine,Pune,Maharashtra,98.91,8,5,5,Monsoon
+30-07-2024,1410,1448,Betadine,Hyderabad,Telangana,98.06,9,0,8,Monsoon
+31-07-2024,1424,1515,Betadine,Chennai,Tamil Nadu,94.74,7,3,6,Monsoon
+01-08-2024,1418,1418,Betadine,Delhi,Delhi,99.85,5,6,8,Monsoon
+02-08-2024,1406,1458,Betadine,Bangalore,Karnataka,100.2,10,4,5,Monsoon
+03-08-2024,1426,1454,Betadine,Pune,Maharashtra,99.3,5,4,6,Monsoon
+04-08-2024,1404,1436,Betadine,Kolkata,West Bengal,103.3,4,3,6,Monsoon
+05-08-2024,1441,1449,Betadine,Chennai,Tamil Nadu,97.57,8,4,7,Monsoon
+06-08-2024,1417,1504,Betadine,Mumbai,Maharashtra,94.49,7,6,8,Monsoon
+07-08-2024,1428,1461,Betadine,Kolkata,West Bengal,98.36,5,6,5,Monsoon
+08-08-2024,1431,1484,Betadine,Pune,Maharashtra,99.52,6,3,5,Monsoon
+09-08-2024,1423,1423,Betadine,Mumbai,Maharashtra,97.14,7,7,6,Monsoon
+10-08-2024,1437,1437,Betadine,Hyderabad,Telangana,91.18,6,3,7,Monsoon
+11-08-2024,1423,1494,Betadine,Pune,Maharashtra,96.96,7,6,6,Monsoon
+12-08-2024,1444,1446,Betadine,Hyderabad,Telangana,96.13,5,6,6,Monsoon
+13-08-2024,1412,1431,Betadine,Pune,Maharashtra,90.5,7,4,7,Monsoon
+14-08-2024,1435,1503,Betadine,Mumbai,Maharashtra,96.36,6,3,7,Monsoon
+15-08-2024,1463,1537,Betadine,Hyderabad,Telangana,94.99,5,6,6,Monsoon
+16-08-2024,1420,1420,Betadine,Ahmedabad,Gujarat,88.12,5,5,6,Monsoon
+17-08-2024,1426,1478,Betadine,Delhi,Delhi,81.32,5,5,7,Monsoon
+18-08-2024,1445,1479,Betadine,Kolkata,West Bengal,105.54,3,7,4,Monsoon
+19-08-2024,1442,1504,Betadine,Mumbai,Maharashtra,98.78,4,7,7,Monsoon
+20-08-2024,1445,1485,Betadine,Mumbai,Maharashtra,95.62,5,4,6,Monsoon
+21-08-2024,1449,1449,Betadine,Ahmedabad,Gujarat,93.06,3,6,5,Monsoon
+22-08-2024,1452,1452,Betadine,Lucknow,Uttar Pradesh,82.22,4,4,6,Monsoon
+23-08-2024,1460,1543,Betadine,Jaipur,Rajasthan,93.96,10,8,5,Monsoon
+24-08-2024,1451,1533,Betadine,Bangalore,Karnataka,99.58,3,9,5,Monsoon
+25-08-2024,1443,1470,Betadine,Delhi,Delhi,99.51,4,4,5,Monsoon
+26-08-2024,1457,1457,Betadine,Kolkata,West Bengal,99.61,3,6,6,Monsoon
+27-08-2024,1477,1513,Betadine,Jaipur,Rajasthan,99.59,5,8,4,Monsoon
+28-08-2024,1448,1448,Betadine,Jaipur,Rajasthan,101.32,3,6,6,Monsoon
+29-08-2024,1436,1436,Betadine,Ahmedabad,Gujarat,91.36,4,7,4,Monsoon
+30-08-2024,1469,1551,Betadine,Hyderabad,Telangana,102.63,3,6,5,Monsoon
+31-08-2024,1452,1452,Betadine,Chennai,Tamil Nadu,92.68,7,4,4,Monsoon
+01-09-2024,1422,1493,Betadine,Chennai,Tamil Nadu,85.99,5,7,3,Winter
+02-09-2024,1469,1469,Betadine,Kolkata,West Bengal,91.37,3,9,4,Winter
+03-09-2024,1449,1449,Betadine,Chennai,Tamil Nadu,88.28,6,7,5,Winter
+04-09-2024,1457,1516,Betadine,Bangalore,Karnataka,97.9,3,10,4,Winter
+05-09-2024,1465,1465,Betadine,Mumbai,Maharashtra,91.69,2,3,5,Winter
+06-09-2024,1464,1502,Betadine,Mumbai,Maharashtra,89.83,5,7,3,Winter
+07-09-2024,1473,1473,Betadine,Chennai,Tamil Nadu,99.57,8,5,5,Winter
+08-09-2024,1457,1496,Betadine,Chennai,Tamil Nadu,95.44,1,5,4,Winter
+09-09-2024,1473,1535,Betadine,Bangalore,Karnataka,100.41,2,9,4,Winter
+10-09-2024,1462,1544,Betadine,Mumbai,Maharashtra,96.56,6,6,3,Winter
+11-09-2024,1479,1479,Betadine,Delhi,Delhi,92.23,3,6,4,Winter
+12-09-2024,1478,1496,Betadine,Kolkata,West Bengal,96.18,6,8,3,Winter
+13-09-2024,1456,1540,Betadine,Hyderabad,Telangana,93.23,3,3,3,Winter
+14-09-2024,1488,1510,Betadine,Ahmedabad,Gujarat,92,5,10,3,Winter
+15-09-2024,1465,1539,Betadine,Bangalore,Karnataka,87.88,8,11,3,Winter
+16-09-2024,1486,1487,Betadine,Hyderabad,Telangana,92.8,2,9,4,Winter
+17-09-2024,1481,1491,Betadine,Kolkata,West Bengal,105.38,7,8,1,Winter
+18-09-2024,1504,1592,Betadine,Mumbai,Maharashtra,96.14,6,7,3,Winter
+19-09-2024,1475,1548,Betadine,Jaipur,Rajasthan,100.16,2,5,3,Winter
+20-09-2024,1474,1511,Betadine,Delhi,Delhi,91.46,6,10,3,Winter
+21-09-2024,1480,1561,Betadine,Hyderabad,Telangana,99.04,5,9,3,Winter
+22-09-2024,1477,1478,Betadine,Bangalore,Karnataka,98.51,5,8,4,Winter
+23-09-2024,1495,1538,Betadine,Pune,Maharashtra,100.96,5,8,3,Winter
+24-09-2024,1460,1460,Betadine,Bangalore,Karnataka,93.34,4,8,3,Winter
+25-09-2024,1470,1548,Betadine,Kolkata,West Bengal,99.49,5,7,4,Winter
+26-09-2024,1471,1476,Betadine,Kolkata,West Bengal,94.49,5,13,3,Winter
+27-09-2024,1503,1503,Betadine,Pune,Maharashtra,105.17,6,7,2,Winter
+28-09-2024,1515,1614,Betadine,Bangalore,Karnataka,90.1,1,7,2,Winter
+29-09-2024,1490,1572,Betadine,Chennai,Tamil Nadu,96.34,7,10,3,Winter
+30-09-2024,1490,1501,Betadine,Bangalore,Karnataka,95.82,2,8,1,Winter
+01-10-2024,1495,1587,Betadine,Hyderabad,Telangana,90.32,6,8,2,Winter
+02-10-2024,1512,1555,Betadine,Kolkata,West Bengal,100.1,5,11,3,Winter
+03-10-2024,1482,1549,Betadine,Delhi,Delhi,85.55,2,9,5,Winter
+04-10-2024,1501,1538,Betadine,Chennai,Tamil Nadu,92.13,6,10,3,Winter
+05-10-2024,1514,1552,Betadine,Delhi,Delhi,87,3,5,3,Winter
+06-10-2024,1508,1608,Betadine,Lucknow,Uttar Pradesh,103.99,7,9,4,Winter
+07-10-2024,1504,1553,Betadine,Bangalore,Karnataka,94.44,3,6,3,Winter
+08-10-2024,1518,1577,Betadine,Ahmedabad,Gujarat,108.03,2,7,3,Winter
+09-10-2024,1464,1535,Betadine,Mumbai,Maharashtra,93.81,8,9,2,Winter
+10-10-2024,1516,1516,Betadine,Lucknow,Uttar Pradesh,99.04,5,8,1,Winter
+11-10-2024,1497,1513,Betadine,Jaipur,Rajasthan,91.27,6,10,3,Winter
+12-10-2024,1481,1502,Betadine,Bangalore,Karnataka,86.57,3,10,4,Winter
+13-10-2024,1517,1517,Betadine,Mumbai,Maharashtra,99.21,1,10,4,Winter
+14-10-2024,1531,1531,Betadine,Delhi,Delhi,98.04,8,6,3,Winter
+15-10-2024,1510,1514,Betadine,Delhi,Delhi,88.7,5,13,2,Winter
+16-10-2024,1528,1528,Betadine,Hyderabad,Telangana,90.22,6,9,1,Winter
+17-10-2024,1539,1624,Betadine,Mumbai,Maharashtra,94.41,6,11,2,Winter
+18-10-2024,1536,1536,Betadine,Lucknow,Uttar Pradesh,107.7,4,4,3,Winter
+19-10-2024,1542,1542,Betadine,Pune,Maharashtra,110.47,5,8,2,Winter
+20-10-2024,1530,1576,Betadine,Pune,Maharashtra,98.62,8,6,4,Winter
+21-10-2024,1521,1543,Betadine,Hyderabad,Telangana,97.14,5,7,1,Winter
+22-10-2024,1497,1499,Betadine,Bangalore,Karnataka,91.52,7,9,2,Winter
+23-10-2024,1519,1566,Betadine,Ahmedabad,Gujarat,91.33,1,8,2,Winter
+24-10-2024,1511,1567,Betadine,Chennai,Tamil Nadu,101.88,7,12,4,Winter
+25-10-2024,1557,1565,Betadine,Ahmedabad,Gujarat,110.37,2,13,3,Winter
+26-10-2024,1524,1524,Betadine,Pune,Maharashtra,91.93,7,7,2,Winter
+27-10-2024,1529,1612,Betadine,Delhi,Delhi,96.79,6,8,4,Winter
+28-10-2024,1537,1537,Betadine,Mumbai,Maharashtra,95.95,5,7,1,Winter
+29-10-2024,1531,1593,Betadine,Hyderabad,Telangana,95.1,5,12,1,Winter
+30-10-2024,1557,1604,Betadine,Delhi,Delhi,106.53,5,10,2,Winter
+31-10-2024,1523,1523,Betadine,Jaipur,Rajasthan,89.64,4,9,1,Winter
+01-11-2024,1537,1537,Betadine,Hyderabad,Telangana,100.33,5,10,3,Winter
+02-11-2024,1524,1532,Betadine,Ahmedabad,Gujarat,99.84,10,9,3,Winter
+03-11-2024,1516,1568,Betadine,Delhi,Delhi,94.49,8,8,3,Winter
+04-11-2024,1528,1606,Betadine,Bangalore,Karnataka,101.27,4,10,4,Winter
+05-11-2024,1538,1579,Betadine,Lucknow,Uttar Pradesh,98.74,6,9,2,Winter
+06-11-2024,1533,1605,Betadine,Pune,Maharashtra,103.49,6,10,2,Winter
+07-11-2024,1531,1542,Betadine,Ahmedabad,Gujarat,89.39,6,6,2,Winter
+08-11-2024,1521,1527,Betadine,Chennai,Tamil Nadu,93.86,4,10,2,Winter
+09-11-2024,1542,1598,Betadine,Lucknow,Uttar Pradesh,98.04,7,8,3,Winter
+10-11-2024,1522,1532,Betadine,Ahmedabad,Gujarat,82.44,8,10,4,Winter
+11-11-2024,1557,1598,Betadine,Chennai,Tamil Nadu,94.97,5,12,2,Winter
+12-11-2024,1548,1568,Betadine,Mumbai,Maharashtra,95.13,10,9,3,Winter
+13-11-2024,1526,1587,Betadine,Lucknow,Uttar Pradesh,101.14,9,12,4,Winter
+14-11-2024,1545,1545,Betadine,Ahmedabad,Gujarat,95.27,7,6,5,Winter
+15-11-2024,1539,1574,Betadine,Hyderabad,Telangana,93.91,4,13,3,Winter
+16-11-2024,1556,1604,Betadine,Delhi,Delhi,104.49,7,12,6,Winter
+17-11-2024,1573,1636,Betadine,Chennai,Tamil Nadu,94.51,7,8,3,Winter
+18-11-2024,1526,1526,Betadine,Delhi,Delhi,85.84,8,8,4,Winter
+19-11-2024,1557,1655,Betadine,Kolkata,West Bengal,98.59,10,7,3,Winter
+20-11-2024,1554,1554,Betadine,Pune,Maharashtra,92.76,6,12,4,Winter
+21-11-2024,1567,1616,Betadine,Delhi,Delhi,94.75,11,9,7,Winter
+22-11-2024,1562,1597,Betadine,Jaipur,Rajasthan,104.07,8,9,6,Winter
+23-11-2024,1548,1611,Betadine,Pune,Maharashtra,103.78,6,8,5,Winter
+24-11-2024,1556,1591,Betadine,Hyderabad,Telangana,104.34,12,14,4,Winter
+25-11-2024,1550,1570,Betadine,Jaipur,Rajasthan,105.14,9,8,4,Winter
+26-11-2024,1579,1579,Betadine,Jaipur,Rajasthan,109.81,6,10,5,Winter
+27-11-2024,1564,1577,Betadine,Mumbai,Maharashtra,90.96,8,11,5,Winter
+28-11-2024,1594,1667,Betadine,Pune,Maharashtra,107.85,9,9,5,Winter
+29-11-2024,1565,1618,Betadine,Kolkata,West Bengal,99.15,7,9,5,Winter
+30-11-2024,1557,1626,Betadine,Pune,Maharashtra,96.86,8,10,6,Winter
+01-12-2024,1546,1615,Betadine,Chennai,Tamil Nadu,102,6,11,6,Winter
+02-12-2024,1542,1624,Betadine,Lucknow,Uttar Pradesh,90.15,4,10,3,Winter
+03-12-2024,1547,1547,Betadine,Hyderabad,Telangana,90.64,8,14,5,Winter
+04-12-2024,1575,1614,Betadine,Kolkata,West Bengal,106.57,8,9,5,Winter
+05-12-2024,1580,1580,Betadine,Jaipur,Rajasthan,106.44,9,12,4,Winter
+06-12-2024,1550,1636,Betadine,Lucknow,Uttar Pradesh,100.68,7,7,6,Winter
+07-12-2024,1588,1588,Betadine,Jaipur,Rajasthan,100.8,5,9,5,Winter
+08-12-2024,1568,1568,Betadine,Ahmedabad,Gujarat,106.32,6,9,6,Winter
+09-12-2024,1579,1590,Betadine,Mumbai,Maharashtra,107.4,10,8,5,Winter
+10-12-2024,1602,1602,Betadine,Kolkata,West Bengal,107.63,7,11,6,Winter
+11-12-2024,1592,1592,Betadine,Jaipur,Rajasthan,100.11,8,10,6,Winter
+12-12-2024,1575,1641,Betadine,Bangalore,Karnataka,101.67,8,6,7,Winter
+13-12-2024,1567,1586,Betadine,Mumbai,Maharashtra,106.99,7,14,6,Winter
+14-12-2024,1549,1549,Betadine,Bangalore,Karnataka,107.04,7,11,5,Winter
+15-12-2024,1571,1571,Betadine,Chennai,Tamil Nadu,101.77,7,10,5,Winter
+16-12-2024,1580,1580,Betadine,Delhi,Delhi,103.35,12,13,5,Winter
+17-12-2024,1569,1573,Betadine,Mumbai,Maharashtra,102.39,10,12,6,Winter
+18-12-2024,1583,1601,Betadine,Chennai,Tamil Nadu,106.57,12,10,5,Winter
+19-12-2024,1587,1587,Betadine,Mumbai,Maharashtra,102.89,12,7,6,Winter
+20-12-2024,1583,1583,Betadine,Kolkata,West Bengal,90.93,5,12,7,Winter
+21-12-2024,1578,1578,Betadine,Jaipur,Rajasthan,110.76,10,9,7,Winter
+22-12-2024,1591,1591,Betadine,Lucknow,Uttar Pradesh,115.57,8,13,4,Winter
+23-12-2024,1596,1637,Betadine,Ahmedabad,Gujarat,104.14,12,9,4,Winter

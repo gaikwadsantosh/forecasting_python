@@ -1,0 +1,1827 @@
+transactiondate,sales_volume,stock_level,medication_name,pharmacy_location,state,price_per_unit,flu_cases,diarrhea_cases,injury_reports,season
+25-12-2019,52.48357077,95.48357077,Crocin,Jaipur,Rajasthan,71.97,11,8,7,Winter
+26-12-2019,49.30867849,84.30867849,Crocin,Delhi,Delhi,68.99,10,9,6,Winter
+27-12-2019,53.23844269,137.2384427,Crocin,Jaipur,Rajasthan,81.72,10,14,6,Winter
+28-12-2019,57.61514928,105.6151493,Crocin,Pune,Maharashtra,73.1,13,11,3,Winter
+29-12-2019,48.82923313,54.82923313,Crocin,Kolkata,West Bengal,67.99,5,9,6,Winter
+30-12-2019,48.82931522,55.82931522,Crocin,Kolkata,West Bengal,67.17,10,12,5,Winter
+31-12-2019,57.89606408,102.8960641,Crocin,Delhi,Delhi,65.57,8,12,6,Winter
+01-01-2020,68.83717365,106.8371736,Crocin,Kolkata,West Bengal,76.91,6,10,4,Winter
+02-01-2020,62.65262807,128.6526281,Crocin,Mumbai,Maharashtra,58.66,8,12,4,Winter
+03-01-2020,67.71280022,138.7128002,Crocin,Delhi,Delhi,72.77,10,12,5,Winter
+04-01-2020,62.68291154,104.6829115,Crocin,Jaipur,Rajasthan,69.78,9,12,5,Winter
+05-01-2020,62.67135123,92.67135123,Crocin,Pune,Maharashtra,82.2,12,9,5,Winter
+06-01-2020,66.20981136,161.2098114,Crocin,Chennai,Tamil Nadu,63.44,10,8,5,Winter
+07-01-2020,55.43359878,144.4335988,Crocin,Lucknow,Uttar Pradesh,64.09,10,7,5,Winter
+08-01-2020,56.37541084,76.37541084,Crocin,Chennai,Tamil Nadu,68.52,10,9,5,Winter
+09-01-2020,62.18856235,162.1885624,Crocin,Lucknow,Uttar Pradesh,70.61,11,10,5,Winter
+10-01-2020,59.9358444,152.9358444,Crocin,Pune,Maharashtra,68.25,10,10,4,Winter
+11-01-2020,66.57123666,150.5712367,Crocin,Mumbai,Maharashtra,73.4,9,10,6,Winter
+12-01-2020,60.45987962,158.4598796,Crocin,Kolkata,West Bengal,65.1,13,14,6,Winter
+13-01-2020,57.93848149,141.9384815,Crocin,Ahmedabad,Gujarat,72.39,10,10,4,Winter
+14-01-2020,72.32824384,132.3282438,Crocin,Jaipur,Rajasthan,64.99,10,10,7,Winter
+15-01-2020,63.8711185,76.8711185,Crocin,Mumbai,Maharashtra,73.27,12,7,5,Winter
+16-01-2020,65.33764102,92.33764102,Crocin,Ahmedabad,Gujarat,71.2,12,15,7,Winter
+17-01-2020,57.87625907,98.87625907,Crocin,Kolkata,West Bengal,76.48,10,8,6,Winter
+18-01-2020,62.27808638,126.2780864,Crocin,Hyderabad,Telangana,82.18,13,9,7,Winter
+19-01-2020,65.55461295,145.5546129,Crocin,Lucknow,Uttar Pradesh,73.14,13,12,6,Winter
+20-01-2020,59.24503211,95.24503211,Crocin,Bangalore,Karnataka,79.35,12,11,7,Winter
+21-01-2020,66.87849009,80.87849009,Crocin,Delhi,Delhi,74.02,11,13,7,Winter
+22-01-2020,61.99680655,129.9968066,Crocin,Ahmedabad,Gujarat,68.97,11,12,8,Winter
+23-01-2020,63.54153125,81.54153125,Crocin,Pune,Maharashtra,83.33,11,10,7,Winter
+24-01-2020,61.99146694,76.99146694,Crocin,Chennai,Tamil Nadu,76.8,10,12,7,Winter
+25-01-2020,74.26139092,134.2613909,Crocin,Pune,Maharashtra,79.42,12,12,5,Winter
+26-01-2020,64.93251388,91.93251388,Crocin,Pune,Maharashtra,79.24,14,9,4,Winter
+27-01-2020,59.71144536,79.71144536,Crocin,Hyderabad,Telangana,75.17,14,12,6,Winter
+28-01-2020,69.11272456,71.11272456,Crocin,Mumbai,Maharashtra,77.45,12,10,6,Winter
+29-01-2020,58.89578175,118.8957818,Crocin,Bangalore,Karnataka,67.17,14,10,6,Winter
+30-01-2020,66.04431798,116.044318,Crocin,Jaipur,Rajasthan,75.45,16,10,6,Winter
+31-01-2020,55.20164938,133.2016494,Crocin,Pune,Maharashtra,75.72,12,9,7,Winter
+01-02-2020,69.33983187,138.3398319,Crocin,Lucknow,Uttar Pradesh,73.39,14,9,6,Winter
+02-02-2020,76.96506829,99.96506829,Crocin,Mumbai,Maharashtra,81.71,8,12,7,Winter
+03-02-2020,79.67309501,93.67309501,Crocin,Lucknow,Uttar Pradesh,80.52,10,7,7,Winter
+04-02-2020,76.83760352,83.83760352,Crocin,Kolkata,West Bengal,73.21,13,8,7,Winter
+05-02-2020,75.4025207,84.4025207,Crocin,Hyderabad,Telangana,70.6,11,11,8,Winter
+06-02-2020,74.47524364,157.4752436,Crocin,Kolkata,West Bengal,76.21,17,10,7,Winter
+07-02-2020,68.58815216,135.5881522,Crocin,Bangalore,Karnataka,71.98,14,12,6,Winter
+08-02-2020,72.38154107,108.3815411,Crocin,Lucknow,Uttar Pradesh,78.08,15,10,7,Winter
+09-02-2020,73.67756826,143.6775683,Crocin,Kolkata,West Bengal,73.41,13,7,8,Winter
+10-02-2020,81.26637324,158.2663732,Crocin,Pune,Maharashtra,77.12,11,10,6,Winter
+11-02-2020,77.69885356,155.6988536,Crocin,Lucknow,Uttar Pradesh,84.27,12,11,7,Winter
+12-02-2020,67.16556134,137.1655613,Crocin,Kolkata,West Bengal,75.54,14,10,6,Winter
+13-02-2020,77.60118196,128.601182,Crocin,Jaipur,Rajasthan,75.69,12,9,6,Winter
+14-02-2020,74.05535071,81.05535071,Crocin,Kolkata,West Bengal,77.89,15,9,6,Winter
+15-02-2020,72.59615211,102.5961521,Crocin,Pune,Maharashtra,84.29,15,8,6,Winter
+16-02-2020,79.03914356,100.0391436,Crocin,Ahmedabad,Gujarat,81.47,13,7,8,Winter
+17-02-2020,81.13575973,142.1357597,Crocin,Pune,Maharashtra,83.96,10,6,6,Winter
+18-02-2020,80.63716271,153.6371627,Crocin,Hyderabad,Telangana,77.24,17,10,5,Winter
+19-02-2020,71.7846745,89.7846745,Crocin,Lucknow,Uttar Pradesh,82.73,13,7,6,Winter
+20-02-2020,74.43470023,125.4347002,Crocin,Pune,Maharashtra,90.39,19,10,7,Winter
+21-02-2020,77.63707927,145.6370793,Crocin,Delhi,Delhi,76.24,15,8,8,Winter
+22-02-2020,80.85848775,148.8584877,Crocin,Chennai,Tamil Nadu,75.69,13,6,5,Winter
+23-02-2020,73.58489092,167.5848909,Crocin,Delhi,Delhi,79.68,15,8,7,Winter
+24-02-2020,75.05246723,86.05246723,Crocin,Kolkata,West Bengal,83.78,10,13,8,Winter
+25-02-2020,70.44908724,167.4490872,Crocin,Hyderabad,Telangana,77.14,16,9,5,Winter
+26-02-2020,69.99972899,104.999729,Crocin,Hyderabad,Telangana,72.33,19,10,6,Winter
+27-02-2020,80.04339123,149.0433912,Crocin,Kolkata,West Bengal,81.26,10,9,5,Winter
+28-02-2020,82.76196226,118.7619623,Crocin,Lucknow,Uttar Pradesh,85.99,13,6,8,Winter
+29-02-2020,75.62071151,81.62071151,Crocin,Bangalore,Karnataka,78.16,14,12,4,Winter
+01-03-2020,85.01766449,133.0176645,Crocin,Jaipur,Rajasthan,85.44,16,8,6,Summer
+02-03-2020,81.80818013,181.8081801,Crocin,Ahmedabad,Gujarat,87.02,18,6,7,Summer
+03-03-2020,76.77440123,146.7744012,Crocin,Kolkata,West Bengal,80.4,15,8,5,Summer
+04-03-2020,81.80697803,111.806978,Crocin,Mumbai,Maharashtra,81.26,18,8,5,Summer
+05-03-2020,87.69018283,121.6901828,Crocin,Delhi,Delhi,87.95,15,10,6,Summer
+06-03-2020,79.8208698,106.8208698,Crocin,Delhi,Delhi,76.52,15,7,8,Summer
+07-03-2020,87.82321828,123.8232183,Crocin,Chennai,Tamil Nadu,79.23,15,14,5,Summer
+08-03-2020,66.90127448,117.9012745,Crocin,Hyderabad,Telangana,74.47,17,7,5,Summer
+09-03-2020,84.10951252,92.10951252,Crocin,Pune,Maharashtra,80.14,13,10,4,Summer
+10-03-2020,80.43523534,151.4352353,Crocin,Kolkata,West Bengal,77.18,16,4,6,Summer
+11-03-2020,78.50496325,109.5049632,Crocin,Ahmedabad,Gujarat,89.75,12,8,6,Summer
+12-03-2020,80.45880388,117.4588039,Crocin,Pune,Maharashtra,92.26,14,9,5,Summer
+13-03-2020,70.06215543,107.0621554,Crocin,Pune,Maharashtra,75.43,13,6,6,Summer
+14-03-2020,78.90164056,137.9016406,Crocin,Lucknow,Uttar Pradesh,81.26,15,11,5,Summer
+15-03-2020,81.78556286,136.7855629,Crocin,Mumbai,Maharashtra,81.06,14,9,3,Summer
+16-03-2020,87.38947022,153.3894702,Crocin,Hyderabad,Telangana,89.94,17,7,6,Summer
+17-03-2020,77.40864891,173.4086489,Crocin,Jaipur,Rajasthan,86.93,13,9,7,Summer
+18-03-2020,75.95753199,86.95753199,Crocin,Delhi,Delhi,70.91,11,7,4,Summer
+19-03-2020,77.49121478,132.4912148,Crocin,Delhi,Delhi,82.98,12,10,5,Summer
+20-03-2020,84.57701059,180.5770106,Crocin,Hyderabad,Telangana,76.87,16,10,6,Summer
+21-03-2020,81.64375555,153.6437555,Crocin,Jaipur,Rajasthan,90.99,13,8,5,Summer
+22-03-2020,77.35119898,158.351199,Crocin,Ahmedabad,Gujarat,82.8,15,9,3,Summer
+23-03-2020,82.56633717,182.5663372,Crocin,Hyderabad,Telangana,78.48,14,5,5,Summer
+24-03-2020,80.48538775,110.4853877,Crocin,Hyderabad,Telangana,80.59,16,10,6,Summer
+25-03-2020,84.84322495,99.84322495,Crocin,Hyderabad,Telangana,82.16,14,7,4,Summer
+26-03-2020,76.48973453,105.4897345,Crocin,Chennai,Tamil Nadu,83.03,20,10,5,Summer
+27-03-2020,78.36168927,129.3616893,Crocin,Lucknow,Uttar Pradesh,86.41,18,9,3,Summer
+28-03-2020,78.03945923,81.03945923,Crocin,Chennai,Tamil Nadu,75.26,14,9,4,Summer
+29-03-2020,72.68242526,125.6824253,Crocin,Pune,Maharashtra,87.99,14,5,5,Summer
+30-03-2020,81.48060139,98.48060139,Crocin,Lucknow,Uttar Pradesh,90.43,21,5,4,Summer
+31-03-2020,81.30527636,113.3052764,Crocin,Lucknow,Uttar Pradesh,78.02,12,12,4,Summer
+01-04-2020,76.0063294,128.0063294,Crocin,Hyderabad,Telangana,82.16,14,4,4,Summer
+02-04-2020,74.80782645,106.8078264,Crocin,Ahmedabad,Gujarat,89.95,15,5,5,Summer
+03-04-2020,68.9039084,144.9039084,Crocin,Hyderabad,Telangana,85.16,14,7,5,Summer
+04-04-2020,73.8775355,126.8775355,Crocin,Kolkata,West Bengal,79.32,11,7,3,Summer
+05-04-2020,74.26718953,100.2671895,Crocin,Mumbai,Maharashtra,85.07,15,6,3,Summer
+06-04-2020,71.96937577,135.9693758,Crocin,Delhi,Delhi,95.19,12,8,6,Summer
+07-04-2020,75.17433356,140.1743336,Crocin,Bangalore,Karnataka,81.93,17,9,4,Summer
+08-04-2020,78.0010164,169.0010164,Crocin,Chennai,Tamil Nadu,79.44,11,7,3,Summer
+09-04-2020,85.41169162,115.4116916,Crocin,Hyderabad,Telangana,86.26,14,6,2,Summer
+10-04-2020,76.85365118,171.8536512,Crocin,Bangalore,Karnataka,83.23,10,7,2,Summer
+11-04-2020,77.26851407,161.2685141,Crocin,Delhi,Delhi,79.58,10,6,3,Summer
+12-04-2020,75.60853253,123.6085325,Crocin,Kolkata,West Bengal,83.61,13,3,4,Summer
+13-04-2020,66.38690604,149.386906,Crocin,Delhi,Delhi,71.53,13,7,3,Summer
+14-04-2020,75.84819274,155.8481927,Crocin,Kolkata,West Bengal,78.07,17,8,3,Summer
+15-04-2020,76.28191316,80.28191316,Crocin,Kolkata,West Bengal,85.39,14,6,2,Summer
+16-04-2020,88.29697268,124.2969727,Crocin,Ahmedabad,Gujarat,77.63,17,2,4,Summer
+17-04-2020,75.01895729,106.0189573,Crocin,Lucknow,Uttar Pradesh,85.52,13,5,2,Summer
+18-04-2020,77.48849883,134.4884988,Crocin,Bangalore,Karnataka,71.94,15,8,3,Summer
+19-04-2020,75.80720327,131.8072033,Crocin,Kolkata,West Bengal,72.54,13,3,2,Summer
+20-04-2020,70.13737193,138.1373719,Crocin,Lucknow,Uttar Pradesh,76.51,12,8,3,Summer
+21-04-2020,81.69487619,152.6948762,Crocin,Kolkata,West Bengal,85.03,10,5,2,Summer
+22-04-2020,79.74042728,168.7404273,Crocin,Pune,Maharashtra,89.23,15,6,3,Summer
+23-04-2020,79.93592185,165.9359218,Crocin,Mumbai,Maharashtra,82.89,14,5,2,Summer
+24-04-2020,71.43382484,106.4338248,Crocin,Kolkata,West Bengal,77.97,15,4,3,Summer
+25-04-2020,82.99473367,88.99473367,Crocin,Bangalore,Karnataka,86.7,14,9,3,Summer
+26-04-2020,68.9715068,133.9715068,Crocin,Jaipur,Rajasthan,73.65,18,8,3,Summer
+27-04-2020,78.91504758,155.9150476,Crocin,Jaipur,Rajasthan,82.7,14,7,3,Summer
+28-04-2020,86.93304024,110.9330402,Crocin,Jaipur,Rajasthan,79.2,16,8,2,Summer
+29-04-2020,71.02808049,163.0280805,Crocin,Kolkata,West Bengal,79.21,13,7,3,Summer
+30-04-2020,73.14927347,157.1492735,Crocin,Ahmedabad,Gujarat,78.75,12,8,2,Summer
+01-05-2020,65.49825683,138.4982568,Crocin,Kolkata,West Bengal,76.78,15,4,4,Summer
+02-05-2020,62.48262173,119.4826217,Crocin,Bangalore,Karnataka,80.23,13,8,2,Summer
+03-05-2020,57.24668284,131.2466828,Crocin,Delhi,Delhi,77.99,15,8,2,Summer
+04-05-2020,65.34281487,73.34281487,Crocin,Chennai,Tamil Nadu,86.28,14,6,2,Summer
+05-05-2020,59.68848143,76.68848143,Crocin,Hyderabad,Telangana,69.97,12,5,2,Summer
+06-05-2020,67.36796215,99.36796215,Crocin,Bangalore,Karnataka,80.62,15,3,5,Summer
+07-05-2020,60.40287883,117.4028788,Crocin,Ahmedabad,Gujarat,74.4,11,6,3,Summer
+08-05-2020,72.74967203,152.749672,Crocin,Hyderabad,Telangana,87.35,14,9,3,Summer
+09-05-2020,61.08373354,97.08373354,Crocin,Lucknow,Uttar Pradesh,81.97,16,3,2,Summer
+10-05-2020,63.38969242,113.3896924,Crocin,Chennai,Tamil Nadu,81.54,12,7,4,Summer
+11-05-2020,69.06758609,122.0675861,Crocin,Jaipur,Rajasthan,77.68,15,4,2,Summer
+12-05-2020,58.84567842,138.8456784,Crocin,Kolkata,West Bengal,81.43,14,5,3,Summer
+13-05-2020,66.13729967,96.13729967,Crocin,Lucknow,Uttar Pradesh,72.15,15,3,5,Summer
+14-05-2020,71.53571377,75.53571377,Crocin,Hyderabad,Telangana,73.12,11,4,2,Summer
+15-05-2020,56.96258383,65.96258383,Crocin,Kolkata,West Bengal,69.62,13,6,3,Summer
+16-05-2020,65.92316929,115.9231693,Crocin,Hyderabad,Telangana,79.23,10,7,3,Summer
+17-05-2020,66.29941397,128.299414,Crocin,Kolkata,West Bengal,82.78,16,6,3,Summer
+18-05-2020,68.90911436,70.90911436,Crocin,Jaipur,Rajasthan,65.52,8,4,2,Summer
+19-05-2020,58.81524645,77.81524645,Crocin,Chennai,Tamil Nadu,82.81,12,3,2,Summer
+20-05-2020,58.39771693,102.3977169,Crocin,Mumbai,Maharashtra,76.66,11,5,3,Summer
+21-05-2020,67.60970783,111.6097078,Crocin,Mumbai,Maharashtra,71.56,14,4,2,Summer
+22-05-2020,66.48492337,85.48492337,Crocin,Mumbai,Maharashtra,79.5,16,5,0,Summer
+23-05-2020,66.25246425,137.2524643,Crocin,Mumbai,Maharashtra,84.26,13,4,2,Summer
+24-05-2020,66.73224105,115.732241,Crocin,Chennai,Tamil Nadu,81.8,18,4,2,Summer
+25-05-2020,61.59987639,151.5998764,Crocin,Delhi,Delhi,82.1,9,5,2,Summer
+26-05-2020,66.16126849,74.16126849,Crocin,Jaipur,Rajasthan,71.37,9,6,3,Summer
+27-05-2020,66.46536237,155.4653624,Crocin,Chennai,Tamil Nadu,76.13,10,7,2,Summer
+28-05-2020,61.42824291,109.4282429,Crocin,Lucknow,Uttar Pradesh,71.58,12,4,3,Summer
+29-05-2020,74.32887256,101.3288726,Crocin,Kolkata,West Bengal,89.79,10,6,5,Summer
+30-05-2020,67.3691646,84.3691646,Crocin,Pune,Maharashtra,81.4,10,8,4,Summer
+31-05-2020,59.04348251,93.04348251,Crocin,Ahmedabad,Gujarat,89.04,13,6,4,Summer
+01-06-2020,53.28276804,115.282768,Crocin,Delhi,Delhi,76.06,9,7,5,Summer
+02-06-2020,45.12659165,108.1265916,Crocin,Jaipur,Rajasthan,71.38,9,3,3,Summer
+03-06-2020,53.93542302,100.935423,Crocin,Kolkata,West Bengal,77.69,11,3,3,Summer
+04-06-2020,55.7929779,146.7929779,Crocin,Jaipur,Rajasthan,85.89,11,4,2,Summer
+05-06-2020,45.89658841,107.8965884,Crocin,Lucknow,Uttar Pradesh,72.97,13,5,5,Summer
+06-06-2020,54.81688065,116.8168806,Crocin,Lucknow,Uttar Pradesh,78.82,9,7,5,Summer
+07-06-2020,52.06390463,93.06390463,Crocin,Kolkata,West Bengal,77.48,10,3,4,Summer
+08-06-2020,54.1103008,129.1103008,Crocin,Bangalore,Karnataka,77.8,12,4,5,Summer
+09-06-2020,59.48396491,148.4839649,Crocin,Hyderabad,Telangana,76.34,12,7,1,Summer
+10-06-2020,48.77305942,75.77305942,Crocin,Hyderabad,Telangana,74.51,14,5,6,Summer
+11-06-2020,46.23131918,136.2313192,Crocin,Delhi,Delhi,73.1,12,5,4,Summer
+12-06-2020,45.55242785,65.55242785,Crocin,Hyderabad,Telangana,73.56,11,5,6,Summer
+13-06-2020,45.92094858,80.92094858,Crocin,Hyderabad,Telangana,78.32,12,2,6,Summer
+14-06-2020,49.61449145,75.61449145,Crocin,Lucknow,Uttar Pradesh,83.8,10,2,5,Summer
+15-06-2020,51.70575987,90.70575987,Crocin,Hyderabad,Telangana,71.4,10,1,4,Summer
+16-06-2020,51.383454,151.383454,Crocin,Kolkata,West Bengal,73.44,7,5,4,Summer
+17-06-2020,54.13591625,82.13591625,Crocin,Hyderabad,Telangana,72.27,12,6,2,Summer
+18-06-2020,50.06500946,55.06500946,Crocin,Chennai,Tamil Nadu,75.54,10,6,5,Summer
+19-06-2020,57.26767039,97.26767039,Crocin,Delhi,Delhi,74.51,12,7,2,Summer
+20-06-2020,48.67671583,144.6767158,Crocin,Chennai,Tamil Nadu,75,4,7,4,Summer
+21-06-2020,63.60084583,80.60084583,Crocin,Pune,Maharashtra,85.12,10,5,6,Summer
+22-06-2020,53.12833674,112.1283367,Crocin,Ahmedabad,Gujarat,62.57,8,4,5,Summer
+23-06-2020,45.71421222,88.71421222,Crocin,Kolkata,West Bengal,74.46,13,7,3,Summer
+24-06-2020,44.64553751,132.6455375,Crocin,Lucknow,Uttar Pradesh,69.1,11,3,3,Summer
+25-06-2020,52.41236208,68.41236208,Crocin,Chennai,Tamil Nadu,76.7,10,2,4,Summer
+26-06-2020,48.88268607,106.8826861,Crocin,Chennai,Tamil Nadu,68.32,9,4,5,Summer
+27-06-2020,53.57000247,77.57000247,Crocin,Mumbai,Maharashtra,80.58,10,4,6,Summer
+28-06-2020,52.36618812,80.36618812,Crocin,Hyderabad,Telangana,78.57,7,5,6,Summer
+29-06-2020,49.63585544,89.63585544,Crocin,Delhi,Delhi,75.64,9,3,4,Summer
+30-06-2020,45.76603141,119.7660314,Crocin,Chennai,Tamil Nadu,74.97,8,5,6,Summer
+01-07-2020,27.42576388,118.4257639,Crocin,Chennai,Tamil Nadu,65.87,13,3,6,Monsoon
+02-07-2020,32.76742524,121.7674252,Crocin,Lucknow,Uttar Pradesh,68.5,12,7,6,Monsoon
+03-07-2020,39.28199397,111.281994,Crocin,Pune,Maharashtra,77.76,11,2,8,Monsoon
+04-07-2020,36.07046872,107.0704687,Crocin,Pune,Maharashtra,68.76,6,4,6,Monsoon
+05-07-2020,28.77130611,100.7713061,Crocin,Mumbai,Maharashtra,76.63,10,4,6,Monsoon
+06-07-2020,35.86590463,132.8659046,Crocin,Bangalore,Karnataka,70.58,9,5,7,Monsoon
+07-07-2020,36.9265869,51.9265869,Crocin,Delhi,Delhi,74.91,11,6,6,Monsoon
+08-07-2020,30.58071282,127.5807128,Crocin,Bangalore,Karnataka,80.3,9,5,5,Monsoon
+09-07-2020,35.76862553,59.76862553,Crocin,Jaipur,Rajasthan,68.07,8,4,7,Monsoon
+10-07-2020,35.29104359,101.2910436,Crocin,Chennai,Tamil Nadu,71.74,9,6,5,Monsoon
+11-07-2020,29.28514851,30.28514851,Crocin,Jaipur,Rajasthan,74.07,4,6,5,Monsoon
+12-07-2020,36.7889368,93.7889368,Crocin,Chennai,Tamil Nadu,76.36,6,5,5,Monsoon
+13-07-2020,37.80392263,117.8039226,Crocin,Bangalore,Karnataka,70.36,9,5,7,Monsoon
+14-07-2020,40.41525622,87.41525622,Crocin,Hyderabad,Telangana,70.22,10,6,7,Monsoon
+15-07-2020,40.26901026,75.26901026,Crocin,Lucknow,Uttar Pradesh,71.43,7,1,7,Monsoon
+16-07-2020,28.11165316,48.11165316,Crocin,Delhi,Delhi,74.84,8,4,7,Monsoon
+17-07-2020,30.3108748,77.3108748,Crocin,Ahmedabad,Gujarat,67,4,5,6,Monsoon
+18-07-2020,37.57517634,124.5751763,Crocin,Ahmedabad,Gujarat,71.59,10,4,6,Monsoon
+19-07-2020,37.56892975,123.5689298,Crocin,Chennai,Tamil Nadu,68.87,10,4,7,Monsoon
+20-07-2020,37.57523843,94.57523843,Crocin,Bangalore,Karnataka,74.33,9,6,6,Monsoon
+21-07-2020,54.26365745,112.2636575,Crocin,Kolkata,West Bengal,78.18,8,6,5,Monsoon
+22-07-2020,37.85445255,56.85445255,Crocin,Chennai,Tamil Nadu,65.58,10,6,6,Monsoon
+23-07-2020,40.6778282,109.6778282,Crocin,Chennai,Tamil Nadu,66.76,6,3,7,Monsoon
+24-07-2020,39.77000882,117.7700088,Crocin,Jaipur,Rajasthan,61.21,5,2,6,Monsoon
+25-07-2020,38.25695626,123.2569563,Crocin,Jaipur,Rajasthan,66.24,9,7,8,Monsoon
+26-07-2020,33.42365378,89.42365378,Crocin,Ahmedabad,Gujarat,72.37,9,3,7,Monsoon
+27-07-2020,38.7948461,113.7948461,Crocin,Kolkata,West Bengal,77.02,4,3,6,Monsoon
+28-07-2020,31.13587393,130.1358739,Crocin,Pune,Maharashtra,70.63,6,3,6,Monsoon
+29-07-2020,33.81590697,67.81590697,Crocin,Pune,Maharashtra,70.97,10,7,7,Monsoon
+30-07-2020,32.57318226,60.57318226,Crocin,Lucknow,Uttar Pradesh,66.97,7,5,5,Monsoon
+31-07-2020,35.4093707,54.4093707,Crocin,Kolkata,West Bengal,72.47,8,6,7,Monsoon
+01-08-2020,35.59253072,105.5925307,Crocin,Kolkata,West Bengal,74.43,4,6,6,Monsoon
+02-08-2020,14.68291192,114.6829119,Crocin,Hyderabad,Telangana,73.42,8,5,7,Monsoon
+03-08-2020,27.45053884,29.45053884,Crocin,Ahmedabad,Gujarat,68.91,4,7,7,Monsoon
+04-08-2020,15.95565853,82.95565853,Crocin,Bangalore,Karnataka,71.52,2,3,5,Monsoon
+05-08-2020,21.65957856,49.65957856,Crocin,Mumbai,Maharashtra,71.17,8,3,5,Monsoon
+06-08-2020,29.46399087,65.46399087,Crocin,Hyderabad,Telangana,73.48,9,3,6,Monsoon
+07-08-2020,24.34063798,61.34063798,Crocin,Hyderabad,Telangana,57.74,6,6,7,Monsoon
+08-08-2020,18.630514,50.630514,Crocin,Mumbai,Maharashtra,70.05,5,6,7,Monsoon
+09-08-2020,20.44271934,115.4427193,Crocin,Jaipur,Rajasthan,65.36,9,4,6,Monsoon
+10-08-2020,27.41722663,124.4172266,Crocin,Bangalore,Karnataka,66.38,6,5,8,Monsoon
+11-08-2020,20.36740473,116.3674047,Crocin,Kolkata,West Bengal,58.39,6,8,8,Monsoon
+12-08-2020,25.10153083,48.10153083,Crocin,Kolkata,West Bengal,67.57,9,4,7,Monsoon
+13-08-2020,24.24709709,95.24709709,Crocin,Ahmedabad,Gujarat,67.37,5,6,6,Monsoon
+14-08-2020,20.76123615,55.76123615,Crocin,Mumbai,Maharashtra,59.08,4,4,7,Monsoon
+15-08-2020,34.73895833,113.7389583,Crocin,Pune,Maharashtra,63.83,7,8,7,Monsoon
+16-08-2020,27.188833,49.188833,Crocin,Mumbai,Maharashtra,70.43,4,7,6,Monsoon
+17-08-2020,13.89352495,52.89352495,Crocin,Pune,Maharashtra,66.96,5,3,6,Monsoon
+18-08-2020,24.95150946,60.95150946,Crocin,Chennai,Tamil Nadu,67.95,3,5,5,Monsoon
+19-08-2020,20.71030556,56.71030556,Crocin,Lucknow,Uttar Pradesh,70.95,6,2,6,Monsoon
+20-08-2020,28.28140456,68.28140456,Crocin,Chennai,Tamil Nadu,67.77,6,8,5,Monsoon
+21-08-2020,20.05663419,114.0566342,Crocin,Jaipur,Rajasthan,64.53,7,10,7,Monsoon
+22-08-2020,23.44555568,42.44555568,Crocin,Pune,Maharashtra,61.41,7,2,6,Monsoon
+23-08-2020,26.54417428,87.54417428,Crocin,Mumbai,Maharashtra,59.4,6,3,5,Monsoon
+24-08-2020,28.34801386,116.3480139,Crocin,Hyderabad,Telangana,77.07,6,6,7,Monsoon
+25-08-2020,18.01775585,55.01775585,Crocin,Lucknow,Uttar Pradesh,69.26,5,6,6,Monsoon
+26-08-2020,22.34673171,78.34673171,Crocin,Kolkata,West Bengal,58.44,6,5,7,Monsoon
+27-08-2020,21.64451133,50.64451133,Crocin,Lucknow,Uttar Pradesh,65.78,3,3,6,Monsoon
+28-08-2020,20.75259172,64.75259172,Crocin,Bangalore,Karnataka,64.1,0,7,5,Monsoon
+29-08-2020,32.84650909,73.84650909,Crocin,Ahmedabad,Gujarat,68.03,7,8,5,Monsoon
+30-08-2020,26.04414644,84.04414644,Crocin,Ahmedabad,Gujarat,64.55,6,12,5,Monsoon
+31-08-2020,17.71481811,27.71481811,Crocin,Hyderabad,Telangana,65.11,5,9,6,Monsoon
+01-09-2020,24.58930974,59.58930974,Crocin,Mumbai,Maharashtra,71.69,7,4,7,Winter
+02-09-2020,30.61078099,45.61078099,Crocin,Hyderabad,Telangana,71.81,3,6,4,Winter
+03-09-2020,25.1623263,38.1623263,Crocin,Kolkata,West Bengal,67,3,8,5,Winter
+04-09-2020,12.40315017,49.40315017,Crocin,Kolkata,West Bengal,61.81,3,5,7,Winter
+05-09-2020,17.57882964,40.57882964,Crocin,Kolkata,West Bengal,69.28,6,8,4,Winter
+06-09-2020,26.33455575,118.3345557,Crocin,Hyderabad,Telangana,70.32,2,8,5,Winter
+07-09-2020,16.46165267,26.46165267,Crocin,Hyderabad,Telangana,64.36,3,9,5,Winter
+08-09-2020,22.21909714,66.21909714,Crocin,Bangalore,Karnataka,66.22,5,8,6,Winter
+09-09-2020,23.87317027,41.87317027,Crocin,Ahmedabad,Gujarat,68.73,2,7,6,Winter
+10-09-2020,15.36534764,111.3653476,Crocin,Bangalore,Karnataka,61.26,3,6,6,Winter
+11-09-2020,19.70237322,113.7023732,Crocin,Kolkata,West Bengal,69.31,0,4,6,Winter
+12-09-2020,3.7936633,68.7936633,Crocin,Bangalore,Karnataka,53.42,6,7,5,Winter
+13-09-2020,14.87806179,91.87806179,Crocin,Lucknow,Uttar Pradesh,61.14,3,6,7,Winter
+14-09-2020,18.73715924,106.7371592,Crocin,Kolkata,West Bengal,67.86,2,6,4,Winter
+15-09-2020,13.76108409,73.76108409,Crocin,Delhi,Delhi,57.14,2,9,2,Winter
+16-09-2020,28.16205652,30.16205652,Crocin,Jaipur,Rajasthan,60.73,4,10,3,Winter
+17-09-2020,12.84929311,74.84929311,Crocin,Lucknow,Uttar Pradesh,62.72,1,5,5,Winter
+18-09-2020,17.79977757,69.79977757,Crocin,Hyderabad,Telangana,55.92,8,7,4,Winter
+19-09-2020,20.65370289,39.65370289,Crocin,Mumbai,Maharashtra,59.11,0,6,4,Winter
+20-09-2020,27.20636645,122.2063664,Crocin,Hyderabad,Telangana,71.98,4,8,5,Winter
+21-09-2020,12.82068924,74.82068924,Crocin,Delhi,Delhi,61.38,5,3,6,Winter
+22-09-2020,25.81581876,103.8158188,Crocin,Chennai,Tamil Nadu,74.03,3,4,5,Winter
+23-09-2020,20.05116531,28.05116531,Crocin,Lucknow,Uttar Pradesh,59.38,5,7,5,Winter
+24-09-2020,15.09245674,38.09245674,Crocin,Chennai,Tamil Nadu,62.93,3,9,3,Winter
+25-09-2020,22.31051737,114.3105174,Crocin,Chennai,Tamil Nadu,68.4,8,8,4,Winter
+26-09-2020,20.99529848,101.9952985,Crocin,Chennai,Tamil Nadu,59.95,2,9,5,Winter
+27-09-2020,16.99891561,75.99891561,Crocin,Mumbai,Maharashtra,69.36,0,8,4,Winter
+28-09-2020,20.34901042,86.34901042,Crocin,Bangalore,Karnataka,68.15,2,10,4,Winter
+29-09-2020,18.07343202,102.073432,Crocin,Hyderabad,Telangana,56.75,5,11,4,Winter
+30-09-2020,20.56758673,62.56758673,Crocin,Delhi,Delhi,65.61,4,6,4,Winter
+01-10-2020,27.32989126,121.3298913,Crocin,Mumbai,Maharashtra,68.93,6,10,5,Winter
+02-10-2020,31.94932197,106.949322,Crocin,Lucknow,Uttar Pradesh,65.85,6,9,3,Winter
+03-10-2020,17.83016039,72.83016039,Crocin,Pune,Maharashtra,55.8,3,13,3,Winter
+04-10-2020,34.68440476,92.68440476,Crocin,Delhi,Delhi,71.39,4,6,2,Winter
+05-10-2020,14.25879889,44.25879889,Crocin,Mumbai,Maharashtra,72.86,4,8,4,Winter
+06-10-2020,23.26031241,34.26031241,Crocin,Pune,Maharashtra,63.67,8,6,3,Winter
+07-10-2020,26.96082392,117.9608239,Crocin,Kolkata,West Bengal,74.85,6,6,5,Winter
+08-10-2020,25.42419723,96.42419723,Crocin,Hyderabad,Telangana,62.84,8,9,4,Winter
+09-10-2020,20.90574029,49.90574029,Crocin,Jaipur,Rajasthan,65.88,6,9,3,Winter
+10-10-2020,22.97862663,102.9786266,Crocin,Hyderabad,Telangana,69.46,5,9,2,Winter
+11-10-2020,21.55423321,26.55423321,Crocin,Ahmedabad,Gujarat,65.16,3,9,4,Winter
+12-10-2020,21.0724141,66.0724141,Crocin,Delhi,Delhi,63.51,5,8,3,Winter
+13-10-2020,28.26724837,87.26724837,Crocin,Lucknow,Uttar Pradesh,71.63,5,8,3,Winter
+14-10-2020,25.80431532,110.8043153,Crocin,Bangalore,Karnataka,76.46,5,7,4,Winter
+15-10-2020,20.55468991,106.5546899,Crocin,Bangalore,Karnataka,66.5,4,7,3,Winter
+16-10-2020,28.51723726,57.51723726,Crocin,Delhi,Delhi,65.82,1,9,2,Winter
+17-10-2020,25.55573549,117.5557355,Crocin,Ahmedabad,Gujarat,66.25,7,9,3,Winter
+18-10-2020,28.08354848,43.08354848,Crocin,Chennai,Tamil Nadu,81,5,10,4,Winter
+19-10-2020,27.1673821,37.1673821,Crocin,Ahmedabad,Gujarat,68.67,2,10,3,Winter
+20-10-2020,19.87426283,94.87426283,Crocin,Chennai,Tamil Nadu,62.23,6,12,3,Winter
+21-10-2020,21.21833269,65.21833269,Crocin,Hyderabad,Telangana,60.07,3,7,3,Winter
+22-10-2020,27.75570591,42.75570591,Crocin,Lucknow,Uttar Pradesh,59.47,6,8,2,Winter
+23-10-2020,27.07108921,123.0710892,Crocin,Bangalore,Karnataka,70.22,7,7,2,Winter
+24-10-2020,23.91472992,26.91472992,Crocin,Jaipur,Rajasthan,70.47,7,12,5,Winter
+25-10-2020,24.6058748,60.6058748,Crocin,Chennai,Tamil Nadu,65.62,5,8,4,Winter
+26-10-2020,30.40756237,116.4075624,Crocin,Jaipur,Rajasthan,69.93,4,11,3,Winter
+27-10-2020,21.06138094,45.06138094,Crocin,Lucknow,Uttar Pradesh,60.55,4,12,3,Winter
+28-10-2020,26.75472479,61.75472479,Crocin,Lucknow,Uttar Pradesh,69.46,4,10,2,Winter
+29-10-2020,23.00827462,51.00827462,Crocin,Delhi,Delhi,69.81,5,10,2,Winter
+30-10-2020,22.93083187,23.93083187,Crocin,Jaipur,Rajasthan,64.92,5,9,1,Winter
+31-10-2020,29.51312215,88.51312215,Crocin,Lucknow,Uttar Pradesh,78.85,4,9,3,Winter
+01-11-2020,39.12708174,94.12708174,Crocin,Jaipur,Rajasthan,65.61,3,8,3,Winter
+02-11-2020,39.06754818,71.06754818,Crocin,Jaipur,Rajasthan,71.42,5,9,4,Winter
+03-11-2020,41.52739404,140.527394,Crocin,Hyderabad,Telangana,75.24,5,13,2,Winter
+04-11-2020,35.10501921,124.1050192,Crocin,Delhi,Delhi,68.21,3,7,4,Winter
+05-11-2020,38.40976486,65.40976486,Crocin,Chennai,Tamil Nadu,69.26,7,10,3,Winter
+06-11-2020,33.44866622,130.4486662,Crocin,Bangalore,Karnataka,61.06,9,11,5,Winter
+07-11-2020,36.62083176,118.6208318,Crocin,Pune,Maharashtra,76.39,8,9,4,Winter
+08-11-2020,34.34928473,90.34928473,Crocin,Ahmedabad,Gujarat,68.15,5,10,4,Winter
+09-11-2020,35.48497982,133.4849798,Crocin,Kolkata,West Bengal,72.09,6,7,3,Winter
+10-11-2020,37.97578513,101.9757851,Crocin,Lucknow,Uttar Pradesh,73.96,9,12,2,Winter
+11-11-2020,30.90889658,101.9088966,Crocin,Delhi,Delhi,64.86,4,12,3,Winter
+12-11-2020,45.46193638,144.4619364,Crocin,Bangalore,Karnataka,73.01,8,10,5,Winter
+13-11-2020,29.96991309,53.96991309,Crocin,Hyderabad,Telangana,74.47,3,8,3,Winter
+14-11-2020,28.92905694,121.9290569,Crocin,Chennai,Tamil Nadu,62.01,10,11,2,Winter
+15-11-2020,40.79055437,84.79055437,Crocin,Lucknow,Uttar Pradesh,83.24,6,8,3,Winter
+16-11-2020,38.95831347,74.95831347,Crocin,Jaipur,Rajasthan,68.28,11,8,2,Winter
+17-11-2020,38.12059909,57.12059909,Crocin,Pune,Maharashtra,65.9,10,10,2,Winter
+18-11-2020,38.14172755,125.1417275,Crocin,Pune,Maharashtra,72.66,6,13,3,Winter
+19-11-2020,34.93876614,40.93876614,Crocin,Mumbai,Maharashtra,81.84,5,11,4,Winter
+20-11-2020,30.51372814,110.5137281,Crocin,Delhi,Delhi,59.65,7,9,2,Winter
+21-11-2020,35.37902279,115.3790228,Crocin,Pune,Maharashtra,70.69,6,7,2,Winter
+22-11-2020,31.61419144,131.6141914,Crocin,Delhi,Delhi,72.38,6,10,1,Winter
+23-11-2020,39.87559867,44.87559867,Crocin,Mumbai,Maharashtra,73.57,4,11,3,Winter
+24-11-2020,34.26471309,99.26471309,Crocin,Lucknow,Uttar Pradesh,73.31,6,10,1,Winter
+25-11-2020,30.87251402,122.872514,Crocin,Ahmedabad,Gujarat,66.61,5,14,3,Winter
+26-11-2020,33.39307079,87.39307079,Crocin,Bangalore,Karnataka,68.4,8,10,3,Winter
+27-11-2020,37.06465727,56.06465727,Crocin,Delhi,Delhi,72.26,9,6,1,Winter
+28-11-2020,32.18137724,118.1813772,Crocin,Mumbai,Maharashtra,65.55,9,9,2,Winter
+29-11-2020,30.88889802,71.88889802,Crocin,Chennai,Tamil Nadu,70.58,8,11,3,Winter
+30-11-2020,36.21843606,89.21843606,Crocin,Delhi,Delhi,71.26,6,11,3,Winter
+01-12-2020,51.22483286,53.22483286,Crocin,Pune,Maharashtra,71.05,8,10,3,Winter
+02-12-2020,47.46528412,70.46528412,Crocin,Delhi,Delhi,73.6,9,10,4,Winter
+03-12-2020,47.64480847,71.64480847,Crocin,Chennai,Tamil Nadu,63.3,7,6,2,Winter
+04-12-2020,51.16024969,111.1602497,Crocin,Kolkata,West Bengal,72.65,8,10,4,Winter
+05-12-2020,42.75957829,45.75957829,Crocin,Kolkata,West Bengal,82.39,8,10,3,Winter
+06-12-2020,42.96268113,132.9626811,Crocin,Ahmedabad,Gujarat,65.57,11,11,3,Winter
+07-12-2020,46.40777889,62.40777889,Crocin,Pune,Maharashtra,79.03,10,11,2,Winter
+08-12-2020,48.93276424,56.93276424,Crocin,Lucknow,Uttar Pradesh,74.07,9,13,3,Winter
+09-12-2020,51.55453783,123.5545378,Crocin,Pune,Maharashtra,71.99,5,8,4,Winter
+10-12-2020,57.37678108,154.3767811,Crocin,Bangalore,Karnataka,70.8,9,8,4,Winter
+11-12-2020,54.28829812,114.2882981,Crocin,Delhi,Delhi,77.1,8,9,4,Winter
+12-12-2020,49.20030735,67.20030735,Crocin,Hyderabad,Telangana,81.87,8,9,4,Winter
+13-12-2020,49.90491896,84.90491896,Crocin,Jaipur,Rajasthan,73.05,5,9,4,Winter
+14-12-2020,44.98735318,77.98735318,Crocin,Lucknow,Uttar Pradesh,72.8,6,13,3,Winter
+15-12-2020,49.90743432,58.90743432,Crocin,Ahmedabad,Gujarat,80.45,9,11,4,Winter
+16-12-2020,48.55670681,59.55670681,Crocin,Bangalore,Karnataka,76.7,11,14,4,Winter
+17-12-2020,51.6135928,147.6135928,Crocin,Lucknow,Uttar Pradesh,68.74,8,10,3,Winter
+18-12-2020,45.86384528,119.8638453,Crocin,Bangalore,Karnataka,74.89,8,8,5,Winter
+19-12-2020,52.59673257,70.59673257,Crocin,Ahmedabad,Gujarat,84.76,13,9,3,Winter
+20-12-2020,57.66369457,73.66369457,Crocin,Mumbai,Maharashtra,79.22,9,13,5,Winter
+21-12-2020,49.45619926,141.4561993,Crocin,Delhi,Delhi,62.69,9,8,5,Winter
+22-12-2020,52.00855861,62.00855861,Crocin,Mumbai,Maharashtra,79.54,9,12,4,Winter
+23-12-2020,53.45071996,114.45072,Crocin,Jaipur,Rajasthan,77.41,7,10,6,Winter
+24-12-2020,47.99389764,138.9938976,Crocin,Hyderabad,Telangana,67.25,11,9,4,Winter
+25-12-2020,51.12046241,70.12046241,Crocin,Ahmedabad,Gujarat,69.4,8,13,4,Winter
+26-12-2020,50.062962,117.062962,Crocin,Hyderabad,Telangana,82.48,10,9,4,Winter
+27-12-2020,50.48838049,51.48838049,Crocin,Chennai,Tamil Nadu,74.34,11,9,5,Winter
+28-12-2020,46.13495108,92.13495108,Crocin,Delhi,Delhi,71.86,14,10,4,Winter
+29-12-2020,50.12255087,127.1225509,Crocin,Mumbai,Maharashtra,78.02,7,9,4,Winter
+30-12-2020,52.48999146,92.48999146,Crocin,Bangalore,Karnataka,76.18,12,15,5,Winter
+31-12-2020,57.25571804,61.25571804,Crocin,Ahmedabad,Gujarat,81.9,12,13,5,Winter
+01-01-2021,69.79635413,83.79635413,Crocin,Mumbai,Maharashtra,79.59,9,9,7,Winter
+02-01-2021,75.76591229,146.7659123,Crocin,Delhi,Delhi,77.2,11,10,6,Winter
+03-01-2021,61.16326219,122.1632622,Crocin,Lucknow,Uttar Pradesh,75.04,14,6,6,Winter
+04-01-2021,69.36160318,140.3616032,Crocin,Chennai,Tamil Nadu,83.21,9,11,5,Winter
+05-01-2021,65.91671003,122.91671,Crocin,Lucknow,Uttar Pradesh,80.01,11,9,5,Winter
+06-01-2021,75.94901467,102.9490147,Crocin,Chennai,Tamil Nadu,83.59,11,11,6,Winter
+07-01-2021,60.95850857,80.95850857,Crocin,Bangalore,Karnataka,87.89,12,6,5,Winter
+08-01-2021,60.80139079,122.8013908,Crocin,Jaipur,Rajasthan,82.06,12,10,5,Winter
+09-01-2021,62.00303677,138.0030368,Crocin,Chennai,Tamil Nadu,83.26,11,14,6,Winter
+10-01-2021,54.38052138,135.3805214,Crocin,Pune,Maharashtra,75.37,12,10,5,Winter
+11-01-2021,62.37122489,75.37122489,Crocin,Kolkata,West Bengal,80.7,9,9,5,Winter
+12-01-2021,61.20433669,133.2043367,Crocin,Hyderabad,Telangana,77.04,11,10,7,Winter
+13-01-2021,65.75196893,127.7519689,Crocin,Jaipur,Rajasthan,85.09,10,10,5,Winter
+14-01-2021,66.70877988,140.7087799,Crocin,Jaipur,Rajasthan,81.25,9,15,5,Winter
+15-01-2021,74.3808542,99.3808542,Crocin,Chennai,Tamil Nadu,86.11,10,10,7,Winter
+16-01-2021,69.75211919,88.75211919,Crocin,Ahmedabad,Gujarat,84.2,12,8,6,Winter
+17-01-2021,62.11548172,70.11548172,Crocin,Chennai,Tamil Nadu,80.51,12,10,8,Winter
+18-01-2021,60.50792664,114.5079266,Crocin,Delhi,Delhi,94.69,9,11,5,Winter
+19-01-2021,67.45959586,167.4595959,Crocin,Delhi,Delhi,79.67,10,11,6,Winter
+20-01-2021,58.39883396,115.398834,Crocin,Pune,Maharashtra,76.22,13,12,7,Winter
+21-01-2021,74.15729383,81.15729383,Crocin,Kolkata,West Bengal,89.47,13,14,5,Winter
+22-01-2021,70.8972006,98.8972006,Crocin,Kolkata,West Bengal,82.02,14,9,8,Winter
+23-01-2021,62.65412174,154.6541217,Crocin,Bangalore,Karnataka,80.34,15,9,6,Winter
+24-01-2021,56.43432735,63.43432735,Crocin,Hyderabad,Telangana,73.97,13,6,7,Winter
+25-01-2021,71.76936187,169.7693619,Crocin,Pune,Maharashtra,88.26,11,11,6,Winter
+26-01-2021,64.42730077,71.42730077,Crocin,Bangalore,Karnataka,85.52,12,8,8,Winter
+27-01-2021,71.18908156,117.1890816,Crocin,Jaipur,Rajasthan,84.22,16,12,7,Winter
+28-01-2021,57.02786171,71.02786171,Crocin,Delhi,Delhi,83.97,18,9,9,Winter
+29-01-2021,62.00312489,138.0031249,Crocin,Lucknow,Uttar Pradesh,73.31,13,13,8,Winter
+30-01-2021,65.0262185,152.0262185,Crocin,Pune,Maharashtra,80.27,14,7,7,Winter
+31-01-2021,65.23490297,120.234903,Crocin,Chennai,Tamil Nadu,83.35,14,12,6,Winter
+01-02-2021,73.73043476,173.7304348,Crocin,Lucknow,Uttar Pradesh,77.54,13,12,7,Winter
+02-02-2021,79.09501178,173.0950118,Crocin,Jaipur,Rajasthan,76.86,15,11,6,Winter
+03-02-2021,70.64265997,74.64265997,Crocin,Ahmedabad,Gujarat,80.86,15,8,7,Winter
+04-02-2021,75.26886469,156.2688647,Crocin,Jaipur,Rajasthan,87.87,14,11,7,Winter
+05-02-2021,76.58224027,143.5822403,Crocin,Delhi,Delhi,91.41,12,10,6,Winter
+06-02-2021,78.55295628,102.5529563,Crocin,Jaipur,Rajasthan,83.26,10,6,6,Winter
+07-02-2021,79.5388365,84.5388365,Crocin,Hyderabad,Telangana,90.27,14,13,6,Winter
+08-02-2021,70.35755165,96.35755165,Crocin,Bangalore,Karnataka,86.18,13,9,5,Winter
+09-02-2021,68.31019126,95.31019126,Crocin,Ahmedabad,Gujarat,88.49,12,13,7,Winter
+10-02-2021,82.36914622,141.3691462,Crocin,Mumbai,Maharashtra,86.25,11,9,7,Winter
+11-02-2021,77.64233217,163.6423322,Crocin,Lucknow,Uttar Pradesh,77.41,15,11,7,Winter
+12-02-2021,72.23832943,108.2383294,Crocin,Mumbai,Maharashtra,84.55,10,8,7,Winter
+13-02-2021,83.73652199,168.736522,Crocin,Chennai,Tamil Nadu,83.93,14,10,5,Winter
+14-02-2021,76.55913528,88.55913528,Crocin,Chennai,Tamil Nadu,82.58,15,10,5,Winter
+15-02-2021,81.87724803,83.87724803,Crocin,Jaipur,Rajasthan,87.09,15,9,8,Winter
+16-02-2021,76.31835452,126.3183545,Crocin,Delhi,Delhi,84.71,13,8,7,Winter
+17-02-2021,86.28450174,117.2845017,Crocin,Kolkata,West Bengal,91.31,11,3,5,Winter
+18-02-2021,84.75746633,144.7574663,Crocin,Mumbai,Maharashtra,93.52,15,8,7,Winter
+19-02-2021,74.73594137,118.7359414,Crocin,Hyderabad,Telangana,84.36,16,11,5,Winter
+20-02-2021,80.83861687,158.8386169,Crocin,Lucknow,Uttar Pradesh,90.78,13,6,4,Winter
+21-02-2021,79.20764186,116.2076419,Crocin,Mumbai,Maharashtra,88.27,15,7,8,Winter
+22-02-2021,82.8239199,129.8239199,Crocin,Kolkata,West Bengal,94.48,17,6,6,Winter
+23-02-2021,71.15614481,88.15614481,Crocin,Jaipur,Rajasthan,84.26,15,9,6,Winter
+24-02-2021,79.41101941,144.4110194,Crocin,Delhi,Delhi,88.21,13,7,5,Winter
+25-02-2021,81.27288455,172.2728845,Crocin,Pune,Maharashtra,87.53,16,11,5,Winter
+26-02-2021,67.18706468,116.1870647,Crocin,Hyderabad,Telangana,82.99,12,10,4,Winter
+27-02-2021,70.06446955,164.0644696,Crocin,Jaipur,Rajasthan,81.28,11,9,7,Winter
+28-02-2021,65.78460122,108.7846012,Crocin,Chennai,Tamil Nadu,79.19,16,9,4,Winter
+01-03-2021,78.65296583,162.6529658,Crocin,Lucknow,Uttar Pradesh,91.08,13,7,7,Summer
+02-03-2021,83.58771128,179.5877113,Crocin,Jaipur,Rajasthan,83.78,13,7,5,Summer
+03-03-2021,87.51178526,145.5117853,Crocin,Ahmedabad,Gujarat,89.2,13,10,4,Summer
+04-03-2021,80.3704739,173.3704739,Crocin,Chennai,Tamil Nadu,93.08,13,10,5,Summer
+05-03-2021,88.14307773,188.1430777,Crocin,Hyderabad,Telangana,89.44,17,10,5,Summer
+06-03-2021,73.09949271,173.0994927,Crocin,Pune,Maharashtra,89.54,18,8,5,Summer
+07-03-2021,71.4830878,84.4830878,Crocin,Lucknow,Uttar Pradesh,81.84,18,8,4,Summer
+08-03-2021,79.72226151,171.7222615,Crocin,Bangalore,Karnataka,82.94,16,7,5,Summer
+09-03-2021,81.92032724,99.92032724,Crocin,Pune,Maharashtra,81.03,15,10,4,Summer
+10-03-2021,79.83652626,174.8365263,Crocin,Bangalore,Karnataka,94.96,11,4,6,Summer
+11-03-2021,69.6627895,115.6627895,Crocin,Mumbai,Maharashtra,78.72,14,4,6,Summer
+12-03-2021,79.5543998,108.5543998,Crocin,Bangalore,Karnataka,92.14,19,4,5,Summer
+13-03-2021,73.4776525,138.4776525,Crocin,Mumbai,Maharashtra,81,14,4,6,Summer
+14-03-2021,83.34836274,139.3483627,Crocin,Kolkata,West Bengal,96.59,17,11,5,Summer
+15-03-2021,81.83299123,122.8329912,Crocin,Lucknow,Uttar Pradesh,100.43,15,10,5,Summer
+16-03-2021,75.30060107,146.3006011,Crocin,Hyderabad,Telangana,78.37,9,6,5,Summer
+17-03-2021,77.43066541,109.4306654,Crocin,Jaipur,Rajasthan,82.38,16,8,4,Summer
+18-03-2021,74.70393239,154.7039324,Crocin,Pune,Maharashtra,90.47,17,11,4,Summer
+19-03-2021,79.68660451,162.6866045,Crocin,Jaipur,Rajasthan,91.37,14,9,5,Summer
+20-03-2021,84.7757116,103.7757116,Crocin,Bangalore,Karnataka,94.68,17,12,5,Summer
+21-03-2021,75.07136977,136.0713698,Crocin,Chennai,Tamil Nadu,84.13,11,7,5,Summer
+22-03-2021,82.52023258,160.5202326,Crocin,Ahmedabad,Gujarat,99.94,12,6,5,Summer
+23-03-2021,77.34871191,123.3487119,Crocin,Lucknow,Uttar Pradesh,88.59,15,5,3,Summer
+24-03-2021,76.03563584,110.0356358,Crocin,Delhi,Delhi,81.32,15,8,5,Summer
+25-03-2021,79.4648482,127.4648482,Crocin,Ahmedabad,Gujarat,87.53,17,9,4,Summer
+26-03-2021,74.82378839,83.82378839,Crocin,Pune,Maharashtra,80.98,16,8,4,Summer
+27-03-2021,77.23175347,112.2317535,Crocin,Mumbai,Maharashtra,95.95,12,7,5,Summer
+28-03-2021,74.01061054,157.0106105,Crocin,Pune,Maharashtra,83.3,15,10,3,Summer
+29-03-2021,89.82362566,137.8236257,Crocin,Jaipur,Rajasthan,95.46,16,8,4,Summer
+30-03-2021,80.17631776,170.1763178,Crocin,Jaipur,Rajasthan,86.85,11,7,4,Summer
+31-03-2021,76.50137246,140.5013725,Crocin,Jaipur,Rajasthan,84.52,14,6,5,Summer
+01-04-2021,77.05066167,145.0506617,Crocin,Pune,Maharashtra,80.05,14,7,3,Summer
+02-04-2021,75.41912187,128.4191219,Crocin,Chennai,Tamil Nadu,91.79,13,8,3,Summer
+03-04-2021,74.87591412,153.8759141,Crocin,Kolkata,West Bengal,95.1,15,5,4,Summer
+04-04-2021,79.05159561,112.0515956,Crocin,Hyderabad,Telangana,85.82,12,5,3,Summer
+05-04-2021,79.76830066,125.7683007,Crocin,Bangalore,Karnataka,82.87,15,6,3,Summer
+06-04-2021,73.32825638,85.32825638,Crocin,Kolkata,West Bengal,92.02,16,7,3,Summer
+07-04-2021,73.10167091,159.1016709,Crocin,Kolkata,West Bengal,79.57,17,10,3,Summer
+08-04-2021,74.60550363,119.6055036,Crocin,Pune,Maharashtra,94.5,12,4,5,Summer
+09-04-2021,64.47115629,163.4711563,Crocin,Hyderabad,Telangana,79.88,11,7,3,Summer
+10-04-2021,68.4048068,139.4048068,Crocin,Chennai,Tamil Nadu,80.48,15,6,4,Summer
+11-04-2021,82.81513345,138.8151335,Crocin,Jaipur,Rajasthan,92.84,14,6,3,Summer
+12-04-2021,84.20560068,156.2056007,Crocin,Kolkata,West Bengal,87.01,20,10,3,Summer
+13-04-2021,74.73558192,82.73558192,Crocin,Pune,Maharashtra,84.86,15,7,3,Summer
+14-04-2021,78.86354693,119.8635469,Crocin,Delhi,Delhi,91.77,14,5,4,Summer
+15-04-2021,77.53701289,157.5370129,Crocin,Delhi,Delhi,77.25,14,8,3,Summer
+16-04-2021,91.37516616,189.3751662,Crocin,Delhi,Delhi,103.21,12,8,3,Summer
+17-04-2021,81.57863667,133.5786367,Crocin,Jaipur,Rajasthan,91.22,15,4,3,Summer
+18-04-2021,75.34117416,155.3411742,Crocin,Hyderabad,Telangana,81.94,14,4,2,Summer
+19-04-2021,71.20305991,144.2030599,Crocin,Chennai,Tamil Nadu,81.71,14,7,4,Summer
+20-04-2021,67.94853051,161.9485305,Crocin,Jaipur,Rajasthan,90.36,14,6,2,Summer
+21-04-2021,76.99808029,161.9980803,Crocin,Jaipur,Rajasthan,92.01,14,5,4,Summer
+22-04-2021,72.19900839,134.1990084,Crocin,Jaipur,Rajasthan,93.93,10,8,3,Summer
+23-04-2021,68.86949357,164.8694936,Crocin,Mumbai,Maharashtra,82.19,16,5,4,Summer
+24-04-2021,72.74789769,80.74789769,Crocin,Delhi,Delhi,88.48,12,7,2,Summer
+25-04-2021,70.5730221,86.5730221,Crocin,Pune,Maharashtra,88.33,14,8,2,Summer
+26-04-2021,84.41647029,95.41647029,Crocin,Mumbai,Maharashtra,95.08,16,5,4,Summer
+27-04-2021,80.3889609,156.3889609,Crocin,Bangalore,Karnataka,95.44,17,2,2,Summer
+28-04-2021,75.94089891,79.94089891,Crocin,Mumbai,Maharashtra,84.41,10,5,4,Summer
+29-04-2021,83.38048281,88.38048281,Crocin,Chennai,Tamil Nadu,90.43,14,6,3,Summer
+30-04-2021,76.36760365,174.3676037,Crocin,Pune,Maharashtra,84.95,14,8,4,Summer
+01-05-2021,60.69357899,65.69357899,Crocin,Hyderabad,Telangana,85.94,11,5,2,Summer
+02-05-2021,72.61562039,120.6156204,Crocin,Kolkata,West Bengal,94.29,15,9,3,Summer
+03-05-2021,67.69455022,77.69455022,Crocin,Bangalore,Karnataka,80.53,14,3,2,Summer
+04-05-2021,59.81376923,104.8137692,Crocin,Chennai,Tamil Nadu,90.95,14,6,0,Summer
+05-05-2021,64.04830661,91.04830661,Crocin,Chennai,Tamil Nadu,81.3,11,5,3,Summer
+06-05-2021,60.62190873,64.62190873,Crocin,Mumbai,Maharashtra,84.06,14,8,3,Summer
+07-05-2021,58.08600135,106.0860013,Crocin,Hyderabad,Telangana,90.82,15,3,3,Summer
+08-05-2021,69.63088774,79.63088774,Crocin,Delhi,Delhi,90.64,13,6,3,Summer
+09-05-2021,74.5470832,98.5470832,Crocin,Mumbai,Maharashtra,92.7,12,5,3,Summer
+10-05-2021,58.00716213,110.0071621,Crocin,Bangalore,Karnataka,78.3,12,8,4,Summer
+11-05-2021,67.81484618,163.8148462,Crocin,Hyderabad,Telangana,82.78,13,4,3,Summer
+12-05-2021,61.74678715,90.74678715,Crocin,Pune,Maharashtra,90.11,13,6,2,Summer
+13-05-2021,62.56437308,88.56437308,Crocin,Chennai,Tamil Nadu,82.85,15,4,3,Summer
+14-05-2021,62.03803038,71.03803038,Crocin,Ahmedabad,Gujarat,82.93,12,6,3,Summer
+15-05-2021,60.68004615,97.68004615,Crocin,Delhi,Delhi,89.62,10,4,0,Summer
+16-05-2021,65.24260814,66.24260814,Crocin,Delhi,Delhi,81.15,13,4,3,Summer
+17-05-2021,60.84524942,97.84524942,Crocin,Hyderabad,Telangana,85.95,12,1,4,Summer
+18-05-2021,66.35228413,152.3522841,Crocin,Lucknow,Uttar Pradesh,86.81,14,6,3,Summer
+19-05-2021,64.74880945,151.7488095,Crocin,Kolkata,West Bengal,85.79,12,3,2,Summer
+20-05-2021,63.80525977,64.80525977,Crocin,Chennai,Tamil Nadu,82.81,14,3,3,Summer
+21-05-2021,60.46218169,116.4621817,Crocin,Pune,Maharashtra,81.1,10,2,5,Summer
+22-05-2021,62.11614335,105.1161433,Crocin,Kolkata,West Bengal,79.01,13,3,3,Summer
+23-05-2021,68.77695613,134.7769561,Crocin,Delhi,Delhi,89.41,11,6,3,Summer
+24-05-2021,67.50458594,145.5045859,Crocin,Ahmedabad,Gujarat,83.06,10,6,3,Summer
+25-05-2021,60.11222378,101.1122238,Crocin,Delhi,Delhi,88.04,10,6,2,Summer
+26-05-2021,65.49666153,92.49666153,Crocin,Hyderabad,Telangana,84.28,11,3,3,Summer
+27-05-2021,68.75693562,97.75693562,Crocin,Mumbai,Maharashtra,81.11,14,5,3,Summer
+28-05-2021,56.65297359,112.6529736,Crocin,Ahmedabad,Gujarat,80.41,11,4,1,Summer
+29-05-2021,67.71680096,128.716801,Crocin,Mumbai,Maharashtra,83.75,9,7,3,Summer
+30-05-2021,61.68688121,129.6868812,Crocin,Pune,Maharashtra,88.25,12,6,4,Summer
+31-05-2021,67.85299334,96.85299334,Crocin,Delhi,Delhi,83.75,12,3,3,Summer
+01-06-2021,46.18370422,105.1837042,Crocin,Bangalore,Karnataka,81.42,10,7,1,Summer
+02-06-2021,40.9755895,66.9755895,Crocin,Chennai,Tamil Nadu,87.66,11,6,5,Summer
+03-06-2021,41.86228781,116.8622878,Crocin,Mumbai,Maharashtra,83.34,13,2,3,Summer
+04-06-2021,50.24042473,89.24042473,Crocin,Bangalore,Karnataka,92.31,13,1,3,Summer
+05-06-2021,51.29861251,79.29861251,Crocin,Lucknow,Uttar Pradesh,90.5,12,2,5,Summer
+06-06-2021,45.47841687,143.4784169,Crocin,Kolkata,West Bengal,77.36,9,8,3,Summer
+07-06-2021,53.19296229,85.19296229,Crocin,Kolkata,West Bengal,89.75,17,3,2,Summer
+08-06-2021,41.69239969,124.6923997,Crocin,Bangalore,Karnataka,87.63,13,8,4,Summer
+09-06-2021,49.66960101,105.669601,Crocin,Jaipur,Rajasthan,90.66,12,2,5,Summer
+10-06-2021,43.944919,88.944919,Crocin,Ahmedabad,Gujarat,85.54,8,2,4,Summer
+11-06-2021,46.74081946,79.74081946,Crocin,Kolkata,West Bengal,86.44,13,6,4,Summer
+12-06-2021,50.23699336,64.23699336,Crocin,Hyderabad,Telangana,81.29,10,6,3,Summer
+13-06-2021,45.69793317,58.69793317,Crocin,Bangalore,Karnataka,76.61,10,6,3,Summer
+14-06-2021,48.07722228,81.07722228,Crocin,Kolkata,West Bengal,79.84,7,6,4,Summer
+15-06-2021,55.03146405,88.03146405,Crocin,Delhi,Delhi,76.08,8,3,5,Summer
+16-06-2021,47.11554065,128.1155407,Crocin,Ahmedabad,Gujarat,87.71,11,6,5,Summer
+17-06-2021,54.17846056,76.17846056,Crocin,Mumbai,Maharashtra,82.18,12,5,6,Summer
+18-06-2021,44.35146573,50.35146573,Crocin,Pune,Maharashtra,86.06,11,4,6,Summer
+19-06-2021,52.64902089,84.64902089,Crocin,Hyderabad,Telangana,76.64,11,5,6,Summer
+20-06-2021,57.2078431,99.2078431,Crocin,Lucknow,Uttar Pradesh,89.81,10,7,3,Summer
+21-06-2021,37.6417775,51.6417775,Crocin,Kolkata,West Bengal,73.93,9,5,4,Summer
+22-06-2021,46.01552372,72.01552372,Crocin,Ahmedabad,Gujarat,73.18,10,0,6,Summer
+23-06-2021,52.88536064,59.88536064,Crocin,Jaipur,Rajasthan,90.34,11,6,5,Summer
+24-06-2021,48.98477307,68.98477307,Crocin,Jaipur,Rajasthan,86.14,10,6,3,Summer
+25-06-2021,51.85572937,95.85572937,Crocin,Pune,Maharashtra,82.66,12,4,4,Summer
+26-06-2021,46.98007407,67.98007407,Crocin,Delhi,Delhi,79.57,9,5,3,Summer
+27-06-2021,50.43294894,120.4329489,Crocin,Lucknow,Uttar Pradesh,82.8,7,5,5,Summer
+28-06-2021,49.22161382,76.22161382,Crocin,Bangalore,Karnataka,80.97,9,1,5,Summer
+29-06-2021,55.83891031,63.83891031,Crocin,Delhi,Delhi,78.64,9,4,5,Summer
+30-06-2021,51.27210422,99.27210422,Crocin,Hyderabad,Telangana,78.54,9,4,7,Summer
+01-07-2021,36.68801331,91.68801331,Crocin,Kolkata,West Bengal,90.4,12,4,4,Monsoon
+02-07-2021,32.94061517,79.94061517,Crocin,Delhi,Delhi,92.16,10,3,5,Monsoon
+03-07-2021,32.56196888,79.56196888,Crocin,Ahmedabad,Gujarat,86.41,6,6,4,Monsoon
+04-07-2021,32.83720906,73.83720906,Crocin,Jaipur,Rajasthan,80.99,12,3,7,Monsoon
+05-07-2021,36.97226071,109.9722607,Crocin,Delhi,Delhi,78.31,3,6,7,Monsoon
+06-07-2021,32.8950776,102.8950776,Crocin,Ahmedabad,Gujarat,74.21,13,6,6,Monsoon
+07-07-2021,36.44887428,93.44887428,Crocin,Mumbai,Maharashtra,75.94,8,7,6,Monsoon
+08-07-2021,45.37700399,85.37700399,Crocin,Lucknow,Uttar Pradesh,80.23,8,8,5,Monsoon
+09-07-2021,39.35562352,88.35562352,Crocin,Kolkata,West Bengal,91.16,8,8,6,Monsoon
+10-07-2021,33.36988234,133.3698823,Crocin,Bangalore,Karnataka,86.83,9,2,5,Monsoon
+11-07-2021,41.00606961,112.0060696,Crocin,Lucknow,Uttar Pradesh,84.53,8,5,6,Monsoon
+12-07-2021,32.95962313,90.95962313,Crocin,Delhi,Delhi,72.6,8,3,6,Monsoon
+13-07-2021,24.80937732,67.80937732,Crocin,Mumbai,Maharashtra,78.47,11,11,5,Monsoon
+14-07-2021,29.95956845,66.95956845,Crocin,Ahmedabad,Gujarat,74.81,9,6,6,Monsoon
+15-07-2021,25.64604039,54.64604039,Crocin,Delhi,Delhi,63.23,6,8,7,Monsoon
+16-07-2021,33.24243258,127.2424326,Crocin,Chennai,Tamil Nadu,78.44,9,6,8,Monsoon
+17-07-2021,35.0920919,52.0920919,Crocin,Jaipur,Rajasthan,73.39,9,0,7,Monsoon
+18-07-2021,43.38218656,133.3821866,Crocin,Bangalore,Karnataka,76.76,6,3,9,Monsoon
+19-07-2021,36.63463687,119.6346369,Crocin,Mumbai,Maharashtra,76.75,9,3,6,Monsoon
+20-07-2021,33.90449736,89.90449736,Crocin,Lucknow,Uttar Pradesh,74.11,7,4,8,Monsoon
+21-07-2021,39.14702791,108.1470279,Crocin,Jaipur,Rajasthan,78.43,7,6,7,Monsoon
+22-07-2021,23.94432345,45.94432345,Crocin,Hyderabad,Telangana,71.99,7,6,7,Monsoon
+23-07-2021,36.17807279,49.17807279,Crocin,Delhi,Delhi,67.82,2,0,6,Monsoon
+24-07-2021,38.85432597,75.85432597,Crocin,Pune,Maharashtra,85.8,6,4,7,Monsoon
+25-07-2021,27.60706877,80.60706877,Crocin,Lucknow,Uttar Pradesh,68.48,8,4,7,Monsoon
+26-07-2021,40.71877022,70.71877022,Crocin,Bangalore,Karnataka,73.84,7,8,5,Monsoon
+27-07-2021,36.69248204,121.692482,Crocin,Pune,Maharashtra,75.16,4,6,7,Monsoon
+28-07-2021,32.92356043,76.92356043,Crocin,Pune,Maharashtra,74.66,9,5,5,Monsoon
+29-07-2021,38.16390933,79.16390933,Crocin,Chennai,Tamil Nadu,84.49,6,5,7,Monsoon
+30-07-2021,46.35346429,100.3534643,Crocin,Delhi,Delhi,81.75,4,2,7,Monsoon
+31-07-2021,35.90933128,114.9093313,Crocin,Delhi,Delhi,78.83,11,6,8,Monsoon
+01-08-2021,25.26034082,89.26034082,Crocin,Delhi,Delhi,77.37,4,4,6,Monsoon
+02-08-2021,21.72243339,77.72243339,Crocin,Chennai,Tamil Nadu,75.76,8,4,6,Monsoon
+03-08-2021,19.77001604,89.77001604,Crocin,Delhi,Delhi,75.15,5,8,8,Monsoon
+04-08-2021,28.17091697,122.170917,Crocin,Jaipur,Rajasthan,67.34,7,6,5,Monsoon
+05-08-2021,19.73881876,82.73881876,Crocin,Lucknow,Uttar Pradesh,72.15,4,4,5,Monsoon
+06-08-2021,24.37706907,58.37706907,Crocin,Pune,Maharashtra,81.01,4,4,7,Monsoon
+07-08-2021,21.63095065,100.6309507,Crocin,Kolkata,West Bengal,93.71,7,6,6,Monsoon
+08-08-2021,26.41413702,113.414137,Crocin,Delhi,Delhi,69.78,7,6,7,Monsoon
+09-08-2021,25.68754841,45.68754841,Crocin,Chennai,Tamil Nadu,77.52,8,5,7,Monsoon
+10-08-2021,29.20693761,106.2069376,Crocin,Pune,Maharashtra,73.74,6,3,7,Monsoon
+11-08-2021,21.46915589,74.46915589,Crocin,Chennai,Tamil Nadu,83.64,10,3,6,Monsoon
+12-08-2021,22.66986321,105.6698632,Crocin,Pune,Maharashtra,67.03,6,4,6,Monsoon
+13-08-2021,19.12541931,73.12541931,Crocin,Chennai,Tamil Nadu,75.52,7,5,6,Monsoon
+14-08-2021,21.79777159,76.79777159,Crocin,Ahmedabad,Gujarat,66.36,3,5,6,Monsoon
+15-08-2021,25.90574035,63.90574035,Crocin,Lucknow,Uttar Pradesh,73.21,4,5,5,Monsoon
+16-08-2021,27.80418097,104.804181,Crocin,Lucknow,Uttar Pradesh,75.43,7,5,7,Monsoon
+17-08-2021,19.40841127,76.40841127,Crocin,Bangalore,Karnataka,77.55,5,9,7,Monsoon
+18-08-2021,28.36726749,99.36726749,Crocin,Bangalore,Karnataka,70.21,6,7,7,Monsoon
+19-08-2021,30.79742718,64.79742718,Crocin,Bangalore,Karnataka,79.92,4,8,7,Monsoon
+20-08-2021,26.0864124,120.0864124,Crocin,Mumbai,Maharashtra,74.69,6,7,5,Monsoon
+21-08-2021,33.40321695,91.40321695,Crocin,Kolkata,West Bengal,78.76,6,6,5,Monsoon
+22-08-2021,20.15029189,56.15029189,Crocin,Bangalore,Karnataka,76.79,3,7,7,Monsoon
+23-08-2021,17.79596437,44.79596437,Crocin,Hyderabad,Telangana,64.59,7,6,6,Monsoon
+24-08-2021,15.12563664,20.12563664,Crocin,Jaipur,Rajasthan,73.85,2,8,6,Monsoon
+25-08-2021,31.49945944,101.4994594,Crocin,Mumbai,Maharashtra,73.56,6,4,6,Monsoon
+26-08-2021,27.29106617,39.29106617,Crocin,Mumbai,Maharashtra,80.08,9,8,6,Monsoon
+27-08-2021,23.74131453,33.74131453,Crocin,Hyderabad,Telangana,74.87,6,6,6,Monsoon
+28-08-2021,25.41908102,114.419081,Crocin,Jaipur,Rajasthan,72.75,6,3,6,Monsoon
+29-08-2021,18.39179265,50.39179265,Crocin,Kolkata,West Bengal,67.85,3,6,4,Monsoon
+30-08-2021,36.24799778,105.2479978,Crocin,Lucknow,Uttar Pradesh,82.12,8,4,6,Monsoon
+31-08-2021,24.6653438,101.6653438,Crocin,Ahmedabad,Gujarat,79.5,8,5,6,Monsoon
+01-09-2021,20.54697397,68.54697397,Crocin,Lucknow,Uttar Pradesh,70.54,3,6,4,Winter
+02-09-2021,23.62883312,42.62883312,Crocin,Bangalore,Karnataka,68.73,4,3,4,Winter
+03-09-2021,22.40504616,108.4050462,Crocin,Mumbai,Maharashtra,77.27,7,6,6,Winter
+04-09-2021,21.11942012,72.11942012,Crocin,Kolkata,West Bengal,66.16,8,7,6,Winter
+05-09-2021,16.04762772,60.04762772,Crocin,Mumbai,Maharashtra,64.67,2,8,3,Winter
+06-09-2021,22.35734179,56.35734179,Crocin,Ahmedabad,Gujarat,68.49,3,6,6,Winter
+07-09-2021,29.41012248,117.4101225,Crocin,Hyderabad,Telangana,74.52,4,7,5,Winter
+08-09-2021,26.72710023,96.72710023,Crocin,Chennai,Tamil Nadu,68.72,0,7,5,Winter
+09-09-2021,27.96593313,88.96593313,Crocin,Kolkata,West Bengal,66.11,5,6,5,Winter
+10-09-2021,17.44392162,33.44392162,Crocin,Ahmedabad,Gujarat,65.92,7,3,4,Winter
+11-09-2021,15.0519759,52.0519759,Crocin,Pune,Maharashtra,73.81,2,7,5,Winter
+12-09-2021,19.3710654,110.3710654,Crocin,Jaipur,Rajasthan,66.04,5,8,4,Winter
+13-09-2021,20.27862456,103.2786246,Crocin,Bangalore,Karnataka,71.1,3,5,5,Winter
+14-09-2021,25.47095759,110.4709576,Crocin,Lucknow,Uttar Pradesh,84.53,8,7,6,Winter
+15-09-2021,11.53767685,83.53767685,Crocin,Bangalore,Karnataka,68.95,3,7,4,Winter
+16-09-2021,27.6477516,60.6477516,Crocin,Chennai,Tamil Nadu,77.31,8,9,4,Winter
+17-09-2021,19.20996051,100.2099605,Crocin,Jaipur,Rajasthan,67.47,3,7,4,Winter
+18-09-2021,17.86559465,44.86559465,Crocin,Delhi,Delhi,82.62,6,8,6,Winter
+19-09-2021,14.93947812,25.93947812,Crocin,Bangalore,Karnataka,67.89,5,7,4,Winter
+20-09-2021,11.72571664,82.72571664,Crocin,Pune,Maharashtra,68.26,4,6,4,Winter
+21-09-2021,24.11585292,40.11585292,Crocin,Delhi,Delhi,80.79,3,5,4,Winter
+22-09-2021,20.36658984,120.3665898,Crocin,Chennai,Tamil Nadu,71.89,5,7,5,Winter
+23-09-2021,13.5501955,30.5501955,Crocin,Jaipur,Rajasthan,70.24,4,8,4,Winter
+24-09-2021,13.52460614,108.5246061,Crocin,Bangalore,Karnataka,68.59,3,8,4,Winter
+25-09-2021,18.3210765,105.3210765,Crocin,Lucknow,Uttar Pradesh,70.63,7,11,4,Winter
+26-09-2021,28.34510763,30.34510763,Crocin,Delhi,Delhi,77.85,6,10,4,Winter
+27-09-2021,18.70204324,77.70204324,Crocin,Pune,Maharashtra,74.96,6,10,0,Winter
+28-09-2021,12.48428523,83.48428523,Crocin,Kolkata,West Bengal,66.58,4,4,5,Winter
+29-09-2021,18.77128468,85.77128468,Crocin,Jaipur,Rajasthan,68.57,4,11,3,Winter
+30-09-2021,18.63638215,40.63638215,Crocin,Bangalore,Karnataka,69.35,4,8,4,Winter
+01-10-2021,10.53480467,83.53480467,Crocin,Lucknow,Uttar Pradesh,60.59,5,9,6,Winter
+02-10-2021,23.74776355,83.74776355,Crocin,Pune,Maharashtra,64.85,6,10,3,Winter
+03-10-2021,22.86456524,76.86456524,Crocin,Ahmedabad,Gujarat,74.09,5,8,6,Winter
+04-10-2021,27.50026971,50.50026971,Crocin,Bangalore,Karnataka,79.09,3,6,4,Winter
+05-10-2021,33.26401836,50.26401836,Crocin,Ahmedabad,Gujarat,81.16,6,11,4,Winter
+06-10-2021,29.65206303,100.652063,Crocin,Kolkata,West Bengal,63.49,5,7,4,Winter
+07-10-2021,22.67479443,106.6747944,Crocin,Jaipur,Rajasthan,71.37,2,6,2,Winter
+08-10-2021,18.48660834,56.48660834,Crocin,Lucknow,Uttar Pradesh,65.49,0,8,1,Winter
+09-10-2021,36.8860369,114.8860369,Crocin,Delhi,Delhi,79.12,5,8,2,Winter
+10-10-2021,24.31533006,37.31533006,Crocin,Chennai,Tamil Nadu,71.51,3,8,4,Winter
+11-10-2021,24.08888435,49.08888435,Crocin,Chennai,Tamil Nadu,76.36,6,8,2,Winter
+12-10-2021,23.89861245,40.89861245,Crocin,Pune,Maharashtra,73.3,3,11,1,Winter
+13-10-2021,25.00966169,113.0096617,Crocin,Bangalore,Karnataka,64.52,5,9,3,Winter
+14-10-2021,23.29743583,33.29743583,Crocin,Lucknow,Uttar Pradesh,68.56,4,7,3,Winter
+15-10-2021,21.15092785,110.1509279,Crocin,Delhi,Delhi,72.63,8,7,3,Winter
+16-10-2021,21.28494318,106.2849432,Crocin,Kolkata,West Bengal,73.25,7,8,3,Winter
+17-10-2021,23.85547154,35.85547154,Crocin,Delhi,Delhi,66.77,8,8,4,Winter
+18-10-2021,21.30211403,30.30211403,Crocin,Hyderabad,Telangana,65.32,5,8,3,Winter
+19-10-2021,20.45500897,112.455009,Crocin,Ahmedabad,Gujarat,72.88,7,7,2,Winter
+20-10-2021,24.55138902,120.551389,Crocin,Mumbai,Maharashtra,67.38,5,9,2,Winter
+21-10-2021,22.7443518,116.7443518,Crocin,Delhi,Delhi,65.46,8,8,3,Winter
+22-10-2021,31.53920283,110.5392028,Crocin,Pune,Maharashtra,75.17,5,7,3,Winter
+23-10-2021,10.76438884,103.7643888,Crocin,Chennai,Tamil Nadu,66.76,2,10,2,Winter
+24-10-2021,29.47677215,71.47677215,Crocin,Lucknow,Uttar Pradesh,72.41,1,11,4,Winter
+25-10-2021,30.24966385,125.2496638,Crocin,Mumbai,Maharashtra,73.68,9,9,3,Winter
+26-10-2021,13.65228672,65.65228672,Crocin,Jaipur,Rajasthan,70.67,6,13,3,Winter
+27-10-2021,22.30579992,81.30579992,Crocin,Jaipur,Rajasthan,70.6,6,14,2,Winter
+28-10-2021,22.16203356,72.16203356,Crocin,Ahmedabad,Gujarat,74.75,8,10,4,Winter
+29-10-2021,16.98167941,83.98167941,Crocin,Jaipur,Rajasthan,70.5,2,8,1,Winter
+30-10-2021,20.13015445,52.13015445,Crocin,Mumbai,Maharashtra,74.64,5,10,4,Winter
+31-10-2021,18.46635866,80.46635866,Crocin,Chennai,Tamil Nadu,77.59,5,7,1,Winter
+01-11-2021,43.76135222,108.7613522,Crocin,Lucknow,Uttar Pradesh,83.2,7,8,1,Winter
+02-11-2021,39.67839197,102.678392,Crocin,Lucknow,Uttar Pradesh,84.04,4,6,3,Winter
+03-11-2021,41.35777547,59.35777547,Crocin,Kolkata,West Bengal,82.59,3,8,2,Winter
+04-11-2021,38.60836032,108.6083603,Crocin,Pune,Maharashtra,78.59,3,7,2,Winter
+05-11-2021,29.35474114,69.35474114,Crocin,Delhi,Delhi,71.63,8,11,2,Winter
+06-11-2021,32.37739867,103.3773987,Crocin,Delhi,Delhi,73.26,4,8,2,Winter
+07-11-2021,37.44687281,43.44687281,Crocin,Jaipur,Rajasthan,73.01,5,10,3,Winter
+08-11-2021,28.88936096,71.88936096,Crocin,Jaipur,Rajasthan,74.02,7,11,3,Winter
+09-11-2021,38.56499215,101.5649922,Crocin,Ahmedabad,Gujarat,81.49,5,12,4,Winter
+10-11-2021,33.79837301,60.79837301,Crocin,Kolkata,West Bengal,72.57,3,9,3,Winter
+11-11-2021,33.12589596,108.125896,Crocin,Chennai,Tamil Nadu,76.01,3,10,2,Winter
+12-11-2021,38.55479984,127.5547998,Crocin,Hyderabad,Telangana,75.01,6,10,3,Winter
+13-11-2021,37.22131656,111.2213166,Crocin,Chennai,Tamil Nadu,79.05,7,12,1,Winter
+14-11-2021,33.19516917,120.1951692,Crocin,Jaipur,Rajasthan,73.85,6,11,0,Winter
+15-11-2021,40.79664902,62.79664902,Crocin,Lucknow,Uttar Pradesh,76.1,7,12,1,Winter
+16-11-2021,29.59468336,50.59468336,Crocin,Ahmedabad,Gujarat,72,3,7,2,Winter
+17-11-2021,38.07967803,106.079678,Crocin,Pune,Maharashtra,81.52,3,9,3,Winter
+18-11-2021,37.96550629,97.96550629,Crocin,Hyderabad,Telangana,78.72,11,12,0,Winter
+19-11-2021,33.4522678,34.4522678,Crocin,Chennai,Tamil Nadu,75.46,9,11,3,Winter
+20-11-2021,36.63066511,60.63066511,Crocin,Hyderabad,Telangana,80.31,8,10,3,Winter
+21-11-2021,28.74443212,72.74443212,Crocin,Delhi,Delhi,73.93,5,9,3,Winter
+22-11-2021,39.6201351,113.6201351,Crocin,Ahmedabad,Gujarat,86.03,6,12,1,Winter
+23-11-2021,34.07548932,100.0754893,Crocin,Kolkata,West Bengal,73.53,7,6,6,Winter
+24-11-2021,32.3863849,40.3863849,Crocin,Hyderabad,Telangana,77.07,10,12,3,Winter
+25-11-2021,40.24504613,76.24504613,Crocin,Delhi,Delhi,74.18,8,10,2,Winter
+26-11-2021,31.47828155,34.47828155,Crocin,Lucknow,Uttar Pradesh,76.07,8,9,3,Winter
+27-11-2021,27.95769352,108.9576935,Crocin,Mumbai,Maharashtra,68.2,7,11,5,Winter
+28-11-2021,27.21685413,66.21685413,Crocin,Jaipur,Rajasthan,80.33,9,9,2,Winter
+29-11-2021,38.03004976,95.03004976,Crocin,Lucknow,Uttar Pradesh,84.83,8,10,2,Winter
+30-11-2021,28.59785324,77.59785324,Crocin,Delhi,Delhi,81.32,8,10,3,Winter
+01-12-2021,58.77397091,150.7739709,Crocin,Ahmedabad,Gujarat,83.74,6,12,4,Winter
+02-12-2021,39.59035296,56.59035296,Crocin,Pune,Maharashtra,71.8,7,11,4,Winter
+03-12-2021,58.48228184,148.4822818,Crocin,Jaipur,Rajasthan,80,6,6,5,Winter
+04-12-2021,51.05508734,89.05508734,Crocin,Lucknow,Uttar Pradesh,88.85,8,8,5,Winter
+05-12-2021,49.51643444,50.51643444,Crocin,Mumbai,Maharashtra,87.98,8,8,2,Winter
+06-12-2021,47.27540457,79.27540457,Crocin,Pune,Maharashtra,80.61,3,11,3,Winter
+07-12-2021,51.99568057,88.99568057,Crocin,Jaipur,Rajasthan,79.42,8,11,3,Winter
+08-12-2021,49.81182649,74.81182649,Crocin,Ahmedabad,Gujarat,88.24,6,14,5,Winter
+09-12-2021,55.51650941,99.51650941,Crocin,Ahmedabad,Gujarat,80.33,9,8,5,Winter
+10-12-2021,50.57113824,90.57113824,Crocin,Mumbai,Maharashtra,83.14,10,13,5,Winter
+11-12-2021,50.75150881,108.7515088,Crocin,Pune,Maharashtra,89.16,8,7,5,Winter
+12-12-2021,48.18193894,49.18193894,Crocin,Hyderabad,Telangana,77.22,10,10,4,Winter
+13-12-2021,49.71527188,62.71527188,Crocin,Bangalore,Karnataka,86.35,10,11,4,Winter
+14-12-2021,51.53900884,139.5390088,Crocin,Delhi,Delhi,85.8,8,11,3,Winter
+15-12-2021,41.44915804,58.44915804,Crocin,Hyderabad,Telangana,79.2,12,10,5,Winter
+16-12-2021,43.25907289,141.2590729,Crocin,Pune,Maharashtra,75.23,7,11,4,Winter
+17-12-2021,53.71632047,62.71632047,Crocin,Jaipur,Rajasthan,80.98,12,8,6,Winter
+18-12-2021,50.85432719,72.85432719,Crocin,Pune,Maharashtra,85.05,9,12,5,Winter
+19-12-2021,49.08008332,77.08008332,Crocin,Mumbai,Maharashtra,76.08,7,11,7,Winter
+20-12-2021,50.09216967,53.09216967,Crocin,Mumbai,Maharashtra,84.45,8,11,5,Winter
+21-12-2021,51.73790853,111.7379085,Crocin,Jaipur,Rajasthan,87.31,7,10,5,Winter
+22-12-2021,47.3012016,64.3012016,Crocin,Mumbai,Maharashtra,87.93,11,10,5,Winter
+23-12-2021,46.10847637,124.1084764,Crocin,Kolkata,West Bengal,75.81,6,12,5,Winter
+24-12-2021,50.97922628,71.97922628,Crocin,Bangalore,Karnataka,91.38,12,14,5,Winter
+25-12-2021,45.10813611,81.10813611,Crocin,Hyderabad,Telangana,91.28,8,8,6,Winter
+26-12-2021,52.04126378,146.0412638,Crocin,Bangalore,Karnataka,87.85,11,8,4,Winter
+27-12-2021,41.48708198,96.48708198,Crocin,Pune,Maharashtra,76.41,10,11,5,Winter
+28-12-2021,55.14577819,122.1457782,Crocin,Jaipur,Rajasthan,85.76,10,10,4,Winter
+29-12-2021,52.36298741,85.36298741,Crocin,Hyderabad,Telangana,86.16,9,11,6,Winter
+30-12-2021,51.28014867,139.2801487,Crocin,Jaipur,Rajasthan,87.55,11,10,5,Winter
+31-12-2021,54.91345492,130.9134549,Crocin,Pune,Maharashtra,87.91,10,12,6,Winter
+01-01-2022,73.32737222,129.3273722,Crocin,Lucknow,Uttar Pradesh,90.81,7,10,5,Winter
+02-01-2022,70.07185033,170.0718503,Crocin,Pune,Maharashtra,87.75,8,8,5,Winter
+03-01-2022,55.79562884,60.79562884,Crocin,Delhi,Delhi,84.13,9,9,6,Winter
+04-01-2022,58.60211517,127.6021152,Crocin,Pune,Maharashtra,81.7,9,10,6,Winter
+05-01-2022,61.87590711,65.87590711,Crocin,Delhi,Delhi,83.91,13,8,7,Winter
+06-01-2022,65.13045525,143.1304553,Crocin,Pune,Maharashtra,84.12,11,10,5,Winter
+07-01-2022,67.5882951,145.5882951,Crocin,Delhi,Delhi,97.79,9,11,5,Winter
+08-01-2022,61.37128093,108.3712809,Crocin,Jaipur,Rajasthan,93.32,10,10,7,Winter
+09-01-2022,65.93383382,141.9338338,Crocin,Jaipur,Rajasthan,90.78,10,11,6,Winter
+10-01-2022,61.22308534,113.2230853,Crocin,Delhi,Delhi,92.83,10,7,6,Winter
+11-01-2022,61.94241099,62.94241099,Crocin,Hyderabad,Telangana,90.59,9,8,7,Winter
+12-01-2022,57.96669452,149.9666945,Crocin,Jaipur,Rajasthan,86.11,9,8,6,Winter
+13-01-2022,60.38383377,120.3838338,Crocin,Ahmedabad,Gujarat,78.87,13,12,6,Winter
+14-01-2022,58.24157697,157.241577,Crocin,Lucknow,Uttar Pradesh,84.49,12,15,6,Winter
+15-01-2022,60.12063374,130.1206337,Crocin,Delhi,Delhi,84.92,11,9,8,Winter
+16-01-2022,70.26820898,128.268209,Crocin,Kolkata,West Bengal,85.33,11,10,6,Winter
+17-01-2022,60.25300556,83.25300556,Crocin,Pune,Maharashtra,79.57,11,9,6,Winter
+18-01-2022,78.16191032,145.1619103,Crocin,Delhi,Delhi,96.86,11,11,6,Winter
+19-01-2022,67.4665895,87.4665895,Crocin,Bangalore,Karnataka,92.02,13,9,7,Winter
+20-01-2022,65.92418062,130.9241806,Crocin,Chennai,Tamil Nadu,83.96,13,11,8,Winter
+21-01-2022,60.7082111,104.7082111,Crocin,Chennai,Tamil Nadu,84.27,9,11,6,Winter
+22-01-2022,68.5015494,87.5015494,Crocin,Hyderabad,Telangana,97.01,12,8,6,Winter
+23-01-2022,62.12181087,81.12181087,Crocin,Ahmedabad,Gujarat,84.41,9,11,8,Winter
+24-01-2022,65.61004907,123.6100491,Crocin,Chennai,Tamil Nadu,91.25,13,6,7,Winter
+25-01-2022,77.80042269,169.8004227,Crocin,Mumbai,Maharashtra,94.45,14,10,6,Winter
+26-01-2022,64.5197005,79.5197005,Crocin,Pune,Maharashtra,92.93,11,9,7,Winter
+27-01-2022,70.74636663,142.7463666,Crocin,Kolkata,West Bengal,88.72,12,10,5,Winter
+28-01-2022,61.48411787,105.4841179,Crocin,Chennai,Tamil Nadu,89.85,8,9,6,Winter
+29-01-2022,64.82505755,145.8250575,Crocin,Chennai,Tamil Nadu,91.84,14,9,7,Winter
+30-01-2022,73.85400318,169.8540032,Crocin,Chennai,Tamil Nadu,95.95,14,9,8,Winter
+31-01-2022,61.86516471,74.86516471,Crocin,Ahmedabad,Gujarat,90.4,15,10,6,Winter
+01-02-2022,85.0430049,131.0430049,Crocin,Jaipur,Rajasthan,96.92,16,10,7,Winter
+02-02-2022,79.51952179,133.5195218,Crocin,Bangalore,Karnataka,103.96,10,10,8,Winter
+03-02-2022,73.16842823,85.16842823,Crocin,Kolkata,West Bengal,103.41,15,9,6,Winter
+04-02-2022,79.14280081,93.14280081,Crocin,Kolkata,West Bengal,90,16,12,7,Winter
+05-02-2022,80.84353436,136.8435344,Crocin,Bangalore,Karnataka,82.41,10,13,7,Winter
+06-02-2022,79.08981192,103.0898119,Crocin,Hyderabad,Telangana,96.38,13,7,6,Winter
+07-02-2022,68.12963851,138.1296385,Crocin,Ahmedabad,Gujarat,90.13,12,10,5,Winter
+08-02-2022,72.34507623,75.34507623,Crocin,Pune,Maharashtra,96.31,15,9,7,Winter
+09-02-2022,74.74316894,91.74316894,Crocin,Hyderabad,Telangana,93.62,8,11,4,Winter
+10-02-2022,75.60859497,145.608595,Crocin,Lucknow,Uttar Pradesh,92.89,17,10,6,Winter
+11-02-2022,79.0841226,139.0841226,Crocin,Hyderabad,Telangana,99.84,13,10,5,Winter
+12-02-2022,76.86926712,148.8692671,Crocin,Kolkata,West Bengal,99.74,15,10,7,Winter
+13-02-2022,69.30404032,73.30404032,Crocin,Chennai,Tamil Nadu,83.67,13,9,8,Winter
+14-02-2022,77.88175137,139.8817514,Crocin,Lucknow,Uttar Pradesh,90.12,14,13,5,Winter
+15-02-2022,79.03369084,137.0336908,Crocin,Lucknow,Uttar Pradesh,94.07,9,10,9,Winter
+16-02-2022,78.77971435,94.77971435,Crocin,Delhi,Delhi,95.29,13,11,7,Winter
+17-02-2022,81.38466574,141.3846657,Crocin,Pune,Maharashtra,94.67,15,9,6,Winter
+18-02-2022,80.15037289,115.1503729,Crocin,Chennai,Tamil Nadu,97.77,14,9,7,Winter
+19-02-2022,78.27666251,110.2766625,Crocin,Delhi,Delhi,99.78,10,11,5,Winter
+20-02-2022,75.62993356,118.6299336,Crocin,Hyderabad,Telangana,102.61,14,11,6,Winter
+21-02-2022,67.67595745,89.67595745,Crocin,Ahmedabad,Gujarat,93.69,12,7,6,Winter
+22-02-2022,78.12885321,110.1288532,Crocin,Delhi,Delhi,90.94,12,9,5,Winter
+23-02-2022,77.01920055,126.0192005,Crocin,Pune,Maharashtra,94.06,11,10,4,Winter
+24-02-2022,77.3386563,135.3386563,Crocin,Hyderabad,Telangana,94.62,15,9,5,Winter
+25-02-2022,69.59701923,143.5970192,Crocin,Delhi,Delhi,94.57,16,10,5,Winter
+26-02-2022,70.57547941,111.5754794,Crocin,Chennai,Tamil Nadu,94.54,18,9,6,Winter
+27-02-2022,81.24652638,177.2465264,Crocin,Hyderabad,Telangana,107.25,11,4,5,Winter
+28-02-2022,75.78298634,79.78298634,Crocin,Delhi,Delhi,92.49,16,6,4,Winter
+01-03-2022,83.40750349,108.4075035,Crocin,Jaipur,Rajasthan,98.32,16,11,6,Summer
+02-03-2022,80.14159188,98.14159188,Crocin,Chennai,Tamil Nadu,106.97,13,8,7,Summer
+03-03-2022,80.1487807,134.1487807,Crocin,Hyderabad,Telangana,92.27,12,9,5,Summer
+04-03-2022,84.69141903,132.691419,Crocin,Jaipur,Rajasthan,97.93,12,9,7,Summer
+05-03-2022,77.41977636,142.4197764,Crocin,Ahmedabad,Gujarat,89.48,13,7,6,Summer
+06-03-2022,80.48060388,118.4806039,Crocin,Kolkata,West Bengal,96.01,15,8,4,Summer
+07-03-2022,77.68862356,135.6886236,Crocin,Ahmedabad,Gujarat,90.7,17,9,4,Summer
+08-03-2022,77.82751886,141.8275189,Crocin,Bangalore,Karnataka,99.83,16,9,5,Summer
+09-03-2022,78.45413938,107.4541394,Crocin,Jaipur,Rajasthan,95.74,11,13,5,Summer
+10-03-2022,81.11066886,149.1106689,Crocin,Hyderabad,Telangana,91.52,13,7,2,Summer
+11-03-2022,77.60625689,136.6062569,Crocin,Hyderabad,Telangana,99,17,12,4,Summer
+12-03-2022,86.27878063,140.2787806,Crocin,Jaipur,Rajasthan,99.3,13,6,4,Summer
+13-03-2022,75.52696349,101.5269635,Crocin,Pune,Maharashtra,98.76,14,9,6,Summer
+14-03-2022,79.06564178,143.0656418,Crocin,Pune,Maharashtra,89.86,11,8,5,Summer
+15-03-2022,77.80134471,135.8013447,Crocin,Bangalore,Karnataka,96.84,17,8,4,Summer
+16-03-2022,87.23488942,139.2348894,Crocin,Lucknow,Uttar Pradesh,102.87,11,8,4,Summer
+17-03-2022,80.98277388,89.98277388,Crocin,Chennai,Tamil Nadu,94.28,11,7,5,Summer
+18-03-2022,85.1592227,97.1592227,Crocin,Lucknow,Uttar Pradesh,91.9,17,10,4,Summer
+19-03-2022,72.57219813,126.5721981,Crocin,Chennai,Tamil Nadu,92.99,18,6,4,Summer
+20-03-2022,81.33525133,98.33525133,Crocin,Chennai,Tamil Nadu,102.94,14,8,4,Summer
+21-03-2022,84.44815398,137.448154,Crocin,Mumbai,Maharashtra,103.63,14,9,4,Summer
+22-03-2022,80.41141995,177.4114199,Crocin,Delhi,Delhi,94.26,16,10,3,Summer
+23-03-2022,85.32740188,100.3274019,Crocin,Lucknow,Uttar Pradesh,91.98,15,10,3,Summer
+24-03-2022,77.41355775,177.4135577,Crocin,Chennai,Tamil Nadu,93.04,14,9,3,Summer
+25-03-2022,87.0467372,165.0467372,Crocin,Kolkata,West Bengal,96.86,14,6,3,Summer
+26-03-2022,91.49449062,149.4944906,Crocin,Hyderabad,Telangana,103.23,11,6,3,Summer
+27-03-2022,78.1858072,123.1858072,Crocin,Lucknow,Uttar Pradesh,95.07,15,5,5,Summer
+28-03-2022,77.77248739,134.7724874,Crocin,Bangalore,Karnataka,91.63,14,5,5,Summer
+29-03-2022,87.26692239,118.2669224,Crocin,Mumbai,Maharashtra,104.72,14,7,4,Summer
+30-03-2022,87.89786073,112.8978607,Crocin,Mumbai,Maharashtra,100.3,12,6,4,Summer
+31-03-2022,77.38569986,100.3856999,Crocin,Hyderabad,Telangana,97.58,13,10,3,Summer
+01-04-2022,73.87982803,84.87982803,Crocin,Pune,Maharashtra,86.98,16,6,1,Summer
+02-04-2022,74.57183907,119.5718391,Crocin,Pune,Maharashtra,83.68,16,7,3,Summer
+03-04-2022,69.25850956,165.2585096,Crocin,Kolkata,West Bengal,86.41,14,7,4,Summer
+04-04-2022,71.38750238,134.3875024,Crocin,Mumbai,Maharashtra,92.2,14,4,2,Summer
+05-04-2022,70.96005828,79.96005828,Crocin,Bangalore,Karnataka,97.28,13,9,2,Summer
+06-04-2022,72.14177429,117.1417743,Crocin,Ahmedabad,Gujarat,83.09,16,8,2,Summer
+07-04-2022,75.80733768,115.8073377,Crocin,Ahmedabad,Gujarat,104.16,14,8,3,Summer
+08-04-2022,77.15183578,160.1518358,Crocin,Mumbai,Maharashtra,97.65,15,8,3,Summer
+09-04-2022,83.73326458,102.7332646,Crocin,Mumbai,Maharashtra,106.2,15,5,4,Summer
+10-04-2022,70.98899191,102.9889919,Crocin,Jaipur,Rajasthan,89.77,14,5,2,Summer
+11-04-2022,80.90237411,83.90237411,Crocin,Hyderabad,Telangana,100.72,12,8,3,Summer
+12-04-2022,74.91081789,157.9108179,Crocin,Mumbai,Maharashtra,96.23,12,10,3,Summer
+13-04-2022,75.73344357,173.7334436,Crocin,Pune,Maharashtra,100.09,16,7,2,Summer
+14-04-2022,79.35485957,155.3548596,Crocin,Bangalore,Karnataka,96.23,13,8,4,Summer
+15-04-2022,70.36715201,147.367152,Crocin,Bangalore,Karnataka,96.17,13,5,4,Summer
+16-04-2022,77.89281084,87.89281084,Crocin,Chennai,Tamil Nadu,102.31,12,9,2,Summer
+17-04-2022,76.81302315,125.8130232,Crocin,Mumbai,Maharashtra,93.14,12,6,2,Summer
+18-04-2022,78.44301843,137.4430184,Crocin,Hyderabad,Telangana,98.21,13,7,4,Summer
+19-04-2022,77.42660533,80.42660533,Crocin,Hyderabad,Telangana,87.16,17,6,3,Summer
+20-04-2022,88.25726281,91.25726281,Crocin,Pune,Maharashtra,104.31,15,8,3,Summer
+21-04-2022,72.79206219,104.7920622,Crocin,Mumbai,Maharashtra,104.37,13,8,3,Summer
+22-04-2022,73.32577734,96.32577734,Crocin,Delhi,Delhi,88.38,16,3,3,Summer
+23-04-2022,72.86505948,120.8650595,Crocin,Kolkata,West Bengal,93.94,14,9,3,Summer
+24-04-2022,73.20337652,120.2033765,Crocin,Kolkata,West Bengal,99,17,11,3,Summer
+25-04-2022,72.79382648,162.7938265,Crocin,Chennai,Tamil Nadu,94.36,18,5,3,Summer
+26-04-2022,81.92584477,116.9258448,Crocin,Ahmedabad,Gujarat,98.63,16,6,4,Summer
+27-04-2022,83.08328335,138.0832834,Crocin,Mumbai,Maharashtra,96.25,14,8,2,Summer
+28-04-2022,73.12703064,100.1270306,Crocin,Chennai,Tamil Nadu,92.06,15,6,3,Summer
+29-04-2022,71.81898425,169.8189842,Crocin,Hyderabad,Telangana,93.17,14,6,4,Summer
+30-04-2022,78.3378399,91.3378399,Crocin,Hyderabad,Telangana,96.41,10,10,3,Summer
+01-05-2022,62.23888478,69.23888478,Crocin,Chennai,Tamil Nadu,88.09,12,3,2,Summer
+02-05-2022,68.16465909,163.1646591,Crocin,Bangalore,Karnataka,96.07,12,4,3,Summer
+03-05-2022,66.0146151,134.0146151,Crocin,Ahmedabad,Gujarat,103.24,12,6,3,Summer
+04-05-2022,57.42127943,103.4212794,Crocin,Ahmedabad,Gujarat,89.7,17,2,2,Summer
+05-05-2022,72.73752601,108.737526,Crocin,Delhi,Delhi,91.61,16,5,3,Summer
+06-05-2022,73.97938837,125.9793884,Crocin,Pune,Maharashtra,97.44,14,5,2,Summer
+07-05-2022,61.93605655,69.93605655,Crocin,Chennai,Tamil Nadu,89.83,15,7,4,Summer
+08-05-2022,63.0614922,98.0614922,Crocin,Jaipur,Rajasthan,87.11,9,7,3,Summer
+09-05-2022,66.42932695,116.429327,Crocin,Ahmedabad,Gujarat,95.7,15,2,2,Summer
+10-05-2022,66.67228395,90.67228395,Crocin,Pune,Maharashtra,91.45,15,4,2,Summer
+11-05-2022,68.29272136,71.29272136,Crocin,Mumbai,Maharashtra,92.48,8,4,3,Summer
+12-05-2022,75.05102269,175.0510227,Crocin,Delhi,Delhi,98.97,14,5,2,Summer
+13-05-2022,64.11526386,115.1152639,Crocin,Chennai,Tamil Nadu,85.93,10,3,5,Summer
+14-05-2022,61.00851378,76.00851378,Crocin,Ahmedabad,Gujarat,83.49,9,6,1,Summer
+15-05-2022,58.10340386,154.1034039,Crocin,Hyderabad,Telangana,94.35,15,4,4,Summer
+16-05-2022,61.3453498,93.3453498,Crocin,Lucknow,Uttar Pradesh,82.55,11,6,2,Summer
+17-05-2022,64.83436514,117.8343651,Crocin,Chennai,Tamil Nadu,88.52,11,5,2,Summer
+18-05-2022,73.97278932,126.9727893,Crocin,Jaipur,Rajasthan,88,14,3,4,Summer
+19-05-2022,62.4119435,116.4119435,Crocin,Pune,Maharashtra,89.77,12,8,3,Summer
+20-05-2022,66.11893976,91.11893976,Crocin,Delhi,Delhi,95.74,12,8,5,Summer
+21-05-2022,64.91788552,158.9178855,Crocin,Chennai,Tamil Nadu,93.56,12,6,2,Summer
+22-05-2022,70.94196637,170.9419664,Crocin,Bangalore,Karnataka,107.36,13,5,4,Summer
+23-05-2022,77.63466213,119.6346621,Crocin,Jaipur,Rajasthan,103.23,12,3,3,Summer
+24-05-2022,62.34565614,95.34565614,Crocin,Hyderabad,Telangana,86.94,12,7,4,Summer
+25-05-2022,62.55280279,102.5528028,Crocin,Ahmedabad,Gujarat,85.61,11,7,4,Summer
+26-05-2022,70.22080439,167.2208044,Crocin,Chennai,Tamil Nadu,108.13,13,3,2,Summer
+27-05-2022,68.40945745,167.4094574,Crocin,Mumbai,Maharashtra,98.91,12,3,4,Summer
+28-05-2022,74.23353663,152.2335366,Crocin,Bangalore,Karnataka,98.75,16,6,5,Summer
+29-05-2022,67.91964093,89.91964093,Crocin,Kolkata,West Bengal,93.57,11,2,4,Summer
+30-05-2022,63.20353955,85.20353955,Crocin,Mumbai,Maharashtra,92.57,11,4,3,Summer
+31-05-2022,67.95327415,88.95327415,Crocin,Bangalore,Karnataka,85.59,12,3,2,Summer
+01-06-2022,55.5435179,153.5435179,Crocin,Kolkata,West Bengal,94.59,13,3,4,Summer
+02-06-2022,54.10241091,94.10241091,Crocin,Jaipur,Rajasthan,93.56,9,3,6,Summer
+03-06-2022,52.53637016,152.5363702,Crocin,Lucknow,Uttar Pradesh,87.88,12,7,5,Summer
+04-06-2022,55.33337345,102.3333734,Crocin,Pune,Maharashtra,90.71,6,1,5,Summer
+05-06-2022,55.84647795,98.84647795,Crocin,Hyderabad,Telangana,100.98,11,6,5,Summer
+06-06-2022,56.91079496,132.910795,Crocin,Kolkata,West Bengal,92.97,13,5,4,Summer
+07-06-2022,53.24354944,66.24354944,Crocin,Kolkata,West Bengal,102.36,10,7,4,Summer
+08-06-2022,49.1644096,117.1644096,Crocin,Kolkata,West Bengal,81.5,11,5,5,Summer
+09-06-2022,50.73356843,85.73356843,Crocin,Pune,Maharashtra,88.19,10,4,3,Summer
+10-06-2022,56.03254483,124.0325448,Crocin,Kolkata,West Bengal,85.06,9,3,5,Summer
+11-06-2022,45.91532165,82.91532165,Crocin,Ahmedabad,Gujarat,82.55,13,7,6,Summer
+12-06-2022,51.84336654,136.8433665,Crocin,Mumbai,Maharashtra,86.66,8,6,4,Summer
+13-06-2022,48.03330594,96.03330594,Crocin,Kolkata,West Bengal,90.78,11,4,5,Summer
+14-06-2022,50.14372411,63.14372411,Crocin,Kolkata,West Bengal,91.13,11,6,4,Summer
+15-06-2022,56.39225931,110.3922593,Crocin,Hyderabad,Telangana,88.8,9,4,5,Summer
+16-06-2022,50.95549534,74.95549534,Crocin,Lucknow,Uttar Pradesh,78.66,11,5,5,Summer
+17-06-2022,50.23218274,83.23218274,Crocin,Hyderabad,Telangana,96.79,8,3,5,Summer
+18-06-2022,43.2007193,52.2007193,Crocin,Jaipur,Rajasthan,84.97,11,6,5,Summer
+19-06-2022,53.73126783,57.73126783,Crocin,Ahmedabad,Gujarat,84.82,7,3,3,Summer
+20-06-2022,53.22742091,67.22742091,Crocin,Ahmedabad,Gujarat,91.57,9,4,4,Summer
+21-06-2022,60.81627362,101.8162736,Crocin,Chennai,Tamil Nadu,94.02,9,3,7,Summer
+22-06-2022,48.46110883,125.4611088,Crocin,Bangalore,Karnataka,86.39,12,5,6,Summer
+23-06-2022,51.09575164,109.0957516,Crocin,Kolkata,West Bengal,89.54,10,5,3,Summer
+24-06-2022,51.24691842,77.24691842,Crocin,Jaipur,Rajasthan,83.02,11,2,7,Summer
+25-06-2022,57.8872664,69.8872664,Crocin,Kolkata,West Bengal,95,11,5,4,Summer
+26-06-2022,49.52352234,109.5235223,Crocin,Ahmedabad,Gujarat,82.82,10,2,6,Summer
+27-06-2022,51.39510763,84.39510763,Crocin,Chennai,Tamil Nadu,85.37,9,9,7,Summer
+28-06-2022,53.03948255,150.0394825,Crocin,Ahmedabad,Gujarat,92.04,11,3,6,Summer
+29-06-2022,50.93304562,130.9330456,Crocin,Kolkata,West Bengal,93.82,8,7,5,Summer
+30-06-2022,47.76783193,85.76783193,Crocin,Delhi,Delhi,94.33,6,5,5,Summer
+01-07-2022,35.97044996,55.97044996,Crocin,Kolkata,West Bengal,92.88,9,5,6,Monsoon
+02-07-2022,40.36815875,52.36815875,Crocin,Ahmedabad,Gujarat,87.58,10,2,5,Monsoon
+03-07-2022,29.8674235,90.8674235,Crocin,Ahmedabad,Gujarat,77.09,6,6,5,Monsoon
+04-07-2022,35.66484837,38.66484837,Crocin,Pune,Maharashtra,94.03,7,5,6,Monsoon
+05-07-2022,31.49939593,124.4993959,Crocin,Pune,Maharashtra,92.05,6,5,5,Monsoon
+06-07-2022,40.97523314,120.9752331,Crocin,Bangalore,Karnataka,85.44,10,4,7,Monsoon
+07-07-2022,27.38406548,54.38406548,Crocin,Chennai,Tamil Nadu,87.81,12,5,5,Monsoon
+08-07-2022,32.20539076,39.20539076,Crocin,Jaipur,Rajasthan,83.34,8,3,3,Monsoon
+09-07-2022,36.88605938,124.8860594,Crocin,Lucknow,Uttar Pradesh,94.31,9,4,5,Monsoon
+10-07-2022,42.82762015,64.82762015,Crocin,Mumbai,Maharashtra,86.43,9,4,6,Monsoon
+11-07-2022,34.67124869,65.67124869,Crocin,Chennai,Tamil Nadu,95.49,11,3,7,Monsoon
+12-07-2022,32.22400237,111.2240024,Crocin,Lucknow,Uttar Pradesh,88.33,7,5,6,Monsoon
+13-07-2022,44.40578535,69.40578535,Crocin,Lucknow,Uttar Pradesh,98.19,7,5,6,Monsoon
+14-07-2022,27.7599305,41.7599305,Crocin,Delhi,Delhi,80.08,7,5,6,Monsoon
+15-07-2022,24.00597022,34.00597022,Crocin,Kolkata,West Bengal,82.83,8,4,8,Monsoon
+16-07-2022,37.20007225,57.20007225,Crocin,Pune,Maharashtra,80.95,13,6,7,Monsoon
+17-07-2022,32.48972888,42.48972888,Crocin,Hyderabad,Telangana,88.02,8,5,6,Monsoon
+18-07-2022,29.89383591,65.89383591,Crocin,Chennai,Tamil Nadu,87.1,6,5,8,Monsoon
+19-07-2022,38.54178224,76.54178224,Crocin,Hyderabad,Telangana,97.99,5,5,6,Monsoon
+20-07-2022,36.21900357,120.2190036,Crocin,Ahmedabad,Gujarat,87.21,10,7,4,Monsoon
+21-07-2022,32.17960685,38.17960685,Crocin,Pune,Maharashtra,86.82,6,2,5,Monsoon
+22-07-2022,28.59847801,30.59847801,Crocin,Lucknow,Uttar Pradesh,79.25,9,4,7,Monsoon
+23-07-2022,39.36228664,93.36228664,Crocin,Chennai,Tamil Nadu,88.51,6,6,5,Monsoon
+24-07-2022,38.25100589,137.2510059,Crocin,Pune,Maharashtra,83.3,5,2,7,Monsoon
+25-07-2022,34.50412068,134.5041207,Crocin,Ahmedabad,Gujarat,84.18,8,8,6,Monsoon
+26-07-2022,44.23318498,47.23318498,Crocin,Mumbai,Maharashtra,88.27,6,5,8,Monsoon
+27-07-2022,29.64957617,50.64957617,Crocin,Bangalore,Karnataka,79.64,8,7,7,Monsoon
+28-07-2022,27.37237415,58.37237415,Crocin,Bangalore,Karnataka,80.71,8,7,5,Monsoon
+29-07-2022,31.54045965,38.54045965,Crocin,Mumbai,Maharashtra,79.92,8,6,7,Monsoon
+30-07-2022,34.77206992,48.77206992,Crocin,Jaipur,Rajasthan,81.1,6,1,8,Monsoon
+31-07-2022,36.21669725,116.2166972,Crocin,Kolkata,West Bengal,88.78,8,5,5,Monsoon
+01-08-2022,22.8130576,24.8130576,Crocin,Kolkata,West Bengal,83.28,5,6,6,Monsoon
+02-08-2022,25.77951487,71.77951487,Crocin,Pune,Maharashtra,85.14,2,3,7,Monsoon
+03-08-2022,17.76154077,56.76154077,Crocin,Ahmedabad,Gujarat,72.91,8,2,7,Monsoon
+04-08-2022,31.23806091,100.2380609,Crocin,Hyderabad,Telangana,87.52,7,6,9,Monsoon
+05-08-2022,23.60848199,64.60848199,Crocin,Hyderabad,Telangana,84.85,5,3,7,Monsoon
+06-08-2022,29.60571704,53.60571704,Crocin,Bangalore,Karnataka,82.61,3,9,9,Monsoon
+07-08-2022,25.73286462,53.73286462,Crocin,Pune,Maharashtra,93.23,2,6,6,Monsoon
+08-08-2022,26.30300398,71.30300398,Crocin,Lucknow,Uttar Pradesh,71.55,6,8,7,Monsoon
+09-08-2022,26.86807429,65.86807429,Crocin,Hyderabad,Telangana,87.12,9,5,6,Monsoon
+10-08-2022,26.25778069,121.2577807,Crocin,Jaipur,Rajasthan,86.36,6,7,6,Monsoon
+11-08-2022,27.23285169,46.23285169,Crocin,Chennai,Tamil Nadu,85.71,5,6,6,Monsoon
+12-08-2022,30.66500054,122.6650005,Crocin,Kolkata,West Bengal,85.28,6,7,6,Monsoon
+13-08-2022,25.00184373,86.00184373,Crocin,Bangalore,Karnataka,84.75,10,1,4,Monsoon
+14-08-2022,27.56425667,60.56425667,Crocin,Delhi,Delhi,87.34,7,7,5,Monsoon
+15-08-2022,23.57055942,77.57055942,Crocin,Kolkata,West Bengal,77.57,4,7,7,Monsoon
+16-08-2022,31.21982396,90.21982396,Crocin,Chennai,Tamil Nadu,85.7,6,5,6,Monsoon
+17-08-2022,20.63727638,42.63727638,Crocin,Lucknow,Uttar Pradesh,79.08,6,5,6,Monsoon
+18-08-2022,33.02394005,113.0239401,Crocin,Ahmedabad,Gujarat,79.33,3,5,5,Monsoon
+19-08-2022,23.81844813,31.81844813,Crocin,Bangalore,Karnataka,84.59,7,6,6,Monsoon
+20-08-2022,16.86536238,45.86536238,Crocin,Hyderabad,Telangana,75.38,4,8,7,Monsoon
+21-08-2022,24.65975996,30.65975996,Crocin,Kolkata,West Bengal,73.71,2,5,7,Monsoon
+22-08-2022,20.6139796,119.6139796,Crocin,Mumbai,Maharashtra,76.9,5,2,6,Monsoon
+23-08-2022,28.22245563,109.2224556,Crocin,Chennai,Tamil Nadu,78.41,5,11,5,Monsoon
+24-08-2022,20.75611799,91.75611799,Crocin,Mumbai,Maharashtra,84.54,5,7,7,Monsoon
+25-08-2022,21.78832072,76.78832072,Crocin,Hyderabad,Telangana,80.57,4,5,7,Monsoon
+26-08-2022,14.57153423,98.57153423,Crocin,Kolkata,West Bengal,83.71,4,8,4,Monsoon
+27-08-2022,21.75770629,40.75770629,Crocin,Jaipur,Rajasthan,76.27,7,8,4,Monsoon
+28-08-2022,11.89984125,105.8998413,Crocin,Ahmedabad,Gujarat,79.97,6,7,4,Monsoon
+29-08-2022,16.09972377,114.0997238,Crocin,Lucknow,Uttar Pradesh,91.4,3,5,5,Monsoon
+30-08-2022,27.82131117,117.8213112,Crocin,Hyderabad,Telangana,83.58,1,8,6,Monsoon
+31-08-2022,27.94823868,65.94823868,Crocin,Lucknow,Uttar Pradesh,86.11,3,8,6,Monsoon
+01-09-2022,22.12728781,99.12728781,Crocin,Kolkata,West Bengal,84.67,5,3,5,Winter
+02-09-2022,15.16511928,88.16511928,Crocin,Kolkata,West Bengal,71.09,4,7,5,Winter
+03-09-2022,19.76144322,91.76144322,Crocin,Chennai,Tamil Nadu,82.93,3,7,7,Winter
+04-09-2022,19.9819873,82.9819873,Crocin,Ahmedabad,Gujarat,81.73,4,7,5,Winter
+05-09-2022,14.20817655,101.2081766,Crocin,Bangalore,Karnataka,76.5,5,7,5,Winter
+06-09-2022,27.51699151,82.51699151,Crocin,Chennai,Tamil Nadu,78.58,6,9,4,Winter
+07-09-2022,24.38681145,88.38681145,Crocin,Hyderabad,Telangana,85.27,5,6,7,Winter
+08-09-2022,18.89517913,113.8951791,Crocin,Kolkata,West Bengal,74.74,5,7,5,Winter
+09-09-2022,20.13442919,26.13442919,Crocin,Delhi,Delhi,90.67,4,7,4,Winter
+10-09-2022,21.04191404,90.04191404,Crocin,Delhi,Delhi,80.97,4,6,3,Winter
+11-09-2022,9.791325658,47.79132566,Crocin,Delhi,Delhi,69.68,6,4,3,Winter
+12-09-2022,18.76411309,63.76411309,Crocin,Pune,Maharashtra,76.83,6,7,4,Winter
+13-09-2022,16.59007876,91.59007876,Crocin,Bangalore,Karnataka,77.21,9,7,3,Winter
+14-09-2022,14.99189995,99.99189995,Crocin,Chennai,Tamil Nadu,90.06,6,6,3,Winter
+15-09-2022,18.59449854,49.59449854,Crocin,Jaipur,Rajasthan,74.98,4,7,5,Winter
+16-09-2022,28.98843263,61.98843263,Crocin,Jaipur,Rajasthan,83.02,3,1,5,Winter
+17-09-2022,23.20421431,50.20421431,Crocin,Bangalore,Karnataka,78.51,6,10,6,Winter
+18-09-2022,17.14410505,64.14410505,Crocin,Bangalore,Karnataka,81.3,3,9,2,Winter
+19-09-2022,22.86291391,28.86291391,Crocin,Chennai,Tamil Nadu,78.39,6,5,3,Winter
+20-09-2022,26.99677718,95.99677718,Crocin,Mumbai,Maharashtra,77.1,3,6,3,Winter
+21-09-2022,24.62316841,28.62316841,Crocin,Lucknow,Uttar Pradesh,80.82,5,10,5,Winter
+22-09-2022,20.29815185,69.29815185,Crocin,Lucknow,Uttar Pradesh,78.5,2,5,4,Winter
+23-09-2022,16.76531611,100.7653161,Crocin,Pune,Maharashtra,75.64,6,8,5,Winter
+24-09-2022,23.49111657,61.49111657,Crocin,Lucknow,Uttar Pradesh,78.71,2,7,4,Winter
+25-09-2022,21.96742693,84.96742693,Crocin,Pune,Maharashtra,86.72,5,8,3,Winter
+26-09-2022,24.4759661,85.4759661,Crocin,Ahmedabad,Gujarat,80.2,4,8,4,Winter
+27-09-2022,23.17585901,101.175859,Crocin,Lucknow,Uttar Pradesh,75.73,5,7,2,Winter
+28-09-2022,25.24776358,77.24776358,Crocin,Ahmedabad,Gujarat,79.89,4,8,1,Winter
+29-09-2022,17.32382394,23.32382394,Crocin,Mumbai,Maharashtra,79.27,4,7,4,Winter
+30-09-2022,26.58697033,93.58697033,Crocin,Ahmedabad,Gujarat,76.12,5,4,3,Winter
+01-10-2022,25.00723591,88.00723591,Crocin,Pune,Maharashtra,88.73,3,6,5,Winter
+02-10-2022,34.39554225,81.39554225,Crocin,Hyderabad,Telangana,88.74,3,6,2,Winter
+03-10-2022,20.5732988,112.5732988,Crocin,Jaipur,Rajasthan,86.15,4,5,3,Winter
+04-10-2022,32.6990569,67.6990569,Crocin,Bangalore,Karnataka,85.76,4,9,4,Winter
+05-10-2022,25.0087918,114.0087918,Crocin,Ahmedabad,Gujarat,70.33,3,8,3,Winter
+06-10-2022,20.76214787,99.76214787,Crocin,Pune,Maharashtra,86.88,6,9,4,Winter
+07-10-2022,21.59980872,60.59980872,Crocin,Kolkata,West Bengal,75.28,4,9,2,Winter
+08-10-2022,22.41750135,33.41750135,Crocin,Hyderabad,Telangana,76.09,4,10,4,Winter
+09-10-2022,26.14006762,72.14006762,Crocin,Chennai,Tamil Nadu,82.18,2,9,3,Winter
+10-10-2022,26.63341533,37.63341533,Crocin,Lucknow,Uttar Pradesh,88.69,9,6,4,Winter
+11-10-2022,21.15073787,115.1507379,Crocin,Ahmedabad,Gujarat,84.87,10,10,2,Winter
+12-10-2022,23.89746493,34.89746493,Crocin,Kolkata,West Bengal,85.33,3,9,2,Winter
+13-10-2022,34.73058968,123.7305897,Crocin,Chennai,Tamil Nadu,83.64,7,13,2,Winter
+14-10-2022,32.65695374,129.6569537,Crocin,Mumbai,Maharashtra,82.76,5,9,2,Winter
+15-10-2022,26.20085623,85.20085623,Crocin,Bangalore,Karnataka,83.73,8,9,2,Winter
+16-10-2022,24.20925528,118.2092553,Crocin,Kolkata,West Bengal,80.55,6,8,2,Winter
+17-10-2022,24.61939452,85.61939452,Crocin,Lucknow,Uttar Pradesh,85.85,5,9,2,Winter
+18-10-2022,27.08682775,102.0868278,Crocin,Chennai,Tamil Nadu,86.75,0,9,3,Winter
+19-10-2022,18.90527506,35.90527506,Crocin,Bangalore,Karnataka,82.36,3,8,1,Winter
+20-10-2022,22.7323552,108.7323552,Crocin,Ahmedabad,Gujarat,68.37,5,9,2,Winter
+21-10-2022,15.67631752,18.67631752,Crocin,Chennai,Tamil Nadu,78.84,5,10,2,Winter
+22-10-2022,26.0153535,59.0153535,Crocin,Delhi,Delhi,81.86,3,8,2,Winter
+23-10-2022,27.25521758,124.2552176,Crocin,Hyderabad,Telangana,83.84,4,11,3,Winter
+24-10-2022,21.60330557,76.60330557,Crocin,Chennai,Tamil Nadu,77.23,6,10,2,Winter
+25-10-2022,31.8891717,85.8891717,Crocin,Delhi,Delhi,78.58,2,7,2,Winter
+26-10-2022,17.89040957,45.89040957,Crocin,Delhi,Delhi,81.92,6,7,2,Winter
+27-10-2022,16.69736349,98.69736349,Crocin,Delhi,Delhi,77.62,8,10,4,Winter
+28-10-2022,25.14149698,65.14149698,Crocin,Pune,Maharashtra,85.67,6,8,4,Winter
+29-10-2022,29.2547294,44.2547294,Crocin,Bangalore,Karnataka,81.25,6,7,2,Winter
+30-10-2022,32.43887634,120.4388763,Crocin,Ahmedabad,Gujarat,93.08,1,13,2,Winter
+31-10-2022,21.72481657,56.72481657,Crocin,Mumbai,Maharashtra,86.81,4,7,1,Winter
+01-11-2022,40.39340417,101.3934042,Crocin,Chennai,Tamil Nadu,86.48,10,6,2,Winter
+02-11-2022,34.80745765,73.80745765,Crocin,Hyderabad,Telangana,81.73,4,8,1,Winter
+03-11-2022,34.1368635,56.1368635,Crocin,Chennai,Tamil Nadu,87.06,8,10,2,Winter
+04-11-2022,39.41829969,51.41829969,Crocin,Kolkata,West Bengal,86.96,4,10,4,Winter
+05-11-2022,38.26161439,116.2616144,Crocin,Mumbai,Maharashtra,85.79,5,13,1,Winter
+06-11-2022,27.11803922,62.11803922,Crocin,Lucknow,Uttar Pradesh,85.61,7,8,2,Winter
+07-11-2022,42.38270175,105.3827017,Crocin,Jaipur,Rajasthan,93.73,6,10,2,Winter
+08-11-2022,41.90045677,55.90045677,Crocin,Jaipur,Rajasthan,80.34,7,12,1,Winter
+09-11-2022,31.87218649,64.87218649,Crocin,Jaipur,Rajasthan,77.35,4,8,4,Winter
+10-11-2022,36.97901767,40.97901767,Crocin,Delhi,Delhi,80.9,4,11,3,Winter
+11-11-2022,37.47015093,109.4701509,Crocin,Ahmedabad,Gujarat,77.69,4,6,5,Winter
+12-11-2022,36.30336883,125.3033688,Crocin,Mumbai,Maharashtra,84.49,5,13,2,Winter
+13-11-2022,32.24847423,104.2484742,Crocin,Chennai,Tamil Nadu,86.4,6,12,1,Winter
+14-11-2022,31.64188316,81.64188316,Crocin,Chennai,Tamil Nadu,83.29,8,8,4,Winter
+15-11-2022,34.87222965,94.87222965,Crocin,Mumbai,Maharashtra,82.13,7,12,3,Winter
+16-11-2022,40.8636451,49.8636451,Crocin,Ahmedabad,Gujarat,93.03,7,13,3,Winter
+17-11-2022,37.71800077,102.7180008,Crocin,Kolkata,West Bengal,86.9,7,7,5,Winter
+18-11-2022,33.14692834,126.1469283,Crocin,Kolkata,West Bengal,86.31,4,9,3,Winter
+19-11-2022,38.85849355,88.85849355,Crocin,Lucknow,Uttar Pradesh,92.77,7,13,4,Winter
+20-11-2022,20.7572869,93.7572869,Crocin,Mumbai,Maharashtra,79.18,7,10,3,Winter
+21-11-2022,40.7438285,84.7438285,Crocin,Jaipur,Rajasthan,98.3,8,11,3,Winter
+22-11-2022,26.30143111,29.30143111,Crocin,Hyderabad,Telangana,80.16,5,10,3,Winter
+23-11-2022,33.18779529,123.1877953,Crocin,Mumbai,Maharashtra,95.39,3,12,4,Winter
+24-11-2022,29.40165053,30.40165053,Crocin,Kolkata,West Bengal,79.13,7,11,4,Winter
+25-11-2022,28.52659262,91.52659262,Crocin,Pune,Maharashtra,86.39,8,10,4,Winter
+26-11-2022,40.80413394,53.80413394,Crocin,Jaipur,Rajasthan,85.79,7,6,1,Winter
+27-11-2022,32.66149399,76.66149399,Crocin,Delhi,Delhi,91.4,7,11,2,Winter
+28-11-2022,36.73251941,108.7325194,Crocin,Jaipur,Rajasthan,85.21,9,12,2,Winter
+29-11-2022,34.76539711,47.76539711,Crocin,Bangalore,Karnataka,88.45,6,8,3,Winter
+30-11-2022,37.38520414,81.38520414,Crocin,Jaipur,Rajasthan,84.95,7,8,2,Winter
+01-12-2022,50.38410946,122.3841095,Crocin,Kolkata,West Bengal,92.29,8,11,6,Winter
+02-12-2022,43.58503888,95.58503888,Crocin,Pune,Maharashtra,81.72,5,11,4,Winter
+03-12-2022,54.9813341,59.9813341,Crocin,Jaipur,Rajasthan,98.22,7,6,4,Winter
+04-12-2022,47.53121708,121.5312171,Crocin,Lucknow,Uttar Pradesh,82.02,8,9,3,Winter
+05-12-2022,42.21709051,96.21709051,Crocin,Chennai,Tamil Nadu,78.27,11,11,3,Winter
+06-12-2022,47.8594242,116.8594242,Crocin,Pune,Maharashtra,92.36,7,12,6,Winter
+07-12-2022,57.50379895,135.503799,Crocin,Delhi,Delhi,88.64,8,9,6,Winter
+08-12-2022,54.25110871,93.25110871,Crocin,Pune,Maharashtra,90.36,10,10,5,Winter
+09-12-2022,48.25673933,75.25673933,Crocin,Lucknow,Uttar Pradesh,86.59,7,9,2,Winter
+10-12-2022,48.25371148,146.2537115,Crocin,Jaipur,Rajasthan,81.84,11,13,4,Winter
+11-12-2022,48.39182474,93.39182474,Crocin,Ahmedabad,Gujarat,88.22,12,11,5,Winter
+12-12-2022,60.38373992,69.38373992,Crocin,Lucknow,Uttar Pradesh,99.92,8,9,4,Winter
+13-12-2022,51.90967726,65.90967726,Crocin,Hyderabad,Telangana,95.42,7,8,3,Winter
+14-12-2022,52.15020824,64.15020824,Crocin,Chennai,Tamil Nadu,91.96,12,8,7,Winter
+15-12-2022,55.15141727,147.1514173,Crocin,Pune,Maharashtra,97.76,10,14,4,Winter
+16-12-2022,51.1939458,52.1939458,Crocin,Pune,Maharashtra,85.5,9,10,4,Winter
+17-12-2022,48.70478927,53.70478927,Crocin,Pune,Maharashtra,88.37,12,10,5,Winter
+18-12-2022,49.01825075,133.0182508,Crocin,Chennai,Tamil Nadu,92.18,12,10,6,Winter
+19-12-2022,49.6419937,100.6419937,Crocin,Lucknow,Uttar Pradesh,89.95,8,9,6,Winter
+20-12-2022,49.81388882,106.8138888,Crocin,Chennai,Tamil Nadu,89.77,10,10,4,Winter
+21-12-2022,53.63814772,55.63814772,Crocin,Kolkata,West Bengal,86.6,10,11,4,Winter
+22-12-2022,50.25972943,94.25972943,Crocin,Ahmedabad,Gujarat,81.19,9,11,3,Winter
+23-12-2022,53.66320039,124.6632004,Crocin,Lucknow,Uttar Pradesh,97.09,7,8,5,Winter
+24-12-2022,49.5964171,63.5964171,Crocin,Chennai,Tamil Nadu,92.82,8,12,5,Winter
+25-12-2022,50.39317595,53.39317595,Crocin,Jaipur,Rajasthan,96.71,7,9,6,Winter
+26-12-2022,40.00899658,104.0089966,Crocin,Ahmedabad,Gujarat,86.01,11,9,5,Winter
+27-12-2022,54.58163837,72.58163837,Crocin,Jaipur,Rajasthan,90.64,7,9,7,Winter
+28-12-2022,51.73244238,79.73244238,Crocin,Delhi,Delhi,93.23,10,8,6,Winter
+29-12-2022,54.99005055,143.9900505,Crocin,Chennai,Tamil Nadu,99.07,14,11,5,Winter
+30-12-2022,35.51872311,40.51872311,Crocin,Mumbai,Maharashtra,86.04,13,12,6,Winter
+31-12-2022,60.44187352,99.44187352,Crocin,Bangalore,Karnataka,101.41,6,9,7,Winter
+01-01-2023,64.30205186,102.3020519,Crocin,Lucknow,Uttar Pradesh,87.97,8,7,5,Winter
+02-01-2023,70.54091408,152.5409141,Crocin,Kolkata,West Bengal,94.99,9,8,6,Winter
+03-01-2023,59.80047036,139.8004704,Crocin,Pune,Maharashtra,91.25,8,10,6,Winter
+04-01-2023,68.06386953,69.06386953,Crocin,Bangalore,Karnataka,101.33,7,8,6,Winter
+05-01-2023,59.73292218,95.73292218,Crocin,Mumbai,Maharashtra,93.04,11,9,7,Winter
+06-01-2023,61.8811552,131.8811552,Crocin,Hyderabad,Telangana,101.73,12,9,7,Winter
+07-01-2023,74.57015677,165.5701568,Crocin,Chennai,Tamil Nadu,91.46,13,10,7,Winter
+08-01-2023,64.046588,127.046588,Crocin,Jaipur,Rajasthan,94.85,10,7,7,Winter
+09-01-2023,66.08716437,86.08716437,Crocin,Pune,Maharashtra,96.1,10,12,6,Winter
+10-01-2023,69.35033865,120.3503387,Crocin,Lucknow,Uttar Pradesh,99.9,12,14,7,Winter
+11-01-2023,67.47840944,97.47840944,Crocin,Pune,Maharashtra,92.13,11,13,5,Winter
+12-01-2023,65.75209453,127.7520945,Crocin,Kolkata,West Bengal,104.02,13,9,9,Winter
+13-01-2023,66.82480501,80.82480501,Crocin,Mumbai,Maharashtra,96.46,12,12,8,Winter
+14-01-2023,77.01707793,100.0170779,Crocin,Pune,Maharashtra,95.16,11,11,7,Winter
+15-01-2023,64.71190601,160.711906,Crocin,Jaipur,Rajasthan,95.72,8,10,7,Winter
+16-01-2023,66.00549523,71.00549523,Crocin,Pune,Maharashtra,95.03,14,11,7,Winter
+17-01-2023,70.25327198,106.253272,Crocin,Mumbai,Maharashtra,112.32,10,12,5,Winter
+18-01-2023,70.52762966,146.5276297,Crocin,Hyderabad,Telangana,103.85,12,12,5,Winter
+19-01-2023,70.93515153,156.9351515,Crocin,Jaipur,Rajasthan,99.25,8,9,5,Winter
+20-01-2023,68.19365111,93.19365111,Crocin,Chennai,Tamil Nadu,97.44,12,12,7,Winter
+21-01-2023,59.28497544,105.2849754,Crocin,Chennai,Tamil Nadu,99.56,12,13,6,Winter
+22-01-2023,73.16715766,160.1671577,Crocin,Pune,Maharashtra,105.39,12,12,7,Winter
+23-01-2023,59.26827303,112.268273,Crocin,Hyderabad,Telangana,80.44,18,13,6,Winter
+24-01-2023,66.51317733,140.5131773,Crocin,Delhi,Delhi,101.41,11,5,8,Winter
+25-01-2023,61.22862075,159.2286207,Crocin,Hyderabad,Telangana,96.34,14,11,6,Winter
+26-01-2023,64.67930827,144.6793083,Crocin,Ahmedabad,Gujarat,91.24,13,11,6,Winter
+27-01-2023,66.64381205,141.6438121,Crocin,Chennai,Tamil Nadu,103,11,12,7,Winter
+28-01-2023,66.60678608,109.6067861,Crocin,Hyderabad,Telangana,110.03,14,8,7,Winter
+29-01-2023,67.10960377,113.1096038,Crocin,Lucknow,Uttar Pradesh,101.98,12,9,5,Winter
+30-01-2023,73.06855635,93.06855635,Crocin,Pune,Maharashtra,107.3,14,12,8,Winter
+31-01-2023,67.26767151,116.2676715,Crocin,Delhi,Delhi,108.62,16,8,7,Winter
+01-02-2023,74.75997894,109.7599789,Crocin,Kolkata,West Bengal,94.25,13,10,4,Winter
+02-02-2023,80.80119795,125.801198,Crocin,Delhi,Delhi,91.51,12,10,6,Winter
+03-02-2023,81.92811456,93.92811456,Crocin,Chennai,Tamil Nadu,104.68,15,9,6,Winter
+04-02-2023,69.84272304,122.842723,Crocin,Pune,Maharashtra,95.56,16,11,5,Winter
+05-02-2023,78.96776246,163.9677625,Crocin,Jaipur,Rajasthan,93.73,11,7,8,Winter
+06-02-2023,79.48662583,138.4866258,Crocin,Hyderabad,Telangana,100.61,12,8,6,Winter
+07-02-2023,74.4929446,134.4929446,Crocin,Pune,Maharashtra,102.64,14,9,7,Winter
+08-02-2023,82.85929618,179.8592962,Crocin,Pune,Maharashtra,101.86,13,7,6,Winter
+09-02-2023,75.23048418,148.2304842,Crocin,Chennai,Tamil Nadu,95.67,11,12,7,Winter
+10-02-2023,76.60864438,151.6086444,Crocin,Mumbai,Maharashtra,99.28,14,8,8,Winter
+11-02-2023,75.11540299,148.115403,Crocin,Pune,Maharashtra,99.9,15,11,7,Winter
+12-02-2023,76.05865735,99.05865735,Crocin,Hyderabad,Telangana,90.75,13,8,8,Winter
+13-02-2023,70.49938668,140.4993867,Crocin,Bangalore,Karnataka,97.69,13,11,7,Winter
+14-02-2023,68.7805077,158.7805077,Crocin,Bangalore,Karnataka,91.08,12,6,6,Winter
+15-02-2023,83.95328743,104.9532874,Crocin,Pune,Maharashtra,107.3,11,12,6,Winter
+16-02-2023,71.74595537,74.74595537,Crocin,Kolkata,West Bengal,91.39,13,12,3,Winter
+17-02-2023,71.02380037,96.02380037,Crocin,Bangalore,Karnataka,104.06,14,8,5,Winter
+18-02-2023,65.21381155,99.21381155,Crocin,Delhi,Delhi,94.75,11,8,6,Winter
+19-02-2023,72.78595338,102.7859534,Crocin,Kolkata,West Bengal,97.29,13,10,6,Winter
+20-02-2023,69.36531315,146.3653131,Crocin,Jaipur,Rajasthan,100.27,14,6,6,Winter
+21-02-2023,84.19083791,140.1908379,Crocin,Mumbai,Maharashtra,100.47,16,9,6,Winter
+22-02-2023,81.02984756,88.02984756,Crocin,Lucknow,Uttar Pradesh,104.99,13,7,4,Winter
+23-02-2023,72.54001039,138.5400104,Crocin,Bangalore,Karnataka,96.74,11,8,4,Winter
+24-02-2023,87.24294114,141.2429411,Crocin,Kolkata,West Bengal,103.62,13,8,4,Winter
+25-02-2023,80.88958955,161.8895895,Crocin,Pune,Maharashtra,105.83,13,7,7,Winter
+26-02-2023,74.3566052,172.3566052,Crocin,Chennai,Tamil Nadu,95.71,15,12,4,Winter
+27-02-2023,63.48373354,133.4837335,Crocin,Delhi,Delhi,90.68,13,10,4,Winter
+28-02-2023,87.43547498,105.435475,Crocin,Hyderabad,Telangana,108.04,9,6,5,Winter
+01-03-2023,73.05213767,171.0521377,Crocin,Hyderabad,Telangana,99.47,21,7,3,Summer
+02-03-2023,71.77300627,109.7730063,Crocin,Mumbai,Maharashtra,99.84,14,10,4,Summer
+03-03-2023,85.11285216,136.1128522,Crocin,Lucknow,Uttar Pradesh,106.24,14,11,6,Summer
+04-03-2023,92.19876203,123.198762,Crocin,Pune,Maharashtra,107.69,11,6,4,Summer
+05-03-2023,86.92136409,168.9213641,Crocin,Delhi,Delhi,108.44,11,10,6,Summer
+06-03-2023,82.8195456,91.8195456,Crocin,Delhi,Delhi,104.29,14,9,3,Summer
+07-03-2023,82.97377171,98.97377171,Crocin,Delhi,Delhi,93.96,15,5,4,Summer
+08-03-2023,84.26707779,118.2670778,Crocin,Chennai,Tamil Nadu,95.86,16,8,4,Summer
+09-03-2023,83.79464295,173.7946429,Crocin,Lucknow,Uttar Pradesh,114.04,15,8,4,Summer
+10-03-2023,81.40595712,163.4059571,Crocin,Mumbai,Maharashtra,103.6,12,8,3,Summer
+11-03-2023,80.52100552,169.5210055,Crocin,Chennai,Tamil Nadu,107.95,9,6,4,Summer
+12-03-2023,79.68703436,163.6870344,Crocin,Hyderabad,Telangana,101.27,14,7,5,Summer
+13-03-2023,76.23017706,146.2301771,Crocin,Delhi,Delhi,101.31,13,7,4,Summer
+14-03-2023,78.59662462,119.5966246,Crocin,Mumbai,Maharashtra,100.33,12,7,3,Summer
+15-03-2023,71.53521593,133.5352159,Crocin,Mumbai,Maharashtra,112.13,16,7,6,Summer
+16-03-2023,79.50830187,116.5083019,Crocin,Delhi,Delhi,104.47,11,8,4,Summer
+17-03-2023,75.05704446,132.0570445,Crocin,Ahmedabad,Gujarat,98.73,16,9,5,Summer
+18-03-2023,74.48205341,119.4820534,Crocin,Chennai,Tamil Nadu,92.94,12,11,5,Summer
+19-03-2023,80.89947076,141.8994708,Crocin,Bangalore,Karnataka,113.67,15,10,4,Summer
+20-03-2023,86.96001143,181.9600114,Crocin,Bangalore,Karnataka,105.38,16,10,3,Summer
+21-03-2023,84.59158303,174.591583,Crocin,Jaipur,Rajasthan,109.12,14,7,4,Summer
+22-03-2023,72.14749698,159.147497,Crocin,Bangalore,Karnataka,104.68,18,6,3,Summer
+23-03-2023,75.05185932,143.0518593,Crocin,Hyderabad,Telangana,99.29,18,9,4,Summer
+24-03-2023,84.70385594,99.70385594,Crocin,Lucknow,Uttar Pradesh,108.76,15,8,3,Summer
+25-03-2023,75.08756303,114.087563,Crocin,Jaipur,Rajasthan,98.58,16,9,4,Summer
+26-03-2023,78.87683425,127.8768343,Crocin,Chennai,Tamil Nadu,98.25,17,6,2,Summer
+27-03-2023,82.7502605,122.7502605,Crocin,Bangalore,Karnataka,110.62,16,9,4,Summer
+28-03-2023,75.15827773,132.1582777,Crocin,Jaipur,Rajasthan,101.01,15,7,4,Summer
+29-03-2023,80.52687753,139.5268775,Crocin,Mumbai,Maharashtra,106.39,13,6,3,Summer
+30-03-2023,73.32987253,95.32987253,Crocin,Mumbai,Maharashtra,103.05,11,7,4,Summer
+31-03-2023,76.99316178,175.9931618,Crocin,Ahmedabad,Gujarat,105.59,12,8,4,Summer
+01-04-2023,77.57967178,144.5796718,Crocin,Lucknow,Uttar Pradesh,96.62,19,9,4,Summer
+02-04-2023,68.01579345,157.0157934,Crocin,Jaipur,Rajasthan,97.67,15,6,4,Summer
+03-04-2023,78.1831358,106.1831358,Crocin,Delhi,Delhi,102.98,14,8,3,Summer
+04-04-2023,75.88257312,160.8825731,Crocin,Pune,Maharashtra,99.44,17,8,2,Summer
+05-04-2023,78.74321189,126.7432119,Crocin,Mumbai,Maharashtra,106.95,13,8,2,Summer
+06-04-2023,77.10033278,119.1003328,Crocin,Bangalore,Karnataka,110.13,16,9,3,Summer
+07-04-2023,82.80146426,178.8014643,Crocin,Pune,Maharashtra,113.13,15,10,4,Summer
+08-04-2023,76.60688463,162.6068846,Crocin,Pune,Maharashtra,102.1,15,6,3,Summer
+09-04-2023,73.83373441,113.8337344,Crocin,Jaipur,Rajasthan,104.26,14,10,4,Summer
+10-04-2023,76.59224963,176.5922496,Crocin,Bangalore,Karnataka,106.03,12,7,4,Summer
+11-04-2023,78.69725226,101.6972523,Crocin,Delhi,Delhi,107.71,13,4,2,Summer
+12-04-2023,76.22506247,80.22506247,Crocin,Bangalore,Karnataka,99.21,13,5,5,Summer
+13-04-2023,76.18372057,138.1837206,Crocin,Delhi,Delhi,112.7,14,7,3,Summer
+14-04-2023,72.47080367,91.47080367,Crocin,Mumbai,Maharashtra,106.63,11,8,2,Summer
+15-04-2023,72.66625753,114.6662575,Crocin,Chennai,Tamil Nadu,106.76,12,4,3,Summer
+16-04-2023,68.96773575,117.9677358,Crocin,Chennai,Tamil Nadu,106.62,14,5,3,Summer
+17-04-2023,84.72864583,100.7286458,Crocin,Jaipur,Rajasthan,109.47,14,5,2,Summer
+18-04-2023,69.76144594,114.7614459,Crocin,Lucknow,Uttar Pradesh,95.66,14,5,2,Summer
+19-04-2023,72.51623612,129.5162361,Crocin,Chennai,Tamil Nadu,101.11,14,2,2,Summer
+20-04-2023,72.38872579,98.38872579,Crocin,Kolkata,West Bengal,93.54,19,2,3,Summer
+21-04-2023,80.455384,102.455384,Crocin,Chennai,Tamil Nadu,107.08,14,5,3,Summer
+22-04-2023,74.50601372,149.5060137,Crocin,Lucknow,Uttar Pradesh,101.55,13,7,2,Summer
+23-04-2023,82.21947248,93.21947248,Crocin,Hyderabad,Telangana,105.2,14,7,3,Summer
+24-04-2023,72.61330899,128.613309,Crocin,Delhi,Delhi,107.62,16,3,1,Summer
+25-04-2023,77.37573292,111.3757329,Crocin,Hyderabad,Telangana,101.12,14,3,3,Summer
+26-04-2023,71.80402685,83.80402685,Crocin,Ahmedabad,Gujarat,99.94,15,5,2,Summer
+27-04-2023,86.70650775,121.7065078,Crocin,Jaipur,Rajasthan,107.11,15,6,2,Summer
+28-04-2023,70.04277002,142.04277,Crocin,Kolkata,West Bengal,91,13,8,3,Summer
+29-04-2023,77.52986566,134.5298657,Crocin,Bangalore,Karnataka,101.87,14,7,3,Summer
+30-04-2023,79.14964652,152.1496465,Crocin,Hyderabad,Telangana,91.37,17,5,2,Summer
+01-05-2023,67.06899549,118.0689955,Crocin,Bangalore,Karnataka,100.27,14,6,2,Summer
+02-05-2023,64.07356171,153.0735617,Crocin,Kolkata,West Bengal,106.28,12,4,2,Summer
+03-05-2023,64.3508965,68.3508965,Crocin,Ahmedabad,Gujarat,104.24,13,6,3,Summer
+04-05-2023,65.21905736,70.21905736,Crocin,Pune,Maharashtra,99.23,9,5,3,Summer
+05-05-2023,64.26498999,134.26499,Crocin,Chennai,Tamil Nadu,102,14,8,2,Summer
+06-05-2023,69.81939558,106.8193956,Crocin,Hyderabad,Telangana,98.63,16,7,2,Summer
+07-05-2023,76.05261501,96.05261501,Crocin,Kolkata,West Bengal,106.39,11,4,3,Summer
+08-05-2023,62.21254107,145.2125411,Crocin,Chennai,Tamil Nadu,115.25,13,4,3,Summer
+09-05-2023,58.1509851,155.1509851,Crocin,Jaipur,Rajasthan,108.23,15,5,3,Summer
+10-05-2023,64.55858976,136.5585898,Crocin,Ahmedabad,Gujarat,101.66,15,2,0,Summer
+11-05-2023,77.89854669,85.89854669,Crocin,Chennai,Tamil Nadu,107.4,16,5,3,Summer
+12-05-2023,60.98162716,107.9816272,Crocin,Kolkata,West Bengal,94.9,9,5,4,Summer
+13-05-2023,73.19558403,150.195584,Crocin,Mumbai,Maharashtra,100.59,14,6,2,Summer
+14-05-2023,73.38850407,95.38850407,Crocin,Lucknow,Uttar Pradesh,106.41,10,6,4,Summer
+15-05-2023,62.23205879,70.23205879,Crocin,Chennai,Tamil Nadu,97.38,11,5,2,Summer
+16-05-2023,67.8449154,114.8449154,Crocin,Chennai,Tamil Nadu,106.52,14,2,2,Summer
+17-05-2023,73.14198312,152.1419831,Crocin,Lucknow,Uttar Pradesh,111.85,13,3,4,Summer
+18-05-2023,63.1043613,72.1043613,Crocin,Chennai,Tamil Nadu,101.66,14,4,3,Summer
+19-05-2023,63.9820982,102.9820982,Crocin,Delhi,Delhi,100.71,11,6,3,Summer
+20-05-2023,62.09159543,103.0915954,Crocin,Mumbai,Maharashtra,91,15,6,4,Summer
+21-05-2023,59.92621635,109.9262163,Crocin,Lucknow,Uttar Pradesh,102.14,14,5,3,Summer
+22-05-2023,61.75361227,116.7536123,Crocin,Kolkata,West Bengal,93.28,14,10,3,Summer
+23-05-2023,58.88029867,117.8802987,Crocin,Kolkata,West Bengal,95.51,10,8,3,Summer
+24-05-2023,65.17041734,116.1704173,Crocin,Pune,Maharashtra,104.8,14,7,3,Summer
+25-05-2023,61.15013384,159.1501338,Crocin,Bangalore,Karnataka,103.55,11,6,4,Summer
+26-05-2023,66.16892956,93.16892956,Crocin,Chennai,Tamil Nadu,97.87,11,6,3,Summer
+27-05-2023,57.22052177,107.2205218,Crocin,Delhi,Delhi,94.36,13,6,5,Summer
+28-05-2023,66.65440116,73.65440116,Crocin,Chennai,Tamil Nadu,96.7,13,1,1,Summer
+29-05-2023,69.16764481,164.1676448,Crocin,Chennai,Tamil Nadu,95.01,10,3,5,Summer
+30-05-2023,55.03132179,89.03132179,Crocin,Jaipur,Rajasthan,92.03,16,4,4,Summer
+31-05-2023,66.87028285,82.87028285,Crocin,Ahmedabad,Gujarat,91.73,15,5,4,Summer
+01-06-2023,56.13834496,101.138345,Crocin,Mumbai,Maharashtra,104.82,13,4,3,Summer
+02-06-2023,43.95179491,72.95179491,Crocin,Jaipur,Rajasthan,98.37,12,5,2,Summer
+03-06-2023,58.36286193,136.3628619,Crocin,Kolkata,West Bengal,104.8,12,0,5,Summer
+04-06-2023,52.09509505,65.09509505,Crocin,Ahmedabad,Gujarat,94.63,8,6,5,Summer
+05-06-2023,46.47494072,108.4749407,Crocin,Pune,Maharashtra,91.02,11,5,5,Summer
+06-06-2023,49.72115461,95.72115461,Crocin,Pune,Maharashtra,98.27,11,4,4,Summer
+07-06-2023,52.79163456,63.79163456,Crocin,Delhi,Delhi,99.52,10,6,5,Summer
+08-06-2023,50.38002696,149.380027,Crocin,Jaipur,Rajasthan,97.26,10,3,4,Summer
+09-06-2023,52.69377996,96.69377996,Crocin,Lucknow,Uttar Pradesh,97.35,6,4,4,Summer
+10-06-2023,45.39663203,113.396632,Crocin,Mumbai,Maharashtra,104.35,9,5,5,Summer
+11-06-2023,50.84680412,132.8468041,Crocin,Jaipur,Rajasthan,99.93,12,3,5,Summer
+12-06-2023,42.93142752,132.9314275,Crocin,Mumbai,Maharashtra,104.45,14,1,6,Summer
+13-06-2023,49.44386969,109.4438697,Crocin,Mumbai,Maharashtra,103.34,9,2,4,Summer
+14-06-2023,45.48046179,134.4804618,Crocin,Jaipur,Rajasthan,103.72,11,4,3,Summer
+15-06-2023,46.32235029,101.3223503,Crocin,Mumbai,Maharashtra,90.03,13,4,4,Summer
+16-06-2023,56.18046588,122.1804659,Crocin,Hyderabad,Telangana,102.17,9,4,6,Summer
+17-06-2023,55.4565506,56.4565506,Crocin,Ahmedabad,Gujarat,96.64,11,3,5,Summer
+18-06-2023,53.0456906,137.0456906,Crocin,Lucknow,Uttar Pradesh,89.28,10,2,4,Summer
+19-06-2023,44.53843618,111.5384362,Crocin,Delhi,Delhi,101.68,12,5,5,Summer
+20-06-2023,48.41795775,68.41795775,Crocin,Mumbai,Maharashtra,94.13,7,4,5,Summer
+21-06-2023,56.0654885,111.0654885,Crocin,Chennai,Tamil Nadu,93.12,8,6,6,Summer
+22-06-2023,50.70858457,92.70858457,Crocin,Chennai,Tamil Nadu,94.13,10,3,6,Summer
+23-06-2023,61.5966477,86.5966477,Crocin,Bangalore,Karnataka,96.42,10,0,8,Summer
+24-06-2023,51.9665892,132.9665892,Crocin,Bangalore,Karnataka,92.93,9,0,4,Summer
+25-06-2023,50.96024558,126.9602456,Crocin,Mumbai,Maharashtra,94.69,11,4,4,Summer
+26-06-2023,48.45441768,71.45441768,Crocin,Lucknow,Uttar Pradesh,103.25,8,5,6,Summer
+27-06-2023,50.66770452,74.66770452,Crocin,Delhi,Delhi,92.07,7,4,7,Summer
+28-06-2023,49.23765082,68.23765082,Crocin,Bangalore,Karnataka,102.9,8,3,5,Summer
+29-06-2023,53.54054338,136.5405434,Crocin,Mumbai,Maharashtra,100.44,8,1,5,Summer
+30-06-2023,54.78351158,142.7835116,Crocin,Jaipur,Rajasthan,98.58,8,1,6,Summer
+01-07-2023,31.0700527,95.0700527,Crocin,Delhi,Delhi,96.54,11,5,8,Monsoon
+02-07-2023,28.34383523,29.34383523,Crocin,Hyderabad,Telangana,91.67,10,4,5,Monsoon
+03-07-2023,25.81897313,78.81897313,Crocin,Bangalore,Karnataka,96.83,10,4,6,Monsoon
+04-07-2023,37.53995663,137.5399566,Crocin,Bangalore,Karnataka,97.83,9,1,4,Monsoon
+05-07-2023,29.48316697,63.48316697,Crocin,Kolkata,West Bengal,83.28,8,3,6,Monsoon
+06-07-2023,24.23554704,70.23554704,Crocin,Chennai,Tamil Nadu,90.88,7,5,6,Monsoon
+07-07-2023,36.94289302,128.942893,Crocin,Hyderabad,Telangana,98.32,6,5,8,Monsoon
+08-07-2023,47.46499759,139.4649976,Crocin,Ahmedabad,Gujarat,96.95,7,4,6,Monsoon
+09-07-2023,34.96964544,104.9696454,Crocin,Mumbai,Maharashtra,93.83,8,7,7,Monsoon
+10-07-2023,39.19245387,124.1924539,Crocin,Jaipur,Rajasthan,91.74,6,3,6,Monsoon
+11-07-2023,35.40914679,73.40914679,Crocin,Bangalore,Karnataka,86.31,8,7,6,Monsoon
+12-07-2023,34.50555173,132.5055517,Crocin,Kolkata,West Bengal,84.85,8,5,8,Monsoon
+13-07-2023,39.59538241,101.5953824,Crocin,Ahmedabad,Gujarat,86.91,7,5,8,Monsoon
+14-07-2023,33.54862728,86.54862728,Crocin,Ahmedabad,Gujarat,95.35,10,7,8,Monsoon
+15-07-2023,36.33696157,58.33696157,Crocin,Jaipur,Rajasthan,80.55,3,3,7,Monsoon
+16-07-2023,36.60848903,65.60848903,Crocin,Kolkata,West Bengal,89.67,7,4,6,Monsoon
+17-07-2023,31.65954773,88.65954773,Crocin,Mumbai,Maharashtra,86.97,3,2,7,Monsoon
+18-07-2023,39.96021175,76.96021175,Crocin,Chennai,Tamil Nadu,92.59,8,7,7,Monsoon
+19-07-2023,34.12520122,93.12520122,Crocin,Bangalore,Karnataka,82.12,9,5,7,Monsoon
+20-07-2023,31.2212742,88.2212742,Crocin,Mumbai,Maharashtra,92.22,5,7,6,Monsoon
+21-07-2023,37.68254922,75.68254922,Crocin,Hyderabad,Telangana,86.23,5,5,6,Monsoon
+22-07-2023,30.50766009,41.50766009,Crocin,Jaipur,Rajasthan,95.26,4,7,6,Monsoon
+23-07-2023,35.14090579,89.14090579,Crocin,Mumbai,Maharashtra,88.29,7,3,8,Monsoon
+24-07-2023,34.95440502,122.954405,Crocin,Kolkata,West Bengal,90.72,6,7,8,Monsoon
+25-07-2023,40.42947783,111.4294778,Crocin,Lucknow,Uttar Pradesh,93.22,6,4,10,Monsoon
+26-07-2023,37.37349116,44.37349116,Crocin,Delhi,Delhi,93.02,6,5,7,Monsoon
+27-07-2023,34.87486521,107.8748652,Crocin,Delhi,Delhi,90.99,5,6,6,Monsoon
+28-07-2023,39.0888315,49.0888315,Crocin,Kolkata,West Bengal,90.26,9,10,6,Monsoon
+29-07-2023,41.95103775,134.9510377,Crocin,Hyderabad,Telangana,95.12,7,7,6,Monsoon
+30-07-2023,37.78905153,68.78905153,Crocin,Delhi,Delhi,93.93,4,7,8,Monsoon
+31-07-2023,35.0517631,127.0517631,Crocin,Chennai,Tamil Nadu,86.57,5,4,7,Monsoon
+01-08-2023,17.46005672,49.46005672,Crocin,Bangalore,Karnataka,89.73,5,5,5,Monsoon
+02-08-2023,18.69366957,97.69366957,Crocin,Bangalore,Karnataka,93.96,9,5,6,Monsoon
+03-08-2023,22.49311436,41.49311436,Crocin,Mumbai,Maharashtra,92.93,8,8,5,Monsoon
+04-08-2023,20.97167688,29.97167688,Crocin,Hyderabad,Telangana,93.26,6,5,7,Monsoon
+05-08-2023,23.08438137,28.08438137,Crocin,Pune,Maharashtra,90.26,10,8,6,Monsoon
+06-08-2023,24.30248751,90.30248751,Crocin,Chennai,Tamil Nadu,85.12,9,3,6,Monsoon
+07-08-2023,26.66770166,52.66770166,Crocin,Kolkata,West Bengal,86.55,6,8,4,Monsoon
+08-08-2023,23.666744,43.666744,Crocin,Chennai,Tamil Nadu,90.8,5,4,7,Monsoon
+09-08-2023,26.45174611,40.45174611,Crocin,Lucknow,Uttar Pradesh,94.91,5,7,7,Monsoon
+10-08-2023,24.34160996,75.34160996,Crocin,Bangalore,Karnataka,103.33,4,4,5,Monsoon
+11-08-2023,14.14190505,101.1419051,Crocin,Delhi,Delhi,90.11,9,7,6,Monsoon
+12-08-2023,19.32256092,89.32256092,Crocin,Lucknow,Uttar Pradesh,81.35,4,4,6,Monsoon
+13-08-2023,23.29880011,93.29880011,Crocin,Bangalore,Karnataka,84.76,7,8,6,Monsoon
+14-08-2023,17.97076417,56.97076417,Crocin,Ahmedabad,Gujarat,97.79,7,7,5,Monsoon
+15-08-2023,27.01888154,54.01888154,Crocin,Ahmedabad,Gujarat,88.93,5,4,5,Monsoon
+16-08-2023,31.67299205,56.67299205,Crocin,Bangalore,Karnataka,92.04,9,7,7,Monsoon
+17-08-2023,30.11304714,74.11304714,Crocin,Mumbai,Maharashtra,86.2,2,8,3,Monsoon
+18-08-2023,22.95202353,58.95202353,Crocin,Kolkata,West Bengal,95.83,5,4,6,Monsoon
+19-08-2023,31.47286857,121.4728686,Crocin,Bangalore,Karnataka,93.9,4,4,6,Monsoon
+20-08-2023,24.76257517,60.76257517,Crocin,Mumbai,Maharashtra,84.73,7,4,7,Monsoon
+21-08-2023,22.33380803,23.33380803,Crocin,Bangalore,Karnataka,82.63,6,3,5,Monsoon
+22-08-2023,20.95222457,61.95222457,Crocin,Lucknow,Uttar Pradesh,88.54,2,4,5,Monsoon
+23-08-2023,22.50688945,38.50688945,Crocin,Delhi,Delhi,87.62,8,8,5,Monsoon
+24-08-2023,22.07835379,95.07835379,Crocin,Delhi,Delhi,91.36,6,7,6,Monsoon
+25-08-2023,24.871319,34.871319,Crocin,Chennai,Tamil Nadu,91.13,3,3,5,Monsoon
+26-08-2023,24.82210779,115.8221078,Crocin,Jaipur,Rajasthan,86.88,4,5,4,Monsoon
+27-08-2023,24.03446799,45.03446799,Crocin,Mumbai,Maharashtra,85.08,2,4,4,Monsoon
+28-08-2023,26.20392874,115.2039287,Crocin,Jaipur,Rajasthan,87.8,5,8,4,Monsoon
+29-08-2023,29.97246926,102.9724693,Crocin,Ahmedabad,Gujarat,87.45,5,5,4,Monsoon
+30-08-2023,28.76700856,37.76700856,Crocin,Pune,Maharashtra,88.95,4,3,5,Monsoon
+31-08-2023,16.59474804,92.59474804,Crocin,Hyderabad,Telangana,84.68,4,7,5,Monsoon
+01-09-2023,7.230394325,23.23039433,Crocin,Ahmedabad,Gujarat,77.91,2,8,5,Winter
+02-09-2023,24.67159956,41.67159956,Crocin,Chennai,Tamil Nadu,92.55,6,4,5,Winter
+03-09-2023,13.16560651,100.1656065,Crocin,Jaipur,Rajasthan,82.95,1,6,3,Winter
+04-09-2023,18.87617299,72.87617299,Crocin,Delhi,Delhi,82.79,5,5,2,Winter
+05-09-2023,14.14943487,48.14943487,Crocin,Delhi,Delhi,83.24,1,9,3,Winter
+06-09-2023,10.99009781,50.99009781,Crocin,Jaipur,Rajasthan,85.01,5,6,5,Winter
+07-09-2023,22.70731364,69.70731364,Crocin,Hyderabad,Telangana,88.82,5,5,5,Winter
+08-09-2023,23.7957758,28.7957758,Crocin,Ahmedabad,Gujarat,90.91,5,7,5,Winter
+09-09-2023,17.117448,98.117448,Crocin,Bangalore,Karnataka,90.69,6,6,5,Winter
+10-09-2023,7.044788539,32.04478854,Crocin,Mumbai,Maharashtra,88.52,7,8,5,Winter
+11-09-2023,17.26877776,46.26877776,Crocin,Bangalore,Karnataka,87.63,1,9,4,Winter
+12-09-2023,21.95902003,116.95902,Crocin,Delhi,Delhi,82.65,4,9,6,Winter
+13-09-2023,12.60544216,109.6054422,Crocin,Bangalore,Karnataka,82.85,9,6,4,Winter
+14-09-2023,20.9167996,117.9167996,Crocin,Mumbai,Maharashtra,82.58,5,8,6,Winter
+15-09-2023,19.92345075,92.92345075,Crocin,Bangalore,Karnataka,95.68,3,10,3,Winter
+16-09-2023,22.8964575,84.8964575,Crocin,Jaipur,Rajasthan,98.34,4,10,3,Winter
+17-09-2023,20.59790184,78.59790184,Crocin,Kolkata,West Bengal,90.65,4,5,3,Winter
+18-09-2023,15.1346553,53.1346553,Crocin,Jaipur,Rajasthan,89.49,2,8,4,Winter
+19-09-2023,25.98285751,37.98285751,Crocin,Pune,Maharashtra,90.85,6,8,3,Winter
+20-09-2023,19.20735213,43.20735213,Crocin,Hyderabad,Telangana,88.83,6,9,4,Winter
+21-09-2023,19.8634773,23.8634773,Crocin,Mumbai,Maharashtra,79.21,2,10,3,Winter
+22-09-2023,15.3336602,17.3336602,Crocin,Delhi,Delhi,85.03,4,5,3,Winter
+23-09-2023,17.78358874,104.7835887,Crocin,Jaipur,Rajasthan,81.99,3,6,3,Winter
+24-09-2023,15.57598643,68.57598643,Crocin,Kolkata,West Bengal,87.01,1,9,4,Winter
+25-09-2023,19.1352697,111.1352697,Crocin,Lucknow,Uttar Pradesh,86.7,2,8,4,Winter
+26-09-2023,28.5585424,89.5585424,Crocin,Chennai,Tamil Nadu,100.53,2,3,1,Winter
+27-09-2023,13.14049429,54.14049429,Crocin,Bangalore,Karnataka,89.18,4,4,5,Winter
+28-09-2023,11.93219301,54.93219301,Crocin,Lucknow,Uttar Pradesh,85.62,4,9,3,Winter
+29-09-2023,27.35585164,106.3558516,Crocin,Mumbai,Maharashtra,89.07,3,9,4,Winter
+30-09-2023,18.95338161,78.95338161,Crocin,Jaipur,Rajasthan,95.38,4,5,4,Winter
+01-10-2023,20.67387419,30.67387419,Crocin,Delhi,Delhi,86.05,6,10,4,Winter
+02-10-2023,29.21876132,107.2187613,Crocin,Bangalore,Karnataka,91.26,5,8,2,Winter
+03-10-2023,20.99116019,110.9911602,Crocin,Pune,Maharashtra,86.61,7,6,2,Winter
+04-10-2023,33.14928645,87.14928645,Crocin,Kolkata,West Bengal,89.18,4,7,5,Winter
+05-10-2023,27.40886724,127.4088672,Crocin,Bangalore,Karnataka,89.18,8,6,2,Winter
+06-10-2023,21.57968085,100.5796808,Crocin,Kolkata,West Bengal,76.99,5,7,3,Winter
+07-10-2023,34.80577895,78.80577895,Crocin,Pune,Maharashtra,84.46,4,4,4,Winter
+08-10-2023,20.99066327,55.99066327,Crocin,Lucknow,Uttar Pradesh,88.35,5,8,2,Winter
+09-10-2023,27.72971475,88.72971475,Crocin,Hyderabad,Telangana,97.24,2,9,2,Winter
+10-10-2023,25.51570079,93.51570079,Crocin,Mumbai,Maharashtra,90.34,4,6,4,Winter
+11-10-2023,30.52794433,46.52794433,Crocin,Hyderabad,Telangana,87,6,8,3,Winter
+12-10-2023,31.82679387,106.8267939,Crocin,Pune,Maharashtra,83.99,6,7,3,Winter
+13-10-2023,24.17925863,58.17925863,Crocin,Pune,Maharashtra,92.12,4,10,2,Winter
+14-10-2023,20.25214853,77.25214853,Crocin,Ahmedabad,Gujarat,83.96,10,4,2,Winter
+15-10-2023,26.3190986,64.3190986,Crocin,Ahmedabad,Gujarat,92.42,4,10,2,Winter
+16-10-2023,20.63066104,117.630661,Crocin,Pune,Maharashtra,88.95,2,5,4,Winter
+17-10-2023,34.08617412,74.08617412,Crocin,Lucknow,Uttar Pradesh,94.99,7,8,2,Winter
+18-10-2023,24.70191454,89.70191454,Crocin,Kolkata,West Bengal,88.97,6,7,3,Winter
+19-10-2023,22.19263013,50.19263013,Crocin,Jaipur,Rajasthan,89.92,5,8,2,Winter
+20-10-2023,24.94263942,109.9426394,Crocin,Bangalore,Karnataka,88.6,4,6,5,Winter
+21-10-2023,17.28360644,105.2836064,Crocin,Bangalore,Karnataka,83.02,6,12,3,Winter
+22-10-2023,19.16116769,23.16116769,Crocin,Bangalore,Karnataka,82.18,8,6,3,Winter
+23-10-2023,30.02130743,49.02130743,Crocin,Pune,Maharashtra,79.67,6,7,3,Winter
+24-10-2023,20.73476649,76.73476649,Crocin,Mumbai,Maharashtra,86.89,2,13,2,Winter
+25-10-2023,18.78468297,31.78468297,Crocin,Kolkata,West Bengal,94.8,0,10,4,Winter
+26-10-2023,26.70250165,125.7025016,Crocin,Chennai,Tamil Nadu,94.05,6,7,1,Winter
+27-10-2023,29.94775866,77.94775866,Crocin,Chennai,Tamil Nadu,93.14,3,9,2,Winter
+28-10-2023,27.61400444,46.61400444,Crocin,Mumbai,Maharashtra,87.33,5,9,2,Winter
+29-10-2023,28.99947632,98.99947632,Crocin,Lucknow,Uttar Pradesh,96.79,4,6,1,Winter
+30-10-2023,20.23526244,56.23526244,Crocin,Kolkata,West Bengal,87.8,4,8,2,Winter
+31-10-2023,16.91018455,17.91018455,Crocin,Mumbai,Maharashtra,95.07,4,9,3,Winter
+01-11-2023,42.50666826,111.5066683,Crocin,Kolkata,West Bengal,88.29,4,12,2,Winter
+02-11-2023,33.38660081,119.3866008,Crocin,Ahmedabad,Gujarat,85.85,7,9,1,Winter
+03-11-2023,33.74583492,92.74583492,Crocin,Mumbai,Maharashtra,85.56,7,9,3,Winter
+04-11-2023,41.64097071,56.64097071,Crocin,Jaipur,Rajasthan,85.79,3,8,3,Winter
+05-11-2023,37.78115005,80.78115005,Crocin,Bangalore,Karnataka,87.11,4,12,3,Winter
+06-11-2023,37.27943886,95.27943886,Crocin,Mumbai,Maharashtra,92.12,7,11,2,Winter
+07-11-2023,45.82501172,96.82501172,Crocin,Kolkata,West Bengal,91.64,8,11,2,Winter
+08-11-2023,31.78240885,85.78240885,Crocin,Delhi,Delhi,70.52,8,10,2,Winter
+09-11-2023,39.63920064,82.63920064,Crocin,Hyderabad,Telangana,98.37,4,6,3,Winter
+10-11-2023,35.28506562,133.2850656,Crocin,Lucknow,Uttar Pradesh,82.98,8,12,2,Winter
+11-11-2023,36.34296139,125.3429614,Crocin,Pune,Maharashtra,94.95,3,10,3,Winter
+12-11-2023,42.64234213,116.6423421,Crocin,Chennai,Tamil Nadu,94.96,6,9,2,Winter
+13-11-2023,37.53917878,75.53917878,Crocin,Kolkata,West Bengal,103.39,7,11,2,Winter
+14-11-2023,37.6914804,47.6914804,Crocin,Kolkata,West Bengal,97.98,2,10,4,Winter
+15-11-2023,40.36253669,107.3625367,Crocin,Mumbai,Maharashtra,91.68,11,8,4,Winter
+16-11-2023,33.17523635,79.17523635,Crocin,Chennai,Tamil Nadu,88.09,9,9,3,Winter
+17-11-2023,30.80395166,78.80395166,Crocin,Mumbai,Maharashtra,98.31,8,6,3,Winter
+18-11-2023,29.77595403,50.77595403,Crocin,Lucknow,Uttar Pradesh,83.02,5,10,3,Winter
+19-11-2023,25.16821705,35.16821705,Crocin,Pune,Maharashtra,89.75,7,13,5,Winter
+20-11-2023,45.28103565,48.28103565,Crocin,Pune,Maharashtra,96.34,8,6,3,Winter
+21-11-2023,29.48395817,75.48395817,Crocin,Delhi,Delhi,89.08,5,10,3,Winter
+22-11-2023,33.89373188,108.8937319,Crocin,Jaipur,Rajasthan,94.57,7,11,5,Winter
+23-11-2023,33.6159335,111.6159335,Crocin,Delhi,Delhi,93.75,9,12,3,Winter
+24-11-2023,36.53703349,126.5370335,Crocin,Chennai,Tamil Nadu,96.49,4,9,4,Winter
+25-11-2023,39.07868606,113.0786861,Crocin,Hyderabad,Telangana,96.09,8,8,3,Winter
+26-11-2023,39.30236744,129.3023674,Crocin,Bangalore,Karnataka,97.69,4,9,5,Winter
+27-11-2023,32.08461281,38.08461281,Crocin,Kolkata,West Bengal,93.47,5,13,5,Winter
+28-11-2023,34.16439143,101.1643914,Crocin,Ahmedabad,Gujarat,90.7,6,7,3,Winter
+29-11-2023,36.41289975,37.41289975,Crocin,Ahmedabad,Gujarat,95.02,8,8,3,Winter
+30-11-2023,33.75654437,95.75654437,Crocin,Mumbai,Maharashtra,90.63,6,9,5,Winter
+01-12-2023,58.03672788,157.0367279,Crocin,Bangalore,Karnataka,94.1,8,8,6,Winter
+02-12-2023,52.45487476,135.4548748,Crocin,Jaipur,Rajasthan,94.32,6,10,5,Winter
+03-12-2023,53.67438893,69.67438893,Crocin,Jaipur,Rajasthan,96,7,13,4,Winter
+04-12-2023,53.31440634,104.3144063,Crocin,Jaipur,Rajasthan,96.78,10,8,4,Winter
+05-12-2023,55.86736929,113.8673693,Crocin,Jaipur,Rajasthan,102.38,6,10,3,Winter
+06-12-2023,50.90510779,72.90510779,Crocin,Pune,Maharashtra,93.51,9,10,5,Winter
+07-12-2023,43.51584026,123.5158403,Crocin,Pune,Maharashtra,94.18,8,10,6,Winter
+08-12-2023,51.99843976,77.99843976,Crocin,Kolkata,West Bengal,97.39,7,7,4,Winter
+09-12-2023,46.74321553,55.74321553,Crocin,Jaipur,Rajasthan,91.96,6,9,5,Winter
+10-12-2023,47.35691659,57.35691659,Crocin,Hyderabad,Telangana,95.77,6,9,5,Winter
+11-12-2023,52.93182009,115.9318201,Crocin,Lucknow,Uttar Pradesh,102.81,7,12,7,Winter
+12-12-2023,56.19141536,79.19141536,Crocin,Ahmedabad,Gujarat,100.13,8,11,5,Winter
+13-12-2023,50.10635788,66.10635788,Crocin,Bangalore,Karnataka,98.13,10,7,4,Winter
+14-12-2023,51.54416506,95.54416506,Crocin,Kolkata,West Bengal,94.27,8,10,4,Winter
+15-12-2023,58.51107472,112.5110747,Crocin,Bangalore,Karnataka,110.64,8,9,4,Winter
+16-12-2023,51.2037659,147.2037659,Crocin,Chennai,Tamil Nadu,94.76,9,14,7,Winter
+17-12-2023,63.00841557,151.0084156,Crocin,Bangalore,Karnataka,94.66,10,11,6,Winter
+18-12-2023,52.82754823,117.8275482,Crocin,Kolkata,West Bengal,103.3,10,8,5,Winter
+19-12-2023,41.1961862,83.1961862,Crocin,Pune,Maharashtra,94.03,6,9,3,Winter
+20-12-2023,53.76670811,112.7667081,Crocin,Hyderabad,Telangana,98.28,9,10,5,Winter
+21-12-2023,51.90579192,88.90579192,Crocin,Mumbai,Maharashtra,96.47,12,11,6,Winter
+22-12-2023,56.44876377,97.44876377,Crocin,Hyderabad,Telangana,110.56,7,11,6,Winter
+23-12-2023,53.36590676,91.36590676,Crocin,Hyderabad,Telangana,101.97,10,11,6,Winter
+24-12-2023,49.30772008,102.3077201,Crocin,Ahmedabad,Gujarat,101.55,9,10,4,Winter
+25-12-2023,43.87850882,108.8785088,Crocin,Kolkata,West Bengal,97.61,8,10,6,Winter
+26-12-2023,48.95488371,123.9548837,Crocin,Pune,Maharashtra,100.35,13,10,5,Winter
+27-12-2023,45.74739773,73.74739773,Crocin,Mumbai,Maharashtra,104.99,10,7,6,Winter
+28-12-2023,47.09738275,125.0973828,Crocin,Delhi,Delhi,97.55,13,10,5,Winter
+29-12-2023,52.94289202,140.942892,Crocin,Ahmedabad,Gujarat,93.92,10,9,7,Winter
+30-12-2023,58.34952252,61.34952252,Crocin,Delhi,Delhi,107.94,11,7,6,Winter
+31-12-2023,51.97335765,97.97335765,Crocin,Kolkata,West Bengal,103.68,9,15,6,Winter
+01-01-2024,59.02058469,147.0205847,Crocin,Ahmedabad,Gujarat,98.74,9,11,8,Winter
+02-01-2024,67.22301334,144.2230133,Crocin,Hyderabad,Telangana,104.15,11,10,6,Winter
+03-01-2024,70.98315743,150.9831574,Crocin,Lucknow,Uttar Pradesh,101.55,11,10,5,Winter
+04-01-2024,61.95108548,155.9510855,Crocin,Ahmedabad,Gujarat,100.1,12,12,7,Winter
+05-01-2024,64.32991417,124.3299142,Crocin,Mumbai,Maharashtra,100.54,11,8,7,Winter
+06-01-2024,65.07344097,134.073441,Crocin,Lucknow,Uttar Pradesh,98.64,8,10,6,Winter
+07-01-2024,61.07550843,89.07550843,Crocin,Lucknow,Uttar Pradesh,106.15,9,9,6,Winter
+08-01-2024,68.24140217,79.24140217,Crocin,Kolkata,West Bengal,96.14,12,12,7,Winter
+09-01-2024,64.39525926,139.3952593,Crocin,Jaipur,Rajasthan,113.6,7,9,7,Winter
+10-01-2024,67.09766222,96.09766222,Crocin,Kolkata,West Bengal,107.59,12,13,6,Winter
+11-01-2024,60.56253911,88.56253911,Crocin,Mumbai,Maharashtra,91.91,11,10,7,Winter
+12-01-2024,62.8127085,117.8127085,Crocin,Kolkata,West Bengal,100.68,13,12,7,Winter
+13-01-2024,68.61190679,136.6119068,Crocin,Pune,Maharashtra,103.56,12,11,6,Winter
+14-01-2024,63.13583424,69.13583424,Crocin,Hyderabad,Telangana,104.36,10,12,6,Winter
+15-01-2024,73.63481926,173.6348193,Crocin,Lucknow,Uttar Pradesh,101.65,10,8,6,Winter
+16-01-2024,63.00181907,142.0018191,Crocin,Ahmedabad,Gujarat,102.76,10,12,8,Winter
+17-01-2024,66.12342363,134.1234236,Crocin,Delhi,Delhi,103.39,13,7,6,Winter
+18-01-2024,69.66295416,141.6629542,Crocin,Mumbai,Maharashtra,101.91,7,10,8,Winter
+19-01-2024,57.90817134,130.9081713,Crocin,Pune,Maharashtra,96.82,12,9,7,Winter
+20-01-2024,56.19595594,62.19595594,Crocin,Delhi,Delhi,105.19,10,7,5,Winter
+21-01-2024,57.37171843,72.37171843,Crocin,Hyderabad,Telangana,92.72,12,8,4,Winter
+22-01-2024,71.31292052,148.3129205,Crocin,Kolkata,West Bengal,109.39,13,9,6,Winter
+23-01-2024,62.24070927,63.24070927,Crocin,Kolkata,West Bengal,107.59,9,10,8,Winter
+24-01-2024,77.79099643,95.79099643,Crocin,Jaipur,Rajasthan,108.91,12,9,8,Winter
+25-01-2024,62.17876201,86.17876201,Crocin,Ahmedabad,Gujarat,104.06,12,10,7,Winter
+26-01-2024,65.92275652,154.9227565,Crocin,Pune,Maharashtra,111.42,12,8,6,Winter
+27-01-2024,72.71054976,168.7105498,Crocin,Pune,Maharashtra,104.88,12,9,6,Winter
+28-01-2024,75.03046444,165.0304644,Crocin,Mumbai,Maharashtra,106.39,10,9,7,Winter
+29-01-2024,75.30751788,79.30751788,Crocin,Lucknow,Uttar Pradesh,107.32,10,10,7,Winter
+30-01-2024,71.04183115,96.04183115,Crocin,Ahmedabad,Gujarat,114.03,10,12,7,Winter
+31-01-2024,70.12031263,147.1203126,Crocin,Bangalore,Karnataka,114.46,14,12,7,Winter
+01-02-2024,78.94339686,140.9433969,Crocin,Pune,Maharashtra,100.22,12,10,7,Winter
+02-02-2024,79.87256749,103.8725675,Crocin,Jaipur,Rajasthan,112.83,13,11,7,Winter
+03-02-2024,73.22483353,113.2248335,Crocin,Hyderabad,Telangana,109.49,9,10,4,Winter
+04-02-2024,71.8897677,135.8897677,Crocin,Mumbai,Maharashtra,112.77,13,9,5,Winter
+05-02-2024,75.96388983,142.9638898,Crocin,Pune,Maharashtra,108.53,14,12,5,Winter
+06-02-2024,75.129839,125.129839,Crocin,Pune,Maharashtra,106.38,9,8,5,Winter
+07-02-2024,73.71462187,173.7146219,Crocin,Chennai,Tamil Nadu,111.73,12,6,6,Winter
+08-02-2024,79.46269935,128.4626994,Crocin,Hyderabad,Telangana,112.09,10,8,5,Winter
+09-02-2024,80.75728816,132.7572882,Crocin,Chennai,Tamil Nadu,120.42,12,12,5,Winter
+10-02-2024,76.42279654,163.4227965,Crocin,Kolkata,West Bengal,112.39,11,9,6,Winter
+11-02-2024,83.36841252,175.3684125,Crocin,Lucknow,Uttar Pradesh,111.37,14,10,4,Winter
+12-02-2024,70.27231654,163.2723165,Crocin,Pune,Maharashtra,99.53,14,9,5,Winter
+13-02-2024,75.01246482,88.01246482,Crocin,Kolkata,West Bengal,104.5,16,11,6,Winter
+14-02-2024,72.39665051,119.3966505,Crocin,Mumbai,Maharashtra,99.42,13,10,4,Winter
+15-02-2024,66.64807903,131.648079,Crocin,Mumbai,Maharashtra,103.32,14,9,6,Winter
+16-02-2024,75.56735868,131.5673587,Crocin,Jaipur,Rajasthan,112.63,12,11,5,Winter
+17-02-2024,75.37202457,164.3720246,Crocin,Bangalore,Karnataka,107.98,11,8,6,Winter
+18-02-2024,83.54801083,133.5480108,Crocin,Ahmedabad,Gujarat,116.51,15,10,4,Winter
+19-02-2024,79.13482054,104.1348205,Crocin,Chennai,Tamil Nadu,111.49,16,9,6,Winter
+20-02-2024,70.85982799,131.859828,Crocin,Lucknow,Uttar Pradesh,104.58,15,9,5,Winter
+21-02-2024,85.25122495,90.25122495,Crocin,Lucknow,Uttar Pradesh,112.84,14,7,6,Winter
+22-02-2024,82.08593059,153.0859306,Crocin,Lucknow,Uttar Pradesh,113.76,12,9,5,Winter
+23-02-2024,78.89125063,124.8912506,Crocin,Jaipur,Rajasthan,110.9,16,8,6,Winter
+24-02-2024,74.84834162,170.8483416,Crocin,Hyderabad,Telangana,109.35,15,11,6,Winter
+25-02-2024,71.18356593,103.1835659,Crocin,Mumbai,Maharashtra,103.35,18,6,5,Winter
+26-02-2024,74.11972823,171.1197282,Crocin,Pune,Maharashtra,106.44,12,11,4,Winter
+27-02-2024,81.42450521,132.4245052,Crocin,Chennai,Tamil Nadu,122.89,16,5,5,Winter
+28-02-2024,85.40369364,119.4036936,Crocin,Ahmedabad,Gujarat,119.34,15,10,4,Winter
+29-02-2024,83.69697975,178.6969798,Crocin,Ahmedabad,Gujarat,105.23,13,7,5,Winter
+01-03-2024,77.55575289,78.55575289,Crocin,Pune,Maharashtra,96.77,17,10,5,Summer
+02-03-2024,74.40191283,106.4019128,Crocin,Bangalore,Karnataka,107.98,15,8,6,Summer
+03-03-2024,80.70443123,105.7044312,Crocin,Delhi,Delhi,114.67,12,6,6,Summer
+04-03-2024,71.15780317,82.15780317,Crocin,Pune,Maharashtra,103.8,14,11,3,Summer
+05-03-2024,81.61583857,169.6158386,Crocin,Bangalore,Karnataka,115.71,12,10,5,Summer
+06-03-2024,79.26198707,171.2619871,Crocin,Mumbai,Maharashtra,110.1,13,9,4,Summer
+07-03-2024,77.66981749,80.66981749,Crocin,Hyderabad,Telangana,108.38,16,7,5,Summer
+08-03-2024,72.02648466,75.02648466,Crocin,Mumbai,Maharashtra,110.78,16,10,3,Summer
+09-03-2024,82.56800053,179.5680005,Crocin,Mumbai,Maharashtra,108.74,15,6,5,Summer
+10-03-2024,77.3364958,172.3364958,Crocin,Pune,Maharashtra,107.77,13,4,3,Summer
+11-03-2024,74.15041582,165.1504158,Crocin,Pune,Maharashtra,111.35,15,5,4,Summer
+12-03-2024,65.63868893,92.63868893,Crocin,Hyderabad,Telangana,104.64,16,6,3,Summer
+13-03-2024,79.86242547,130.8624255,Crocin,Kolkata,West Bengal,119.94,10,7,2,Summer
+14-03-2024,88.86125798,175.861258,Crocin,Bangalore,Karnataka,117.67,15,7,3,Summer
+15-03-2024,88.30629607,147.3062961,Crocin,Chennai,Tamil Nadu,117.14,14,7,3,Summer
+16-03-2024,77.71451872,99.71451872,Crocin,Jaipur,Rajasthan,109.55,16,7,5,Summer
+17-03-2024,76.9889397,100.9889397,Crocin,Mumbai,Maharashtra,113.77,15,4,2,Summer
+18-03-2024,82.34387128,109.3438713,Crocin,Pune,Maharashtra,109.99,15,8,3,Summer
+19-03-2024,75.0080728,162.0080728,Crocin,Delhi,Delhi,110.21,14,7,2,Summer
+20-03-2024,81.5089595,88.5089595,Crocin,Lucknow,Uttar Pradesh,106.82,14,6,5,Summer
+21-03-2024,83.83040139,103.8304014,Crocin,Pune,Maharashtra,117.6,16,10,3,Summer
+22-03-2024,86.13466612,109.1346661,Crocin,Bangalore,Karnataka,114.85,14,7,3,Summer
+23-03-2024,79.49922962,97.49922962,Crocin,Kolkata,West Bengal,120.51,15,8,3,Summer
+24-03-2024,78.98163125,166.9816312,Crocin,Lucknow,Uttar Pradesh,122.56,11,9,1,Summer
+25-03-2024,75.61008707,147.6100871,Crocin,Jaipur,Rajasthan,113.02,14,4,2,Summer
+26-03-2024,75.86559823,100.8655982,Crocin,Jaipur,Rajasthan,109.74,10,7,2,Summer
+27-03-2024,78.86760554,124.8676055,Crocin,Lucknow,Uttar Pradesh,105.87,13,9,4,Summer
+28-03-2024,81.83682753,137.8368275,Crocin,Chennai,Tamil Nadu,116.32,15,7,0,Summer
+29-03-2024,84.56792313,137.5679231,Crocin,Jaipur,Rajasthan,113.85,16,5,3,Summer
+30-03-2024,75.98410525,137.9841052,Crocin,Kolkata,West Bengal,112.09,12,6,3,Summer
+31-03-2024,87.46344284,91.46344284,Crocin,Hyderabad,Telangana,122.65,15,8,1,Summer
+01-04-2024,74.62514411,79.62514411,Crocin,Lucknow,Uttar Pradesh,106.28,17,3,2,Summer
+02-04-2024,75.87392564,102.8739256,Crocin,Pune,Maharashtra,106.38,13,4,4,Summer
+03-04-2024,72.24470372,140.2447037,Crocin,Ahmedabad,Gujarat,108.22,11,11,2,Summer
+04-04-2024,63.85956081,128.8595608,Crocin,Pune,Maharashtra,110.31,15,8,2,Summer
+05-04-2024,80.4009891,119.4009891,Crocin,Chennai,Tamil Nadu,115.57,12,10,5,Summer
+06-04-2024,79.6649816,136.6649816,Crocin,Jaipur,Rajasthan,107.92,13,9,3,Summer
+07-04-2024,74.57412433,149.5741243,Crocin,Delhi,Delhi,114.18,16,8,2,Summer
+08-04-2024,76.3157157,120.3157157,Crocin,Lucknow,Uttar Pradesh,104.99,18,6,2,Summer
+09-04-2024,78.5604582,134.5604582,Crocin,Jaipur,Rajasthan,107.81,12,7,3,Summer
+10-04-2024,68.16803283,114.1680328,Crocin,Mumbai,Maharashtra,107.22,13,10,3,Summer
+11-04-2024,73.33549873,76.33549873,Crocin,Lucknow,Uttar Pradesh,107.03,13,8,0,Summer
+12-04-2024,79.95208551,140.9520855,Crocin,Kolkata,West Bengal,116.85,13,7,0,Summer
+13-04-2024,69.709315,160.709315,Crocin,Ahmedabad,Gujarat,109.63,18,6,2,Summer
+14-04-2024,77.44855177,174.4485518,Crocin,Ahmedabad,Gujarat,120.03,13,7,2,Summer
+15-04-2024,69.19785309,117.1978531,Crocin,Hyderabad,Telangana,106.76,13,5,3,Summer
+16-04-2024,78.31291203,158.312912,Crocin,Delhi,Delhi,110.99,17,7,1,Summer
+17-04-2024,75.8025547,135.8025547,Crocin,Mumbai,Maharashtra,116.65,15,5,2,Summer
+18-04-2024,67.90510303,162.905103,Crocin,Hyderabad,Telangana,106.75,16,6,2,Summer
+19-04-2024,81.80445889,177.8044589,Crocin,Mumbai,Maharashtra,120.27,12,4,2,Summer
+20-04-2024,72.30780423,108.3078042,Crocin,Ahmedabad,Gujarat,111.7,13,5,2,Summer
+21-04-2024,71.92949993,149.9294999,Crocin,Kolkata,West Bengal,97.04,12,5,2,Summer
+22-04-2024,76.9836081,153.9836081,Crocin,Jaipur,Rajasthan,116.69,16,9,3,Summer
+23-04-2024,81.72394886,106.7239489,Crocin,Kolkata,West Bengal,117.16,16,4,3,Summer
+24-04-2024,70.90165302,116.901653,Crocin,Kolkata,West Bengal,112.96,13,7,1,Summer
+25-04-2024,76.28916136,154.2891614,Crocin,Pune,Maharashtra,100.65,13,4,4,Summer
+26-04-2024,78.12484462,86.12484462,Crocin,Mumbai,Maharashtra,107.49,13,6,1,Summer
+27-04-2024,79.44629015,114.4462901,Crocin,Hyderabad,Telangana,108.46,11,6,1,Summer
+28-04-2024,76.86296989,162.8629699,Crocin,Mumbai,Maharashtra,105.99,12,2,2,Summer
+29-04-2024,74.14562292,121.1456229,Crocin,Kolkata,West Bengal,117.71,15,3,2,Summer
+30-04-2024,71.84281101,87.84281101,Crocin,Delhi,Delhi,107.94,12,4,3,Summer
+01-05-2024,65.43071942,153.4307194,Crocin,Mumbai,Maharashtra,109.62,14,3,2,Summer
+02-05-2024,59.63930494,133.6393049,Crocin,Mumbai,Maharashtra,110.16,11,6,4,Summer
+03-05-2024,50.39324758,73.39324758,Crocin,Delhi,Delhi,106.45,13,6,5,Summer
+04-05-2024,67.18279902,143.182799,Crocin,Lucknow,Uttar Pradesh,93.53,12,3,3,Summer
+05-05-2024,69.51967421,92.51967421,Crocin,Hyderabad,Telangana,107.77,11,6,3,Summer
+06-05-2024,53.18533782,66.18533782,Crocin,Mumbai,Maharashtra,97.34,15,5,1,Summer
+07-05-2024,59.95134648,137.9513465,Crocin,Pune,Maharashtra,109,15,5,3,Summer
+08-05-2024,68.09577131,150.0957713,Crocin,Ahmedabad,Gujarat,108.76,11,4,2,Summer
+09-05-2024,75.28747735,98.28747735,Crocin,Kolkata,West Bengal,113.08,13,6,2,Summer
+10-05-2024,65.10396854,163.1039685,Crocin,Jaipur,Rajasthan,98.41,13,9,2,Summer
+11-05-2024,61.35998529,107.3599853,Crocin,Delhi,Delhi,105.65,9,7,3,Summer
+12-05-2024,64.08551779,145.0855178,Crocin,Jaipur,Rajasthan,113.78,10,8,2,Summer
+13-05-2024,71.8743821,127.8743821,Crocin,Bangalore,Karnataka,118.25,15,2,3,Summer
+14-05-2024,61.7701791,141.7701791,Crocin,Bangalore,Karnataka,110.59,11,4,2,Summer
+15-05-2024,61.00403997,64.00403997,Crocin,Delhi,Delhi,99.92,15,6,4,Summer
+16-05-2024,62.58628239,160.5862824,Crocin,Chennai,Tamil Nadu,113.5,10,8,4,Summer
+17-05-2024,60.23335696,96.23335696,Crocin,Bangalore,Karnataka,109.82,14,6,4,Summer
+18-05-2024,65.61335158,81.61335158,Crocin,Delhi,Delhi,107.61,12,3,5,Summer
+19-05-2024,73.12339229,86.12339229,Crocin,Mumbai,Maharashtra,100.87,12,4,3,Summer
+20-05-2024,66.61539637,72.61539637,Crocin,Ahmedabad,Gujarat,113.17,16,6,4,Summer
+21-05-2024,63.73823249,156.7382325,Crocin,Mumbai,Maharashtra,104.04,10,5,5,Summer
+22-05-2024,63.54094366,160.5409437,Crocin,Ahmedabad,Gujarat,108.53,13,3,3,Summer
+23-05-2024,57.18404596,110.184046,Crocin,Mumbai,Maharashtra,104.54,13,4,2,Summer
+24-05-2024,69.41554889,145.4155489,Crocin,Mumbai,Maharashtra,116.69,19,5,3,Summer
+25-05-2024,64.61081401,92.61081401,Crocin,Mumbai,Maharashtra,106.17,10,3,5,Summer
+26-05-2024,64.09760043,86.09760043,Crocin,Hyderabad,Telangana,106.52,11,7,3,Summer
+27-05-2024,80.96553784,174.9655378,Crocin,Mumbai,Maharashtra,121.09,13,4,4,Summer
+28-05-2024,66.49376454,106.4937645,Crocin,Ahmedabad,Gujarat,103.91,11,5,3,Summer
+29-05-2024,61.24104475,80.24104475,Crocin,Chennai,Tamil Nadu,109.07,11,7,4,Summer
+30-05-2024,62.86821202,78.86821202,Crocin,Jaipur,Rajasthan,104.61,13,5,3,Summer
+31-05-2024,70.74222855,131.7422285,Crocin,Ahmedabad,Gujarat,103.59,11,7,3,Summer
+01-06-2024,50.56635205,144.5663521,Crocin,Ahmedabad,Gujarat,106.41,10,3,4,Summer
+02-06-2024,42.80861011,95.80861011,Crocin,Lucknow,Uttar Pradesh,106.46,13,6,4,Summer
+03-06-2024,54.59614467,97.59614467,Crocin,Bangalore,Karnataka,114.37,12,6,6,Summer
+04-06-2024,46.65927957,65.65927957,Crocin,Lucknow,Uttar Pradesh,111.77,11,3,5,Summer
+05-06-2024,59.36648888,102.3664889,Crocin,Ahmedabad,Gujarat,107.73,10,4,4,Summer
+06-06-2024,55.40024033,95.40024033,Crocin,Mumbai,Maharashtra,102.66,9,4,4,Summer
+07-06-2024,47.76339052,102.7633905,Crocin,Jaipur,Rajasthan,102.81,12,5,6,Summer
+08-06-2024,56.40508181,80.40508181,Crocin,Ahmedabad,Gujarat,101.69,10,6,5,Summer
+09-06-2024,50.33927755,124.3392776,Crocin,Delhi,Delhi,103.91,9,3,4,Summer
+10-06-2024,54.26386838,95.26386838,Crocin,Ahmedabad,Gujarat,104.69,8,4,5,Summer
+11-06-2024,52.42366409,81.42366409,Crocin,Delhi,Delhi,109.24,11,8,4,Summer
+12-06-2024,45.76821673,53.76821673,Crocin,Lucknow,Uttar Pradesh,91.77,9,7,6,Summer
+13-06-2024,46.78225084,82.78225084,Crocin,Mumbai,Maharashtra,99.33,6,6,6,Summer
+14-06-2024,55.14980409,61.14980409,Crocin,Delhi,Delhi,102.57,8,4,4,Summer
+15-06-2024,48.32612334,67.32612334,Crocin,Kolkata,West Bengal,109.34,10,9,7,Summer
+16-06-2024,47.98175768,98.98175768,Crocin,Bangalore,Karnataka,97.43,10,7,5,Summer
+17-06-2024,45.2243871,54.2243871,Crocin,Mumbai,Maharashtra,102.93,10,5,3,Summer
+18-06-2024,52.11799533,73.11799533,Crocin,Bangalore,Karnataka,103.76,9,5,6,Summer
+19-06-2024,60.3126246,115.3126246,Crocin,Mumbai,Maharashtra,112.82,7,4,3,Summer
+20-06-2024,44.66233543,128.6623354,Crocin,Pune,Maharashtra,104.18,8,5,7,Summer
+21-06-2024,50.12109728,97.12109728,Crocin,Lucknow,Uttar Pradesh,103.81,12,6,6,Summer
+22-06-2024,57.06110278,69.06110278,Crocin,Ahmedabad,Gujarat,103.03,12,6,6,Summer
+23-06-2024,49.60179304,64.60179304,Crocin,Chennai,Tamil Nadu,93.34,11,4,6,Summer
+24-06-2024,52.26185898,78.26185898,Crocin,Kolkata,West Bengal,104.84,10,2,6,Summer
+25-06-2024,44.68803236,109.6880324,Crocin,Pune,Maharashtra,103.05,11,5,5,Summer
+26-06-2024,52.14153549,136.1415355,Crocin,Jaipur,Rajasthan,95.33,7,6,6,Summer
+27-06-2024,49.06427867,132.0642787,Crocin,Bangalore,Karnataka,95.63,9,3,6,Summer
+28-06-2024,54.92864998,79.92864998,Crocin,Mumbai,Maharashtra,105.26,7,4,3,Summer
+29-06-2024,55.93693026,77.93693026,Crocin,Jaipur,Rajasthan,105.9,7,7,7,Summer
+30-06-2024,62.94781821,145.9478182,Crocin,Mumbai,Maharashtra,102.05,10,2,7,Summer
+01-07-2024,37.89816587,113.8981659,Crocin,Kolkata,West Bengal,99.93,11,4,7,Monsoon
+02-07-2024,36.62898158,89.62898158,Crocin,Pune,Maharashtra,93.02,8,8,7,Monsoon
+03-07-2024,35.97192151,122.9719215,Crocin,Delhi,Delhi,108.69,12,5,8,Monsoon
+04-07-2024,33.23416854,51.23416854,Crocin,Jaipur,Rajasthan,93.9,9,3,6,Monsoon
+05-07-2024,36.69241922,117.6924192,Crocin,Chennai,Tamil Nadu,104.31,7,5,6,Monsoon
+06-07-2024,33.52299295,132.5229929,Crocin,Kolkata,West Bengal,100.03,6,6,6,Monsoon
+07-07-2024,35.84230488,115.8423049,Crocin,Pune,Maharashtra,107.45,10,4,4,Monsoon
+08-07-2024,41.58798768,125.5879877,Crocin,Jaipur,Rajasthan,99.24,9,6,7,Monsoon
+09-07-2024,29.96728717,127.9672872,Crocin,Pune,Maharashtra,98.71,10,5,6,Monsoon
+10-07-2024,40.69939281,127.6993928,Crocin,Hyderabad,Telangana,94.11,3,5,4,Monsoon
+11-07-2024,41.58557534,107.5855753,Crocin,Ahmedabad,Gujarat,93.11,9,6,6,Monsoon
+12-07-2024,34.40965737,109.4096574,Crocin,Ahmedabad,Gujarat,102.78,7,4,6,Monsoon
+13-07-2024,24.3907255,72.3907255,Crocin,Chennai,Tamil Nadu,86.67,5,3,6,Monsoon
+14-07-2024,31.96089006,95.96089006,Crocin,Lucknow,Uttar Pradesh,97.26,8,6,7,Monsoon
+15-07-2024,41.48497273,110.4849727,Crocin,Lucknow,Uttar Pradesh,107.26,10,4,5,Monsoon
+16-07-2024,34.88565969,59.88565969,Crocin,Bangalore,Karnataka,103.13,12,4,7,Monsoon
+17-07-2024,30.00348884,82.00348884,Crocin,Lucknow,Uttar Pradesh,93.88,8,6,7,Monsoon
+18-07-2024,32.47612539,44.47612539,Crocin,Hyderabad,Telangana,90.26,6,7,8,Monsoon
+19-07-2024,39.20310013,50.20310013,Crocin,Pune,Maharashtra,103.15,6,4,6,Monsoon
+20-07-2024,37.73366784,126.7336678,Crocin,Jaipur,Rajasthan,106.71,9,5,7,Monsoon
+21-07-2024,33.8053395,36.8053395,Crocin,Kolkata,West Bengal,94.89,5,2,5,Monsoon
+22-07-2024,33.16587794,54.16587794,Crocin,Delhi,Delhi,93.78,8,4,6,Monsoon
+23-07-2024,33.04120925,75.04120925,Crocin,Lucknow,Uttar Pradesh,94.98,8,5,5,Monsoon
+24-07-2024,30.38794908,98.38794908,Crocin,Mumbai,Maharashtra,99.46,7,5,7,Monsoon
+25-07-2024,43.07687845,103.0768784,Crocin,Pune,Maharashtra,107.54,4,4,5,Monsoon
+26-07-2024,33.38839765,84.38839765,Crocin,Lucknow,Uttar Pradesh,91.2,6,6,6,Monsoon
+27-07-2024,41.0857926,60.0857926,Crocin,Bangalore,Karnataka,92.91,4,5,6,Monsoon
+28-07-2024,42.60658026,126.6065803,Crocin,Bangalore,Karnataka,112.5,6,10,6,Monsoon
+29-07-2024,39.99155449,76.99155449,Crocin,Pune,Maharashtra,98.91,8,5,5,Monsoon
+30-07-2024,32.84189844,63.84189844,Crocin,Hyderabad,Telangana,98.06,9,0,8,Monsoon
+31-07-2024,37.01865045,44.01865045,Crocin,Chennai,Tamil Nadu,94.74,7,3,6,Monsoon
+01-08-2024,23.89825985,80.89825985,Crocin,Delhi,Delhi,99.85,5,6,8,Monsoon
+02-08-2024,19.50072858,79.50072858,Crocin,Bangalore,Karnataka,100.2,10,4,5,Monsoon
+03-08-2024,25.6410343,34.6410343,Crocin,Pune,Maharashtra,99.3,5,4,6,Monsoon
+04-08-2024,18.12403893,78.12403893,Crocin,Kolkata,West Bengal,103.3,4,3,6,Monsoon
+05-08-2024,29.95763483,52.95763483,Crocin,Chennai,Tamil Nadu,97.57,8,4,7,Monsoon
+06-08-2024,21.6961514,27.6961514,Crocin,Mumbai,Maharashtra,94.49,7,6,8,Monsoon
+07-08-2024,25.02503617,52.02503617,Crocin,Kolkata,West Bengal,98.36,5,6,5,Monsoon
+08-08-2024,25.43567724,124.4356772,Crocin,Pune,Maharashtra,99.52,6,3,5,Monsoon
+09-08-2024,22.72471302,111.724713,Crocin,Mumbai,Maharashtra,97.14,7,7,6,Monsoon
+10-08-2024,26.95270689,111.9527069,Crocin,Hyderabad,Telangana,91.18,6,3,7,Monsoon
+11-08-2024,21.6447196,100.6447196,Crocin,Pune,Maharashtra,96.96,7,6,6,Monsoon
+12-08-2024,28.37572437,33.37572437,Crocin,Hyderabad,Telangana,96.13,5,6,6,Monsoon
+13-08-2024,17.28933949,49.28933949,Crocin,Pune,Maharashtra,90.5,7,4,7,Monsoon
+14-08-2024,24.65113578,55.65113578,Crocin,Mumbai,Maharashtra,96.36,6,3,7,Monsoon
+15-08-2024,33.71388288,126.7138829,Crocin,Hyderabad,Telangana,94.99,5,6,6,Monsoon
+16-08-2024,19.01758126,24.01758126,Crocin,Ahmedabad,Gujarat,88.12,5,5,6,Monsoon
+17-08-2024,20.63051303,39.63051303,Crocin,Delhi,Delhi,81.32,5,5,7,Monsoon
+18-08-2024,26.58877713,87.58877713,Crocin,Kolkata,West Bengal,105.54,3,7,4,Monsoon
+19-08-2024,24.9171468,117.9171468,Crocin,Mumbai,Maharashtra,98.78,4,7,7,Monsoon
+20-08-2024,25.77238838,31.77238838,Crocin,Mumbai,Maharashtra,95.62,5,4,6,Monsoon
+21-08-2024,26.46517354,54.46517354,Crocin,Ahmedabad,Gujarat,93.06,3,6,5,Monsoon
+22-08-2024,27.19284523,106.1928452,Crocin,Lucknow,Uttar Pradesh,82.22,4,4,6,Monsoon
+23-08-2024,29.5677371,58.5677371,Crocin,Jaipur,Rajasthan,93.96,10,8,5,Monsoon
+24-08-2024,26.06833117,88.06833117,Crocin,Bangalore,Karnataka,99.58,3,9,5,Monsoon
+25-08-2024,22.81294961,99.81294961,Crocin,Delhi,Delhi,99.51,4,4,5,Monsoon
+26-08-2024,27.38210639,55.38210639,Crocin,Kolkata,West Bengal,99.61,3,6,6,Monsoon
+27-08-2024,33.51864756,132.5186476,Crocin,Jaipur,Rajasthan,99.59,5,8,4,Monsoon
+28-08-2024,23.35606915,72.35606915,Crocin,Jaipur,Rajasthan,101.32,3,6,6,Monsoon
+29-08-2024,19.14659136,33.14659136,Crocin,Ahmedabad,Gujarat,91.36,4,7,4,Monsoon
+30-08-2024,29.55464123,102.5546412,Crocin,Hyderabad,Telangana,102.63,3,6,5,Monsoon
+31-08-2024,23.41733207,70.41733207,Crocin,Chennai,Tamil Nadu,92.68,7,4,4,Monsoon
+01-09-2024,9.13665227,13.13665227,Crocin,Chennai,Tamil Nadu,85.99,5,7,3,Winter
+02-09-2024,24.23710839,50.23710839,Crocin,Kolkata,West Bengal,91.37,3,9,4,Winter
+03-09-2024,17.32335907,41.32335907,Crocin,Chennai,Tamil Nadu,88.28,6,7,5,Winter
+04-09-2024,19.54733359,102.5473336,Crocin,Bangalore,Karnataka,97.9,3,10,4,Winter
+05-09-2024,21.65990165,56.65990165,Crocin,Mumbai,Maharashtra,91.69,2,3,5,Winter
+06-09-2024,20.9524984,71.9524984,Crocin,Mumbai,Maharashtra,89.83,5,7,3,Winter
+07-09-2024,23.54725909,28.54725909,Crocin,Chennai,Tamil Nadu,99.57,8,5,5,Winter
+08-09-2024,17.82256815,21.82256815,Crocin,Chennai,Tamil Nadu,95.44,1,5,4,Winter
+09-09-2024,22.56552899,97.56552899,Crocin,Bangalore,Karnataka,100.41,2,9,4,Winter
+10-09-2024,18.70226661,51.70226661,Crocin,Mumbai,Maharashtra,96.56,6,6,3,Winter
+11-09-2024,23.6940524,62.6940524,Crocin,Delhi,Delhi,92.23,3,6,4,Winter
+12-09-2024,23.07683742,122.0768374,Crocin,Kolkata,West Bengal,96.18,6,8,3,Winter
+13-09-2024,15.32280649,107.3228065,Crocin,Hyderabad,Telangana,93.23,3,3,3,Winter
+14-09-2024,25.42991058,29.42991058,Crocin,Ahmedabad,Gujarat,92,5,10,3,Winter
+15-09-2024,17.32018277,110.3201828,Crocin,Bangalore,Karnataka,87.88,8,11,3,Winter
+16-09-2024,24.04028899,73.04028899,Crocin,Hyderabad,Telangana,92.8,2,9,4,Winter
+17-09-2024,21.83643657,64.83643657,Crocin,Kolkata,West Bengal,105.38,7,8,1,Winter
+18-09-2024,29.19091838,92.19091838,Crocin,Mumbai,Maharashtra,96.14,6,7,3,Winter
+19-09-2024,18.88267009,42.88267009,Crocin,Jaipur,Rajasthan,100.16,2,5,3,Winter
+20-09-2024,18.25341602,117.253416,Crocin,Delhi,Delhi,91.46,6,10,3,Winter
+21-09-2024,19.90290197,56.90290197,Crocin,Hyderabad,Telangana,99.04,5,9,3,Winter
+22-09-2024,18.48410109,111.4841011,Crocin,Bangalore,Karnataka,98.51,5,8,4,Winter
+23-09-2024,23.99970951,70.99970951,Crocin,Pune,Maharashtra,100.96,5,8,3,Winter
+24-09-2024,11.91844696,41.91844696,Crocin,Bangalore,Karnataka,93.34,4,8,3,Winter
+25-09-2024,14.7315879,93.7315879,Crocin,Kolkata,West Bengal,99.49,5,7,4,Winter
+26-09-2024,14.66098539,61.66098539,Crocin,Kolkata,West Bengal,94.49,5,13,3,Winter
+27-09-2024,24.75153796,89.75153796,Crocin,Pune,Maharashtra,105.17,6,7,2,Winter
+28-09-2024,28.55306686,88.55306686,Crocin,Bangalore,Karnataka,90.1,1,7,2,Winter
+29-09-2024,19.47775391,100.4777539,Crocin,Chennai,Tamil Nadu,96.34,7,10,3,Winter
+30-09-2024,19.15589138,59.15589138,Crocin,Bangalore,Karnataka,95.82,2,8,1,Winter
+01-10-2024,24.3694987,29.3694987,Crocin,Hyderabad,Telangana,90.32,6,8,2,Winter
+02-10-2024,29.8286294,102.8286294,Crocin,Kolkata,West Bengal,100.1,5,11,3,Winter
+03-10-2024,19.38247222,52.38247222,Crocin,Delhi,Delhi,85.55,2,9,5,Winter
+04-10-2024,25.2110828,32.2110828,Crocin,Chennai,Tamil Nadu,92.13,6,10,3,Winter
+05-10-2024,28.89522604,110.895226,Crocin,Delhi,Delhi,87,3,5,3,Winter
+06-10-2024,26.52470874,68.52470874,Crocin,Lucknow,Uttar Pradesh,103.99,7,9,4,Winter
+07-10-2024,24.96714597,79.96714597,Crocin,Bangalore,Karnataka,94.44,3,6,3,Winter
+08-10-2024,29.02446835,70.02446835,Crocin,Ahmedabad,Gujarat,108.03,2,7,3,Winter
+09-10-2024,10.50307642,62.50307642,Crocin,Mumbai,Maharashtra,93.81,8,9,2,Winter
+10-10-2024,27.40861448,34.40861448,Crocin,Lucknow,Uttar Pradesh,99.04,5,8,1,Winter
+11-10-2024,20.74885947,64.74885947,Crocin,Jaipur,Rajasthan,91.27,6,10,3,Winter
+12-10-2024,14.8660734,94.8660734,Crocin,Bangalore,Karnataka,86.57,3,10,4,Winter
+13-10-2024,26.57525088,52.57525088,Crocin,Mumbai,Maharashtra,99.21,1,10,4,Winter
+14-10-2024,30.88753061,95.88753061,Crocin,Delhi,Delhi,98.04,8,6,3,Winter
+15-10-2024,23.33199531,29.33199531,Crocin,Delhi,Delhi,88.7,5,13,2,Winter
+16-10-2024,28.78361062,55.78361062,Crocin,Hyderabad,Telangana,90.22,6,9,1,Winter
+17-10-2024,32.08062918,85.08062918,Crocin,Mumbai,Maharashtra,94.41,6,11,2,Winter
+18-10-2024,30.59381015,83.59381015,Crocin,Lucknow,Uttar Pradesh,107.7,4,4,3,Winter
+19-10-2024,32.21906053,51.21906053,Crocin,Pune,Maharashtra,110.47,5,8,2,Winter
+20-10-2024,27.72987534,84.72987534,Crocin,Pune,Maharashtra,98.62,8,6,4,Winter
+21-10-2024,24.39640608,26.39640608,Crocin,Hyderabad,Telangana,97.14,5,7,1,Winter
+22-10-2024,16.00940883,101.0094088,Crocin,Bangalore,Karnataka,91.52,7,9,2,Winter
+23-10-2024,22.78892545,36.78892545,Crocin,Ahmedabad,Gujarat,91.33,1,8,2,Winter
+24-10-2024,19.80300491,61.80300491,Crocin,Chennai,Tamil Nadu,101.88,7,12,4,Winter
+25-10-2024,34.87395147,129.8739515,Crocin,Ahmedabad,Gujarat,110.37,2,13,3,Winter
+26-10-2024,23.13980882,50.13980882,Crocin,Pune,Maharashtra,91.93,7,7,2,Winter
+27-10-2024,24.63526192,59.63526192,Crocin,Delhi,Delhi,96.79,6,8,4,Winter
+28-10-2024,26.77666477,119.7766648,Crocin,Mumbai,Maharashtra,95.95,5,7,1,Winter
+29-10-2024,24.23725012,60.23725012,Crocin,Hyderabad,Telangana,95.1,5,12,1,Winter
+30-10-2024,32.49449309,106.4944931,Crocin,Delhi,Delhi,106.53,5,10,2,Winter
+31-10-2024,20.90599108,29.90599108,Crocin,Jaipur,Rajasthan,89.64,4,9,1,Winter
+01-11-2024,35.97303728,128.9730373,Crocin,Hyderabad,Telangana,100.33,5,10,3,Winter
+02-11-2024,31.28764707,57.28764707,Crocin,Ahmedabad,Gujarat,99.84,10,9,3,Winter
+03-11-2024,28.39988744,68.39988744,Crocin,Delhi,Delhi,94.49,8,8,3,Winter
+04-11-2024,31.94115455,40.94115455,Crocin,Bangalore,Karnataka,101.27,4,10,4,Winter
+05-11-2024,34.81481601,42.81481601,Crocin,Lucknow,Uttar Pradesh,98.74,6,9,2,Winter
+06-11-2024,32.85348888,56.85348888,Crocin,Pune,Maharashtra,103.49,6,10,2,Winter
+07-11-2024,31.5378951,62.5378951,Crocin,Ahmedabad,Gujarat,89.39,6,6,2,Winter
+08-11-2024,27.96841268,100.9684127,Crocin,Chennai,Tamil Nadu,93.86,4,10,2,Winter
+09-11-2024,34.58447214,69.58447214,Crocin,Lucknow,Uttar Pradesh,98.04,7,8,3,Winter
+10-11-2024,27.47639813,47.47639813,Crocin,Ahmedabad,Gujarat,82.44,8,10,4,Winter
+11-11-2024,38.80027982,138.8002798,Crocin,Chennai,Tamil Nadu,94.97,5,12,2,Winter
+12-11-2024,35.41219876,95.41219876,Crocin,Mumbai,Maharashtra,95.13,10,9,3,Winter
+13-11-2024,27.7122425,51.7122425,Crocin,Lucknow,Uttar Pradesh,101.14,9,12,4,Winter
+14-11-2024,33.45395461,54.45395461,Crocin,Ahmedabad,Gujarat,95.27,7,6,5,Winter
+15-11-2024,31.23921797,111.239218,Crocin,Hyderabad,Telangana,93.91,4,13,3,Winter
+16-11-2024,36.59587255,125.5958726,Crocin,Delhi,Delhi,104.49,7,12,6,Winter
+17-11-2024,41.70225223,66.70225223,Crocin,Chennai,Tamil Nadu,94.51,7,8,3,Winter
+18-11-2024,25.62413765,90.62413765,Crocin,Delhi,Delhi,85.84,8,8,4,Winter
+19-11-2024,35.5751304,116.5751304,Crocin,Kolkata,West Bengal,98.59,10,7,3,Winter
+20-11-2024,34.19933602,39.19933602,Crocin,Pune,Maharashtra,92.76,6,12,4,Winter
+21-11-2024,38.35670038,124.3567004,Crocin,Delhi,Delhi,94.75,11,9,7,Winter
+22-11-2024,36.06598314,67.06598314,Crocin,Jaipur,Rajasthan,104.07,8,9,6,Winter
+23-11-2024,31.24015334,48.24015334,Crocin,Pune,Maharashtra,103.78,6,8,5,Winter
+24-11-2024,33.40473032,36.40473032,Crocin,Hyderabad,Telangana,104.34,12,14,4,Winter
+25-11-2024,31.01987072,105.0198707,Crocin,Jaipur,Rajasthan,105.14,9,8,4,Winter
+26-11-2024,40.38003569,50.38003569,Crocin,Jaipur,Rajasthan,109.81,6,10,5,Winter
+27-11-2024,35.10655824,92.10655824,Crocin,Mumbai,Maharashtra,90.96,8,11,5,Winter
+28-11-2024,44.50595343,46.50595343,Crocin,Pune,Maharashtra,107.85,9,9,5,Winter
+29-11-2024,34.69669593,94.69669593,Crocin,Kolkata,West Bengal,99.15,7,9,5,Winter
+30-11-2024,31.45796617,36.45796617,Crocin,Pune,Maharashtra,96.86,8,10,6,Winter
+01-12-2024,42.43142804,82.43142804,Crocin,Chennai,Tamil Nadu,102,6,11,6,Winter
+02-12-2024,40.98430162,54.98430162,Crocin,Lucknow,Uttar Pradesh,90.15,4,10,3,Winter
+03-12-2024,42.07932028,90.07932028,Crocin,Hyderabad,Telangana,90.64,8,14,5,Winter
+04-12-2024,51.33563326,129.3356333,Crocin,Kolkata,West Bengal,106.57,8,9,5,Winter
+05-12-2024,52.54362512,85.54362512,Crocin,Jaipur,Rajasthan,106.44,9,12,4,Winter
+06-12-2024,42.09404649,83.09404649,Crocin,Lucknow,Uttar Pradesh,100.68,7,7,6,Winter
+07-12-2024,54.47519157,151.4751916,Crocin,Jaipur,Rajasthan,100.8,5,9,5,Winter
+08-12-2024,47.58469474,57.58469474,Crocin,Ahmedabad,Gujarat,106.32,6,9,6,Winter
+09-12-2024,50.73396506,60.73396506,Crocin,Mumbai,Maharashtra,107.4,10,8,5,Winter
+10-12-2024,58.06110314,60.06110314,Crocin,Kolkata,West Bengal,107.63,7,11,6,Winter
+11-12-2024,54.48419658,59.48419658,Crocin,Jaipur,Rajasthan,100.11,8,10,6,Winter
+12-12-2024,48.65734676,101.6573468,Crocin,Bangalore,Karnataka,101.67,8,6,7,Winter
+13-12-2024,45.54403887,86.54403887,Crocin,Mumbai,Maharashtra,106.99,7,14,6,Winter
+14-12-2024,39.24092299,115.240923,Crocin,Bangalore,Karnataka,107.04,7,11,5,Winter
+15-12-2024,46.4042334,116.4042334,Crocin,Chennai,Tamil Nadu,101.77,7,10,5,Winter
+16-12-2024,48.94434881,106.9443488,Crocin,Delhi,Delhi,103.35,12,13,5,Winter
+17-12-2024,45.06410236,73.06410236,Crocin,Mumbai,Maharashtra,102.39,10,12,6,Winter
+18-12-2024,49.34371516,140.3437152,Crocin,Chennai,Tamil Nadu,106.57,12,10,5,Winter
+19-12-2024,50.38425941,105.3842594,Crocin,Mumbai,Maharashtra,102.89,12,7,6,Winter
+20-12-2024,48.87572009,68.87572009,Crocin,Kolkata,West Bengal,90.93,5,12,7,Winter
+21-12-2024,46.7499871,71.7499871,Crocin,Jaipur,Rajasthan,110.76,10,9,7,Winter
+22-12-2024,50.84327336,69.84327336,Crocin,Lucknow,Uttar Pradesh,115.57,8,13,4,Winter
+23-12-2024,52.20970325,96.20970325,Crocin,Ahmedabad,Gujarat,104.14,12,9,4,Winter

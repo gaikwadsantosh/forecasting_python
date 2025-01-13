@@ -1,0 +1,2 @@
+transactiondate,sales_volume,stock_level,medication_name,pharmacy_location,state,price_per_unit,flu_cases,diarrhea_cases,injury_reports,season
+25-12-2019,4.96714153,7.96714153,Betadine,Jaipur,Rajasthan,71.97,11,8,7,Winter
